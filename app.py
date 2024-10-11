@@ -1,8 +1,9 @@
 import os
-#run pip install requests, pip install flask and pip install beautifulsoup4
+#run pip install requests, pip install flask, pip install pdfplumber and pip install beautifulsoup4
 import requests
 from flask import Flask, render_template, request, redirect, url_for
 from bs4 import BeautifulSoup
+import pdfplumber
 
 app = Flask(__name__)
 
@@ -23,6 +24,14 @@ def get_pdf_link(act_url):
 
 def download_pdf(pdf_url, save_directory):
         pass
+
+def extract_text_from_pdf(pdf_path):
+    with pdfplumber.open(pdf_path) as pdf:
+        full_text = ""
+        for page in pdf.pages:
+            text = page.extract_text()
+            full_text += text if text else ""
+    return full_text
 
 @app.route('/')
 def index():
