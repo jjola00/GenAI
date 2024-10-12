@@ -20,12 +20,18 @@ body {
     top: 0;
     left: 0;
     z-index: 1000;
+    place-items: center;
 }
-
+/* Styling for logo image*/
+.top-bar img{
+    width: 80px; /* Ensures the image fills the set width */
+    height: 80px; /* Ensures the image fills the set height */
+}
 /* Logo in the top bar */
 .logo {
     font-size: 24px;
     font-weight: bold;
+    left: 50%;
 }
 
 /* Styling for the message display section */
