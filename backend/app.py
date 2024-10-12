@@ -1,6 +1,7 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, jsonify, request
 from api_client import get_legal_advice
 from utils import validate_input
+import lawyerFinder
 
 app = Flask(__name__)
 
@@ -18,6 +19,16 @@ def GetResponse(inp):
         return response
     else:
         return "Invalid input. Please try again."
+@app.route('/generate/<inp>')
+def generate(inp):
+    response = GetResponse(inp)
+    return response
+
+@app.route('/get/lawyers/<tags>')
+def GetAllLawyersWithTags(tags):
+    client = lawyerFinder.LawyerFinder(tags)
+    client.saveLawyersWithCorrectTags()
+    return jsonify(client.lawyers)
 
 def main():
     user_input = input("Please enter your legal question: ")
