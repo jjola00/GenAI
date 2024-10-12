@@ -24,16 +24,12 @@ class LawyerFinder:
     def GetLawyerLink(self, lawyer):
         return lawyer[3]
 
-    # Gets all the tags associated with a lawyer.
-    def getTagsInEntry(self, entry):
-        return entry[2].split(',')
-
     # Saves lawyers which has the same tags as self.searchTags
     def saveLawyersWithCorrectTags(self):
         with open('data/lawyers.csv', mode ='r')as file:
             csvFile = csv.reader(file)
             for line in csvFile:
-                tagsInEntry = self.getTagsInEntry(line)
+                tagsInEntry = line[2]
                 if self.isTagOverlap(tagsInEntry):
                     self.lawyers = self.lawyers + [line]
 

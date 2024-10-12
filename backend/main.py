@@ -40,6 +40,8 @@ def submit_query():
     else:
         return render_template('results.html', error="No matching laws found.")
 
+user_input = ""
+
 def main():
     if os.getenv('FLASK_ENV') == 'development':
         app.run(debug=True)
@@ -51,5 +53,18 @@ def main():
         else:
             print("No matching laws found.")
 
+def GetResponse(inp):
+    user_input = inp
+    
+    # Validate user input
+    if validate_input(user_input):
+        response = get_legal_advice(user_input)
+        #print("Response:", response)
+        return response
+    else:
+        #print("Invalid input. Please try again.")
+        return "Invalid input. Please try again."
+
 if __name__ == "__main__":
-    main()
+    #main()
+    pass
