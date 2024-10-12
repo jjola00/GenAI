@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+    <link rel="stylesheet" href="ChatPage.css">
+</head>
+<body>
+
+    <!-- Top bar with centered logo -->
+    <div class="top-bar">
+        <div class="logo">My Logo</div>
+    </div>
+
+    <!-- Section where messages will be displayed -->
+    <div id="message-display">
+        <!-- Submitted messages will be shown here -->
+    </div>
+
+    <!-- Bottom bar with search input -->
+    <div class="bottom-bar">
+        <textarea type="text" id="searchInput" placeholder="Type your message here..." aria-label="Search"></textarea>
+        <button type="submit" onclick="submitSearch()">
+            <img src="images/send-image.png" alt="Send">
+        </button>
+    </div>
+
+    <!-- JavaScript to handle the search submission -->
+    <script>
+        // Function to automatically resize the textarea
+        document.getElementById('searchInput').addEventListener('input', function () {
+            this.style.height = 'auto'; // Reset the height first to get accurate scrollHeight
+            this.style.height = this.scrollHeight + 'px'; // Set new height based on content
+        });
+        function submitSearch() {
+            // Get the value from the search input field
+            const message = document.getElementById('searchInput').value;
+
+            // Create a new paragraph element to display the message
+            const messageElement = document.createElement('p');
+            messageElement.textContent = message;
+
+            // Append the new message to the display area
+            document.getElementById('message-display').appendChild(messageElement);
+
+            // Clear the input field after submission
+            document.getElementById('searchInput').value = '';
+            document.getElementById('searchInput').style.height = 'auto'; // Reset textarea height
+        }
+        document.getElementById('searchInput').addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') { // Check if the Enter key was pressed
+                event.preventDefault();   // Prevent the default form submission behavior
+                submitSearch();           // Call the submitSearch function
+            }
+        });
+    </script>
+
+</body>
+</html>

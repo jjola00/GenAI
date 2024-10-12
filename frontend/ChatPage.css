@@ -1,0 +1,97 @@
+/* General body styling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-between;
+}
+
+/* Styling for the top bar */
+.top-bar {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+/* Logo in the top bar */
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Styling for the message display section */
+#message-display {
+    margin-top: 70px; /* Space for the top bar */
+    padding: 20px;
+    min-height: 100px;
+}
+
+/* Styling for the bottom bar */
+.bottom-bar {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+
+/* Textarea styling */
+.bottom-bar textarea {
+    padding: 10px;
+    width: 300px;
+    border: none;
+    border-radius: 4px;
+    resize: none; /* Prevent manual resizing */
+    overflow: hidden; /* Hide scrollbar */
+    min-height: 40px; /* Set minimum height */
+    max-height: 200px; /* Optional: Set a maximum height if desired */
+    font-size: 16px;
+}
+
+/* Submit button styling */
+.bottom-bar button {
+    padding: 0; /* Remove all padding */
+    background-color: white;
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto; /* Button will resize to fit the image */
+    height: auto; /* Button will resize to fit the image */
+}
+/* Make the button look clicked */
+.bottom-bar button:active {
+    transform: scale(0.95); /* Slightly shrink the button to mimic a press */
+    background-color: #ddd; /* Optional: change the background color on click */
+    border-radius: 4px; /* Optional: add some rounded corners when clicked */
+}
+.bottom-bar button img{
+    width: 30px; /* Ensures the image fills the button's width */
+    height: 30px; /* Ensures the image fills the button's height */
+    object-fit: contain; /* Ensures the image fits within the button without distortion */
+    display: block;
+}
+
+/* Add some spacing for the messages */
+#message-display p {
+    margin: 10px 0;
+    font-size: 16px;
+    word-wrap: break-word; /* Ensure long messages break onto new lines */
+    overflow-wrap: break-word; /* Ensure continuous text breaks properly */
+    white-space: normal; /* Text wraps onto new lines naturally */
+}
