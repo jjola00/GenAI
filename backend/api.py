@@ -1,10 +1,10 @@
-from flask import Flask
+from flask import Flask, render_template
 from flask import jsonify
 import app as legalAdvice
 import lawyerFinder
 
 app = Flask(__name__)
-
+    
 @app.route('/generate/<inp>')
 def generate(inp):
     response = legalAdvice.GetResponse(inp)
