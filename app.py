@@ -1,13 +1,10 @@
 import os
 from flask import Flask, render_template, request
 import spacy
-<<<<<<< HEAD:app.py
 from backend.scraper import scrape_statute 
-=======
 from scraper import scrape_statute 
 from api_client import get_legal_advice
 from utils import validate_input
->>>>>>> e84f8b75f7ac8c92ad8478abe6615d603293814c:backend/main.py
 
 app = Flask(__name__)
 nlp = spacy.load("en_core_web_sm")
