@@ -1,0 +1,869 @@
+————————
+Number 8of2009
+————————
+LEGAL SERVICES OMBUDSMAN ACT 2009
+————————
+ARRANGEMENT OF SECTIONS
+PART 1
+Preliminary and General
+Section
+1. Short title and commencement.
+2. Interpretation.3. Expenses.
+PART 2
+Establishment, Role and Accountability of Office of Legal
+Services Ombudsman
+4. Establishment of office of Legal Services Ombudsman.
+5. Appointment of Legal Services Ombudsman.6. Period of office, resignation and removal from office.7. Salary and superannuation.
+8. Restriction on engaging in other employment.9. Functions and powers.
+10. Independence of Legal Services Ombudsman.11. Staff.12. Advances by Minister to Legal Services Ombudsman.13. Accounts and audit.14. Various reports by Legal Services Ombudsman.15. Annual report on admission policies of legal professions.16. Appearance before Committee of Da ´il E´ireann established
+to examine, etc., appropriation accounts, etc.
+12[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+17. Appearance before other committees of Houses of
+Oireachtas.
+18. Privilege in respect of certain matters.
+PART 3
+Imposition of Levy on Professional Bodies to Cover Approved
+Expenses of Legal Services Ombudsman
+19. Levy to be paid by Bar Council and Law Society.
+20. Regulations relating to levy.
+PART 4
+Complaints and Reviews
+21. Making of complaints.
+22. Investigations of complaints.23. Procedures for dealing with complaints to Legal Services
+Ombudsman.
+24. Opportunity to make submissions.25. Investigations to be conducted in private.26. Power to require provision of information.27. Obstruction of Legal Services Ombudsman.
+28. Power to issue directions or make recommendations follow-
+ing investigation.
+29. Duty to notify complainant and others of results, directions
+and recommendations.
+30. Enforcement of directions of Legal Services Ombudsman.31. Legal Services Ombudsman may refer question of law to
+High Court.
+32. Review of procedures of Bar Council and Law Society for
+dealing with complaints.
+33. Duties of Bar Council and Law Society to keep and
+produce records.
+34. Legal proceedings against Legal Services Ombudsman.35. Confidentiality of information.
+PART 5
+Consequential Amendments and Transitional Provisions
+36. Amendment of Freedom of Information Act 1997.[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+37. Repeal of section 15 of the Solicitors (Amendment) Act
+1994.
+38. Revocation of Solicitors (Adjudicator) Regulations 1997 and
+Solicitors (Adjudicator) (Amendment) Regulations2005 and transitional provisions in relation thereto.
+————————
+Acts Referred to
+Comptroller and Auditor General (Amendment) Act 1993 1993, No. 8
+Civil Law (Miscellaneous Provisions) Act 2008 2008, No. 14European Parliament Elections Act 1997 1997, No. 2Freedom of Information Act 1997 1997, No. 13Local Government Act 2001 2001, No. 37Pensions Act 1990 1990, No. 25Petty Sessions (Ireland) Act 1851 14 & 15 Vic., c. 93Social Welfare (Miscellaneous Provisions) Act 2003 2003, No. 4Solicitors Acts 1954 to 2008Solicitors (Amendment) Act 1960 1960, No. 37Solicitors (Amendment) Act 1994 1994, No. 27Solicitors (Amendment) Act 2002 2002, No. 19
+34————————
+Number 8of2009
+————————
+LEGAL SERVICES OMBUDSMAN ACT 2009
+————————
+AN ACT TO PROVIDE FOR THE APPOINTMENT AND
+FUNCTIONS OF A LEGAL SERVICES OMBUDSMAN;AND TO PROVIDE FOR RELATED MATTERS.
+[10th March , 2009]
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+PART 1
+Preliminary and General
+1.—(1) This Act may be cited as the Legal Services Ombudsman
+Act 2009.
+(2) This Act shall come into operation on such day or days as the
+Minister may appoint by order or orders either generally or withreference to any particular purpose or provision, and different daysmay be so appointed for different purposes and for differentprovisions.
+2.—In this Act, unless the context otherwise requires—
+“Bar Council” means the General Council of the Bar of Ireland;“barrister” includes a pupil as defined in the Disciplinary Code and a
+registered lawyer within the meaning of the European Communities(Lawyers’ Establishment) Regulations 2003 (S.I. No. 732 of 2003)who is pursuing the professional activities of a barrister in the State,but does not include a visiting lawyer within the meaning of theEuropean Communities (Freedom to Provide Services) (Lawyers)Regulations 1979 (S.I. No. 58 of 1979) who is pursuing the pro-fessional activities of a barrister in the State;
+“Barristers’ Professional Conduct Tribunal” means the body of that
+name constituted in accordance with the Disciplinary Code;
+“Code of Conduct” means the Code of Conduct for the Bar of
+Ireland;
+“Compensation Fund” means the fund maintained by the Law
+Society pursuant to section 21 (inserted by section 29 of the Solicitors(Amendment) Act 1994) of the Solicitors (Amendment) Act 1960;
+5Short title and
+commencement.
+Interpretation.Pt.1 S.2
+6[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+“complainant” means a person who makes a complaint on the per-
+son’s own behalf or on behalf of another person;
+“complaint” means a complaint made to the Legal Services Ombuds-
+man under subsection (1) ,(2)or(3)ofsection 21 ;
+“Disciplinary Code” means the Disciplinary Code for the Bar of
+Ireland;
+“financial year” means—
+(a) the period from the date of commencement of section 4 to
+31 December next following that date, and
+(b) thereafter every period of 12 months ending on 31
+December;
+“grant” means a grant under subsection (4) of section 21 (inserted by
+section 29 of the Solicitors (Amendment) Act 1994) of the Solicitors(Amendment) Act 1960 out of the Compensation Fund;
+“Law Society” means the Law Society of Ireland;“levy assessment notice” shall be construed in accordance with
+section 19 ;
+“local authority” has the same meaning as it has in the Local Govern-
+ment Act 2001;
+“Minister” means the Minister for Justice, Equality and Law Reform;“misconduct”—
+(a) in relation to a complaint against a barrister, has the same
+meaning as in the Disciplinary Code as construed in con-junction with the Code of Conduct, and
+(b) in relation to a complaint against a solicitor, has the same
+meaning as in section 3 (amended by section 7 of theSolicitors (Amendment) Act 2002) of the Solicitors(Amendment) Act 1960,
+and in either case includes alleged misconduct;“professional body” means the Bar Council or the Law Society;“Professional Conduct Appeals Board” means the body of that name
+constituted in accordance with the Disciplinary Code;
+“related complaint”, in relation to a complaint (in this definition
+referred to as the “complaint to the Legal Services Ombudsman”),means—
+(a) the complaint to the Bar Council referred to in section
+21(1) the handling of which by the Barristers Professional
+Conduct Tribunal or, in the case of an appeal against adecision of the Tribunal in respect of the complaint, theProfessional Conduct Appeals Board, is the ground forthe making of the complaint to the Legal ServicesOmbudsman, or[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+(b) the complaint to the Law Society referred to in section
+21(2) the handling of which by the Law Society is the
+ground for the making of the complaint to the LegalServices Ombudsman;
+“solicitor” includes a registered lawyer within the meaning of the
+European Communities (Lawyers’ Establishment) Regulations 2003(S.I. No. 732 of 2003) who is pursuing the professional activities of asolicitor in the State, but does not include—
+(a) an apprentice solicitor, or
+(b) a visiting lawyer within the meaning of the European
+Communities (Freedom to Provide Services) (Lawyers)Regulations 1979 (S.I. No. 58 of 1979) who is pursuingthe professional activities of a solicitor in the State;
+“Solicitors Disciplinary Tribunal” means the Solicitors Disciplinary
+Tribunal established by section 6(1) (inserted by section 8 of theSolicitors (Amendment) Act 2002) of the Solicitors (Amendment)Act 1960.
+3.—The expenses incurred by the Minister in the administration
+of this Act shall, to such extent as may be sanctioned by the Ministerfor Finance, be paid out of monies provided by the Oireachtas.
+PART 2
+Establishment, Role and Accountability of Office of Legal
+Services Ombudsman
+4.—There is established by this section the office of Legal Services
+Ombudsman and the holder of the office shall be known as the LegalServices Ombudsman.
+5.—(1) The Legal Services Ombudsman shall be appointed by the
+Government on the nomination of the Minister.
+(2) In considering the appointment of a person to be the Legal
+Services Ombudsman, the Government shall satisfy themselves thatthe person has the appropriate experience, qualifications, trainingand expertise for the appointment.
+(3) A person is not eligible for appointment as the Legal Services
+Ombudsman if he or she—
+(a) is a member of either House of the Oireachtas,
+(b) is entitled under the rules of procedure of the European
+Parliament to sit in that Parliament,
+(c) is a member of a local authority,
+(d) is a practising barrister or a practising solicitor,
+(e) is a member of the Law Society, or
+(f) is a member of the Bar Council or a bencher of the Honor-
+able Society of King’s Inns.
+7Pt.1 S.2
+Expenses.
+Establishment of
+office of LegalServicesOmbudsman.
+Appointment of
+Legal ServicesOmbudsman.Pt.2
+Period of office,
+resignation andremoval fromoffice.
+Salary and
+superannuation.
+8[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+6.—(1) Subject to this section, a person appointed as the Legal
+Services Ombudsman holds office for such period, not exceeding 6years, as may be specified by the Government in the instrument ofappointment.
+(2) Such a person is eligible for re-appointment for a second or
+subsequent term.
+(3) The Legal Services Ombudsman may resign from office at any
+time by letter addressed to the Government and copied to the Mini-ster, and the resignation takes effect on the date the Governmentreceive the letter.
+(4) The Government may remove the Legal Services Ombudsman
+from office if—
+(a) in the opinion of the Government, the Ombudsman has
+become incapable through ill-health of performing thefunctions of the office,
+(b) in the opinion of the Government, the Ombudsman has
+committed stated misbehaviour,
+(c) the Ombudsman’s removal from office appears to the
+Government to be necessary for the effective perform-ance of the functions of the office,
+(d) the Ombudsman is adjudicated bankrupt,
+(e) the Ombudsman has failed without reasonable cause to
+perform the functions of the office for a continuousperiod of at least 3 months beginning not earlier than 6months before the day of removal, or
+(f) the Ombudsman is convicted on indictment by a court of
+competent jurisdiction and sentenced to imprisonment.
+(5) The Government shall cause to be laid before each House
+of the Oireachtas a statement of the reasons if the Legal ServicesOmbudsman is removed from office.
+(6) A person ceases to hold the office of Legal Services Ombuds-
+man when the person—
+(a) is nominated as a member of Seanad E ´ireann,
+(b) is elected as a member of either House of the Oireachtas
+or of the European Parliament,
+(c) is regarded, pursuant to section 19 of the European Parlia-
+ment Elections Act 1997, as having been elected to theEuropean Parliament to fill a vacancy, or
+(d) becomes a member of a local authority.
+7.—The Legal Services Ombudsman holds office on such terms
+and conditions relating to remuneration (including allowances forexpenses, benefits-in-kind and superannuation) or other matters asmay be determined by the Government at the time of appointmentor reappointment.[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+8.—The Legal Services Ombudsman may not engage in paid
+employment outside the duties of the office unless the Ministerapproves the employment.
+9.—(1) The functions of the Legal Services Ombudsman are—
+(a) to receive and investigate complaints,
+(b) to review under section 32 the procedures of the Bar
+Council and the Law Society for dealing with complaintsmade to those bodies,
+(c) to assess the adequacy of the admission policies of the Law
+Society to the solicitors’ profession and of the Bar
+Council to the barristers’ profession,
+(d) to promote awareness among members of the public of
+matters concerning the procedures of the Bar Counciland the Law Society for dealing with complaints made tothose bodies, and
+(e) to carry out any other duties and exercise any other
+powers assigned to the Ombudsman by this Act.
+(2) The Legal Services Ombudsman has all powers that are neces-
+sary for the performance of the functions of the office.
+10.—The Legal Services Ombudsman shall be independent in the
+performance of the functions of the office.
+11.—(1) Subject to subsection (2) , the Legal Services Ombudsman
+may, from time to time, appoint persons to be members of theOmbudsman’s staff.
+(2) The Legal Services Ombudsman may appoint a person under
+subsection (1) only with the consent of the Minister and the Minister
+for Finance having, prior to seeking that consent, consulted with theBar Council and the Law Society in respect of any appointmentunder that subsection.
+(3) Persons appointed under subsection (1) are to be employed
+on such terms and conditions relating to remuneration (includingallowances for expenses and superannuation) or other matters as,after consulting with the Bar Council and the Law Society, the LegalServices Ombudsman determines with the consent of the Ministerand the Minister for Finance.
+(4) With the consent of the Minister, the Legal Services Ombuds-
+man may, from time to time, engage the services of professional andother advisers or consultants.
+(5) The Legal Services Ombudsman may authorise a person
+appointed under subsection (1) to perform any of the functions
+assigned to the Ombudsman by this Act, except those assigned bysections 14 ,15,16,17and 28and subsections (4) ,(6),(7)and (9)of
+section 32 .
+9Pt.2
+Restriction on
+engaging in otheremployment.
+Functions and
+powers.
+Independence of
+Legal ServicesOmbudsman.
+Staff.Pt.2 S.11
+Advances by
+Minister to LegalServicesOmbudsman.
+Accounts and audit.
+Various reports by
+Legal ServicesOmbudsman.
+10[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+(6) Where a person is authorised to perform such functions, refer-
+ences in this Act to the Legal Services Ombudsman, in so far as thereferences relate to such functions the subject of the authorisation,are to be read as references to the authorised person.
+(7) An act or thing done by a person within the scope of the auth-
+ority given by the Legal Services Ombudsman has the same forceand effect as if done by the Ombudsman.
+(8) A person appointed under subsection (1) is not a civil servant
+of the Government or a civil servant of the State.
+12.—The Minister shall advance to the Legal Services Ombuds-
+man out of monies provided by the Oireachtas such amount oramounts as the Minister may, with the consent of the Minister forFinance, determine for the purposes of expenditure by the Ombuds-man in the performance of his or her functions.
+13.—(1) The Legal Services Ombudsman shall in respect of each
+financial year keep in such form as may be approved by the Minister,with the consent of the Minister for Finance, all proper and usualaccounts of all monies received or expended by the Ombudsman inperforming functions under this Act, including an income and expen-diture account and a balance sheet and, in particular, shall keep allsuch special accounts as the Minister may from time to time direct.
+(2) Not later than 3 months after the end of the financial year to
+which the accounts relate, the Legal Services Ombudsman shall sub-mit the accounts kept under this section to the Comptroller andAuditor General for audit.
+(3) Immediately following the audit, the Legal Services Ombuds-
+man shall present to the Minister—
+(a) copies of the audited accounts, including the income and
+expenditure account, the balance sheet and such other (ifany) accounts kept under this section as the Minister,after consulting with the Minister for Finance, maydirect, and
+(b) the Comptroller and Auditor General’s report on the aud-
+ited accounts.
+(4) As soon as practicable after receipt of the audited accounts
+and the Comptroller and Auditor General’s report, the Minister shallcause copies of them—
+(a) to be laid before each House of the Oireachtas, and
+(b) to be sent to the Bar Council and the Law Society.
+14.—(1) Not later than 4 months after the end of each financial
+year, the Legal Services Ombudsman shall make a written report tothe Minister on the performance of the functions of the office duringthat year.
+(2) The annual report submitted under subsection (1) shall be in
+such form and regarding such matters as the Legal Services Ombuds-man thinks fit or the Minister may direct.[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+(3) The Legal Services Ombudsman shall, within 2 years from the
+date of being appointed, submit to the Minister a report on—
+(a) the effectiveness of the office of Legal Services Ombuds-
+man, and
+(b) the adequacy of the functions of the office.
+(4) The report submitted under subsection (3) may contain recom-
+mendations for improving the effectiveness of the office of LegalServices Ombudsman.
+(5) The Legal Services Ombudsman may make any other reports
+that he or she considers appropriate for drawing to the Minister’sattention matters that have come to the Ombudsman’s notice andthat, in his or her opinion, should, because of their gravity or otherexceptional circumstances, be the subject of a special report to theMinister and shall make a report on any other matter if so requestedby the Minister.
+(6) Not later than 2 months after receiving a report under this
+section, the Minister shall cause a copy of the report to be laid beforeeach House of the Oireachtas.
+(7) Following compliance with subsection (6) , the Legal Services
+Ombudsman shall arrange for the publication of the report con-cerned and for it to be sent to the Bar Council and the Law Society.
+15.—(1) Not later than 4 months after the end of each financial
+year, the Legal Services Ombudsman shall prepare and submit to theMinister a report—
+(a) specifying the number of persons admitted to practise as
+barristers and solicitors respectively during that year, and
+(b) containing an assessment as to whether, having regard to
+the demand for the services of practising barristers andsolicitors and the need to ensure an adequate standard ofeducation and training for persons admitted to practice,the number of persons admitted to practise as barristersand solicitors in that year is consistent with the publicinterest in ensuring the availability of such services at areasonable cost.
+(2) The Legal Services Ombudsman shall consult such persons or
+bodies as the Ombudsman considers appropriate for the purpose ofpreparing the report referred to in subsection (1) .
+(3) The Bar Council, the Honorable Society of King’s Inns and
+the Law Society shall provide the Legal Services Ombudsman withsuch information in their possession as is required by him or her forthe purpose of preparing the report referred to in subsection (1) .
+(4) As soon as practicable after receiving a report under this
+section, the Minister shall cause a copy of the report to be laid beforeeach House of the Oireachtas.
+(5) Following compliance with subsection (4) , the Legal Services
+Ombudsman shall arrange for the publication of the report and forit to be sent to the Bar Council and the Law Society.
+11Pt.2 S.14
+Annual report on
+admission policiesof legal professions.Pt.2
+Appearance before
+Committee of Da ´il
+E´ireann established
+to examine, etc.,appropriationaccounts, etc.
+Appearance before
+other committees ofHouses ofOireachtas.
+12[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+16.—(1) The Legal Services Ombudsman shall, whenever
+required to do so by the Committee of Da ´il E´ireann established
+under the Standing Orders of Da ´il E´ireann to examine and report
+to Da ´il E´ireann on the appropriation accounts and reports of the
+Comptroller and Auditor General, give evidence to that Committeeon—
+(a) the regularity and propriety of the transactions recorded,
+or required to be recorded, in any book or other recordof account subject to audit by the Comptroller and Audi-tor General that the Ombudsman is required by this Actto prepare,
+(b) the economy and efficiency of the Ombudsman in the use
+of resources,
+(c) the systems, procedures and practices employed by the
+Ombudsman for the purpose of evaluating the effective-ness of the operation of the office of the Ombudsman,and
+(d) any matter affecting the Ombudsman referred to in—
+(i) a special report of the Comptroller and Auditor
+General under section 11(2) of the Comptroller andAuditor General (Amendment) Act 1993, or
+(ii) any other report of the Comptroller and Auditor
+General that is laid before Da ´il E´ireann in so far
+as the report relates to a matter specified in any ofparagraphs (a) to(c).
+(2) The Legal Services Ombudsman when giving evidence under
+this section shall not question or express an opinion on the merits ofany policy of the Government or on the merits of the objectives ofsuch policy.
+17.—(1) The Legal Services Ombudsman shall attend a meeting
+of an Oireachtas Committee whenever asked to do so by the Com-mittee and shall provide the Committee with such information(including documents) as it specifies and as is in the possession of,or is available to, the Ombudsman.
+(2) The Legal Services Ombudsman is not required to give an
+account before an Oireachtas Committee of any matter—
+(a) relating solely to an individual complaint, or
+(b) that is, or is likely to be, the subject of proceedings before
+a court or tribunal in the State.
+(3) The Legal Services Ombudsman shall, if of the opinion that
+subsection (2) applies to a matter about which he or she is requested
+to give an account before an Oireachtas Committee, inform theCommittee of that opinion and the reasons for the opinion.
+(4) The information required under subsection (3) to be given to
+the Oireachtas Committee shall be given in writing unless it is givenwhen the Legal Services Ombudsman is before the Committee.
+(5) If, on being informed of the Legal Services Ombudsman’s
+opinion about a matter, the Oireachtas Committee decides not to[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+withdraw its request, the High Court may, on application under sub-
+section (6) , determine whether subsection (2) applies to the matter.
+(6) An application for a determination under subsection (5) may
+be made in a summary manner to the High Court by—
+(a) the Legal Services Ombudsman not later than 21 days
+after being informed by the Oireachtas Committee of itsdecision not to withdraw its request, or
+(b) the chairperson of the Oireachtas Committee acting on
+its behalf.
+(7) Pending the determination of an application under subsection
+(6), the Legal Services Ombudsman shall not attend before the
+Oireachtas Committee to give an account of the matter to which theapplication relates.
+(8) If the High Court determines that subsection (2) applies to the
+matter, the Oireachtas Committee shall withdraw its request relatingto the matter, but if the High Court determines that subsection (2)
+does not apply, the Legal Services Ombudsman shall attend beforethe Committee to give an account of the matter.
+(9) In this section, “Oireachtas Committee” means—
+(a) a committee appointed by either House of the Oireachtas
+or jointly by both Houses of the Oireachtas (other thanthe Committee referred to in section 16(1) , the Commit-
+tee on Members’ Interests of Da ´il E´ireann or the Com-
+mittee on Members’ Interests of Seanad E ´ireann), or
+(b) a subcommittee of a committee as defined in paragraph
+(a).
+18.—The following are absolutely privileged for the purposes of
+the law of defamation:
+(a) the publication of any matter in a report by the Legal
+Services Ombudsman laid before either House of theOireachtas for the purposes of this Act;
+(b) the publication by the Legal Services Ombudsman—
+(i) to a person mentioned in subsection (5) or(6)of
+section 22 of a notification sent to such person under
+either subsection,
+(ii) to a person mentioned in section 29 of a statement
+sent to such person under that section,
+(iii) to a person mentioned in subsection (4) ofsection 32
+of a recommendation given to such person underthat subsection, or
+(iv) to a person mentioned in subsection (6) ofsection 32
+of a direction given to such person under thatsubsection.
+13Pt.2 S.17
+Privilege in respect
+of certain matters.Levy to be paid by
+Bar Council andLaw Society.
+14[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+PART 3
+Imposition of Levy on Professional Bodies to Cover Approved
+Expenses of Legal Services Ombudsman
+19.—(1) The Bar Council and the Law Society shall pay to the
+Minister, in each financial year beginning on 1 January, a levy in theamount determined in accordance with this section.
+(2) The Minister may, with the consent of the Minister for Fin-
+ance, determine for the purposes of this section the amount of theoperating costs and administrative expenses of the Legal ServicesOmbudsman that are properly incurred under this Act (in thissection referred to as “approved expenses”).
+(3) Approved expenses shall include—
+(a) the remuneration (including allowances for expenses,
+benefits in kind and superannuation benefits) of theLegal Services Ombudsman,
+(b) the remuneration (including allowances for expenses and
+superannuation benefits) of the members of theOmbudsman’s staff,
+(c) any superannuation contributions paid in respect of the
+Ombudsman or members of the Ombudsman’s staff outof moneys provided by the Oireachtas,
+(d) fees due to advisers and consultants engaged under section
+11(4) , and
+(e) the cost of office premises.
+(4) The amount of the levy payable in each financial year shall
+be the amount expended by the Legal Services Ombudsman in thepreceding financial year in respect of approved expenses, and theliability for payment of that amount shall be as follows:
+(a) 10 per cent of that amount shall be paid by the Bar
+Council;
+(b) 10 per cent of that amount shall be paid by the Law
+Society; and
+(c) subject to section 20(2) , the remaining 80 per cent of that
+amount shall be paid pro rata by the Bar Council and the
+Law Society according to the number of complaints madein relation to barristers in the preceding financial yearand the number of complaints made in relation to solici-tors in the preceding financial year.
+(5) As soon as practicable after the beginning of each financial
+year, the Minister shall provide the Bar Council and the Law Societywith a notice (in this Act referred to as a “levy assessment notice”)specifying—
+(a) the amount of money expended by the Legal Services
+Ombudsman in the preceding financial year in respect ofapproved expenses,[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+(b) subject to section 20(2) , the number (determined in
+accordance with regulations (if any) under section 20 )o f
+complaints made in relation to barristers in the precedingfinancial year and the number of complaints made inrelation to solicitors in the preceding financial year,
+(c) the amount of levy payable by the professional body con-
+cerned, and
+(d) the date (determined in accordance with regulations under
+section 20 ) on which the levy becomes payable.
+(6) If all or part of the amount specified in a levy assessment
+notice is not paid on or before the date specified in that notice,interest on the unpaid amount accrues, from that date to the date ofpayment, calculated at the rate provided for in regulations undersection 20 .
+(7) Subject to subsection (8) , the Minister may recover, as a simple
+contract debt in any court of competent jurisdiction, from the pro-fessional body concerned, any amount due and owing by it in respectof the levy imposed by this section.
+(8) For the purposes of subsection (7) , where the professional
+body concerned is the Bar Council, proceedings may be broughtagainst the Chairman of the Bar Council, in a representative capa-city, on behalf of the Bar Council, and if in those proceedings theMinister obtains a judgement, order or decree for any amount dueand owing by the Bar Council, any assets held by or on behalf of orfor the benefit of the Bar Council may be used or otherwise appliedtowards satisfying all or any of the claims under the judgement, orderor decree, as the case may be.
+(9) In this section, “superannuation benefits” means pensions,
+gratuities and other allowances payable on resignation, retirementor death.
+20.—(1) The Minister may, by regulations, provide for all or any
+of the following matters relating to the levy under section 19 :
+(a) subject to subsection (2) , the manner in which the number
+of complaints made in relation to barristers and thenumber of complaints made in relation to solicitors is tobe determined for the purposes of that section;
+(b) the date on which payment of the levy becomes due;
+(c) the keeping by the Legal Services Ombudsman of speci-
+fied records in respect of matters connected with the liab-ility to pay the levy;
+(d) the review by the Minister of a levy assessment notice that
+is claimed by the professional body concerned to beerroneous;
+(e) the time within which a request for such review shall be
+made and the conditions to be satisfied by the pro-fessional body concerned before such a request can beacceded to;
+(f) the manner in which the amount of any overpayment or
+underpayment made by the professional body concerned
+15Pt.3 S.19
+Regulations relating
+to levy.Pt.3 S.20
+Making of
+complaints.
+16[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+in respect of the levy may be set off against or added to
+any subsequent liability of that body to the Minister inrespect of the levy;
+(g) the collection and recovery of the levy;
+(h) the rate of interest on amounts not paid when due;
+(i) such other matters as are necessary for, or incidental to,
+the imposition, payment and collection of the levy.
+(2) The determination for the purposes of section 19 of the
+number of complaints made in relation to barristers and the numberof complaints made in relation to solicitors shall exclude any com-plaint which the Legal Services Ombudsman has decided undersection 22(4) either not to investigate or to discontinue an investi-
+gation thereof.
+(3) Every regulation under this section shall be laid before each
+House of the Oireachtas as soon as may be after it is made and, if aresolution annulling the regulation is passed by either such Housewithin the next 21 days on which that House has sat after the regu-lation is laid before it, the regulation shall be annulled accordingly,but without prejudice to the validity of anything previously donethereunder.
+PART 4
+Complaints and Reviews
+21.—(1) Subject to subsection (8) , a person who has made a com-
+plaint of misconduct to the Bar Council under the Disciplinary Codein relation to a barrister may, within the period specified in subsec-
+tion (6) , complain to the Legal Services Ombudsman concerning the
+handling of the complaint by the Barristers’ Professional ConductTribunal or, in the case of an appeal against a decision of the Tri-bunal in respect of the complaint, the Professional ConductAppeals Board.
+(2) Subject to subsection (8) , a person who has—
+(a) made a complaint to the Law Society under section 8 (as
+amended by section 39 of the Civil Law (MiscellaneousProvisions) Act 2008) or 9 of the Solicitors (Amendment)Act 1994 in relation to a solicitor, or
+(b) made a complaint of misconduct in relation to a solicitor,
+may, within the period specified in subsection (6) , complain to the
+Legal Services Ombudsman about the handling of the complaint bythe Law Society.
+(3) A person who is dissatisfied with a decision of the Law Society
+relating to—
+(a) the refusal to make a grant to that person,
+(b) the amount of a grant made to that person, or
+(c) the method of payment of a grant made to that person,[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+may, within the period specified in subsection (6) , complain to the
+Legal Services Ombudsman concerning that decision.
+(4) Subject to subsection (5) , a complaint to the Legal Services
+Ombudsman shall be in writing in such form as may be approved bythe Ombudsman.
+(5) The Legal Services Ombudsman may receive a complaint
+made orally if he or she considers it appropriate to do so, but anysuch complaint shall be recorded in writing by the Ombudsman assoon as practicable after its receipt.
+(6) For the purposes of this section, the period within which a
+complaint shall be made to the Legal Services Ombudsman is—
+(a) in the case of—
+(i) a complaint under subsection (1) , the period of 6
+months beginning on the date of the determinationby the Barristers’ Professional Conduct Tribunal ofthe related complaint or, in the case of an appealagainst a decision of the Tribunal in respect of therelated complaint, the period of 6 months beginningon the date of the determination of that appeal by
+the Professional Conduct Appeals Board, or
+(ii) a complaint under subsection (2) , the period of 6
+months beginning on the date of the determinationby the Law Society of the related complaint,
+or
+(b) in case of a complaint under subsection (3) , the period of
+6 months beginning on the date of the determination bythe Law Society of the application for the grant to whichthe complaint relates,
+but the Ombudsman may accept a complaint made after the expiry
+of the period referred to in paragraph (a) or(b), as the case may be,
+if it appears to the Ombudsman that special circumstances exist thatmake it proper to do so and, where he or she does so, the complaintis deemed to have been made to the Ombudsman within the periodreferred to in that paragraph.
+(7) A person may make a complaint even if—
+(a) in the case of—
+(i) a complaint under subsection (1) , the related com-
+plaint was determined by the Barristers’ ProfessionalConduct Tribunal or, in the case of an appeal againsta decision of the Tribunal in respect of the relatedcomplaint, the appeal was determined by the Pro-fessional Conduct Appeals Board, before the com-mencement of this section, or
+(ii) a complaint under subsection (2) , the related com-
+plaint was determined by the Law Society before thecommencement of this section,
+or
+17Pt.4 S.21Pt.4 S.21
+18[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+(b) in the case of a complaint under subsection (3) , the appli-
+cation for the grant to which the complaint relates wasdetermined by the Law Society before the commence-ment of this section,
+provided that the determination concerned was made not more than
+6 months before that commencement.
+(8) Subject to section 22 , a person shall not make a complaint
+under subsection (1) or(2)if—
+(a) the related complaint has been or is in the course of being
+determined by a court,
+(b) the related complaint—
+(i) has yet to be investigated or determined, or
+(ii) is still in the course of being investigated or
+determined,
+by the Barristers’ Professional Conduct Tribunal or the
+Law Society,
+(c) the related complaint has been or is the subject of an appli-
+cation for an inquiry by the Solicitors DisciplinaryTribunal,
+(d) the related complaint concerns the alleged charging of
+excessive fees by a solicitor and the bill of costs in issuehas been taxed or submitted to a Taxing Master of theHigh Court for taxation on a solicitor and own clientbasis,
+(e) in the case of an appeal against a decision of the Barristers’
+Professional Conduct Tribunal in respect of the relatedcomplaint, the appeal has yet to be determined by theProfessional Conduct Appeals Board,
+(f) the related complaint was made in relation to a barrister
+by another barrister or a judge of a court established inthe State, or
+(g) the person was not entitled to make the related complaint.
+(9) A person shall not make a complaint under subsection (3) if—
+(a) the application for the grant to which the complaint relates
+is in the course of being determined by the Law Society,or
+(b) the person was not entitled to make an application to the
+Law Society for a grant.
+(10) A complaint to the Legal Services Ombudsman may be made
+by any person on behalf of another person.
+(11) As soon as practicable after receiving a complaint under this
+section, the Legal Services Ombudsman shall provide the pro-fessional body concerned with a copy of the complaint.[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+22.—(1) Subject to subsection (4) , the Legal Services Ombudsman
+shall investigate a complaint made to the Ombudsman in accordancewith this Act.
+(2) Notwithstanding subsections (1) to(3), and paragraph (b) or
+(e)ofsubsection (8) ,o f section 21 , the Legal Services Ombudsman
+may investigate a complaint that—
+(a) the Barristers’ Professional Conduct Tribunal has failed to
+commence within a reasonable time an investigation ofthe related complaint under the Disciplinary Code,
+(b) the Barristers’ Professional Conduct Tribunal has failed to
+complete within a reasonable time an investigation of therelated complaint under the Disciplinary Code,
+(c) the Barristers’ Professional Conduct Tribunal has not
+adequately investigated the related complaint under theDisciplinary Code,
+(d) in the case of an appeal against a decision of the Barristers’
+Professional Conduct Tribunal in respect of a relatedcomplaint, the Professional Conduct Appeals Board—
+(i) has failed to commence within a reasonable time the
+hearing of the appeal, or
+(ii) has failed to complete within a reasonable time the
+hearing of the appeal,
+(e) the Law Society has failed to commence within a reason-
+able time an investigation of the related complaint undersection 8 (as amended by section 39 of the Civil Law(Miscellaneous Provisions) Act 2008) or 9 of the Solici-tors (Amendment) Act 1994,
+(f) the Law Society has failed to commence within a reason-
+able time an investigation of the related complaint ofmisconduct,
+(g) the Law Society has failed to complete within a reasonable
+time an investigation of the related complaint undersection 8 (as amended by section 39 of the Civil Law(Miscellaneous Provisions) Act 2008) or 9 of the Solici-tors (Amendment) Act 1994,
+(h) the Law Society has failed to complete within a reasonable
+time an investigation of the related complaint ofmisconduct,
+(i) the Law Society has not adequately investigated the
+related complaint under section 8 (as amended by section39 of the Civil Law (Miscellaneous Provisions) Act 2008)or 9 of the Solicitors (Amendment) Act 1994, or
+(j) the Law Society has not adequately investigated the
+related complaint of misconduct.
+(3) The Legal Services Ombudsman may investigate a complaint
+even though the person making the complaint may be entitled tobring proceedings in any court with respect to the matter com-plained of.
+19Pt.4
+Investigations of
+complaints.Pt.4 S.22
+Procedures for
+dealing withcomplaints to LegalServicesOmbudsman.
+Opportunity to
+make submissions.
+Investigations to be
+conducted inprivate.
+20[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+(4) The Legal Services Ombudsman may decide not to investigate
+a complaint, or to discontinue an investigation of a complaint, if heor she is satisfied that—
+(a) the complaint is frivolous or vexatious,
+(b) the person making the complaint, or on whose behalf the
+complaint is made, has an insufficient interest in thematter, or
+(c) the person making the complaint, or on whose behalf the
+complaint is made, has not taken reasonable steps to seekredress in respect of the subject matter of the complaintor, if he or she has, has not been refused redress.
+(5) On deciding under subsection (4) not to investigate a com-
+plaint or to discontinue an investigation of a complaint, the LegalServices Ombudsman shall notify in writing the following persons ofthe decision and the reason for the decision:
+(a) the complainant;
+(b) the professional body concerned;
+(c) in the case of a complaint under subsection (1) or(2)of
+section 21 , the barrister or solicitor in relation to whom
+the related complaint was made.
+(6) The Legal Services Ombudsman may also notify in writing
+such other person as he or she considers appropriate of his or herdecision under subsection (4) and the reason for it.
+23.—(1) Subject to this Act, the Legal Services Ombudsman may
+seek the resolution of complaints in such manner (including by anyinformal means) as the Ombudsman considers appropriate andreasonable.
+(2) The Legal Services Ombudsman may establish procedures to
+be followed in relation to the receipt and investigation of complaintsby the Ombudsman and shall publish those procedures, in such man-ner as he or she considers appropriate, to members of the public andmembers of the professions of barrister and solicitor.
+24.—When investigating a complaint, the Legal Services Ombuds-
+man shall provide—
+(a) the complainant,
+(b) the professional body concerned, and
+(c) in the case of a complaint under subsection (1) or(2)of
+section 21 , the barrister or solicitor in relation to whom
+the related complaint was made,
+with an opportunity to make submissions relating to the complaint.
+25.—The Legal Services Ombudsman shall conduct investigations
+under this Act otherwise than in public.[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+26.—(1) For the purpose of investigating a complaint, the Legal
+Services Ombudsman may—
+(a) require any person who, in the Ombudsman’s opinion, is
+in possession of information, or has a document or thingin the person’s possession or control, that is relevant tothe investigation to provide the Ombudsman with thatinformation, document or thing, and
+(b) where appropriate, require the person to attend before the
+Ombudsman for that purpose,
+and the person shall comply with such a requirement.
+(2) The Legal Services Ombudsman may not require a barrister
+or solicitor to provide any information, document or thing that isheld in the possession or control of the barrister or solicitor on behalfof a client, unless that client has, in writing, authorised its release.
+(3) A person to whom a requirement is addressed under subsec-
+tion (1) is entitled to the same immunities and privileges as if the
+person were a witness before the High Court.
+(4) A person to whom a requirement is addressed under subsec-
+tion (1) may, within a period of 21 days after being notified of the
+requirement, apply to the High Court for an order to revoke or varythe requirement.
+(5) On an application under subsection (4) , the High Court may
+revoke or vary the requirement in respect of which the applicationis made if satisfied that the information, document or thing is notreasonably required for the purpose of the investigation or determi-nation of the complaint and, in addition, the Court may make suchorder as it sees fit in relation to the application.
+(6) If it appears to the Legal Services Ombudsman that a person
+has failed to comply with a requirement made under subsection (1) ,
+the High Court may, on application in that behalf made by theOmbudsman, make an order requiring that person to comply withthat requirement.
+27.—(1) A person shall not by act or omission obstruct or hinder
+the Legal Services Ombudsman in the performance of his or herfunctions under this Act.
+(2) A person who contravenes subsection (1) is guilty of an
+offence and is liable on summary conviction to a fine not exceeding\2,000.
+(3) Notwithstanding section 10(4) of the Petty Sessions (Ireland)
+Act 1851, summary proceedings in respect of a matter relating to anoffence under this section reported to the Director of Public Pros-ecutions may be instituted within 12 months of the offence.
+28.—(1) On completing an investigation of a complaint under
+section 21(1) , the Legal Services Ombudsman may, by a statement
+in writing—
+(a) if satisfied that the Barristers’ Professional Conduct
+Tribunal—
+21Pt.4
+Power to require
+provision ofinformation.
+Obstruction of
+Legal ServicesOmbudsman.
+Power to issue
+directions or makerecommendationsfollowinginvestigation.Pt.4 S.28
+22[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+(i) has failed to commence within a reasonable time an
+investigation of the related complaint under the Dis-ciplinary Code,
+(ii) has failed to complete within a reasonable time an
+investigation of the related complaint under the Dis-ciplinary Code,
+(iii) has not adequately investigated the related complaint,
+direct the Tribunal to—
+(I) if subparagraph (i) is applicable, commence, under
+the Disciplinary Code, an investigation of therelated complaint,
+(II) if subparagraph (ii) is applicable, complete, within a
+reasonable time from being given that direction, aninvestigation of the related complaint under the Dis-ciplinary Code,
+(III) if subparagraph (iii) is applicable, re-investigate, in
+accordance with the Disciplinary Code, the relatedcomplaint,
+(b) in the case of an appeal against a decision of the Barristers’
+Professional Conduct Tribunal in respect of a relevantcomplaint, if satisfied that the Professional ConductAppeals Board—
+(i) has failed to commence within a reasonable time the
+hearing of the appeal, or
+(ii) has failed to complete within a reasonable time the
+hearing of the appeal,
+direct the Board to—
+(I) if subparagraph (i) is applicable, commence, under
+the Disciplinary Code, the hearing of the appeal,
+(II) if subparagraph (ii) is applicable, complete, within a
+reasonable time from being given that direction, thehearing of the appeal,
+or
+(c) recommend to the Bar Council that it take any other
+action, which the Ombudsman may specify, in relation tothe barrister concerned under the Disciplinary Code.
+(2) On completing an investigation of a complaint under section
+21(2) , the Legal Services Ombudsman may, by a statement in
+writing—
+(a) if satisfied that the Law Society—
+(i) has failed to commence within a reasonable time an
+investigation of the related complaint under section8 (as amended by section 39 of the Civil Law(Miscellaneous Provisions) Act 2008) or 9 of the Sol-icitors (Amendment) Act 1994,[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+(ii) has failed to commence within a reasonable time an
+investigation of the related complaint of misconduct,
+(iii) has failed to complete within a reasonable time an
+investigation of the related complaint under section8 (as amended by section 39 of the Civil Law(Miscellaneous Provisions) Act 2008) or 9 of the Sol-icitors (Amendment) Act 1994,
+(iv) has failed to complete within a reasonable time an
+investigation of the related complaint of misconduct,
+(v) has not adequately investigated the related complaint
+under section 8 (as amended by section 39 of theCivil Law (Miscellaneous Provisions) Act 2008) or 9of the Solicitors (Amendment) Act 1994,
+(vi) has not adequately investigated the related complaint
+of misconduct,
+direct the Law Society to—
+(I) if subparagraph (i) or(ii)is applicable, commence an
+investigation of the related complaint,
+(II) if subparagraph (iii) or(iv) is applicable, complete,
+within a reasonable time from being given the direc-tion, an investigation of the related complaint,
+(III) if subparagraph (v) or(vi)is applicable, re-investigate
+the related complaint,
+or
+(b) direct the Law Society to make application to the Solici-
+tors Disciplinary Tribunal for an inquiry into the conductof the solicitor concerned on the ground of alleged mis-conduct under section 7 (inserted by section 17 of theSolicitors (Amendment) Act 1994) of the Solicitors(Amendment) Act 1960, or
+(c) recommend to the Law Society that it take any other
+action, which the Ombudsman may specify, in relationto the solicitor concerned pursuant to the Law Society’spowers under the Solicitors Acts 1954 to 2008.
+(3) On completing an investigation of a complaint under section
+21(3) concerning a decision of the Law Society, the Legal Services
+Ombudsman may, by a statement in writing—
+(a) if the decision by the Law Society relates to a refusal to
+make a grant out of the Compensation Fund, recommendto the Law Society that it exercise such discretion as it hasunder section 21 (inserted by section 29 of the Solicitors(Amendment) Act 1994) of the Solicitors (Amendment)Act 1960 to make a grant to the complainant,
+(b) if the decision by the Law Society relates to the amount
+of a grant made to the complainant, recommend to theLaw Society that, subject to the said section 21, theamount of the grant be increased, or
+23Pt.4 S.28Pt.4 S.28
+Duty to notify
+complainant andothers of results,directions andrecommendations.
+Enforcement of
+directions of LegalServicesOmbudsman.
+Legal Services
+Ombudsman mayrefer question oflaw to High Court.
+24[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+(c) if the decision by the Law Society relates to the method
+of payment of a grant made to the complainant, makesuch recommendation to the Law Society as the Ombuds-man considers appropriate.
+(4) The Law Society shall have all such powers as are necessary
+to implement a recommendation under subsection (3) .
+(5) The Legal Services Ombudsman may request the professional
+body concerned to make observations or specify measures to betaken, within a period specified by the Ombudsman, in relation to adirection given or recommendation made under this section.
+(6) Where it appears to the Legal Services Ombudsman that
+measures taken or proposed to be taken in relation to a directiongiven or a recommendation made under this section are not satisfac-tory, the Ombudsman may cause a special report on the case to beincluded in a report under section 14 .
+29.—Where the Legal Services Ombudsman investigates a com-
+plaint, he or she shall send a written statement of the results of theinvestigation, any direction given or recommendation made undersection 28 , and any observations made and measures to be taken
+under that section, to—
+(a) the complainant,
+(b) the professional body concerned, and
+(c) in the case of a complaint under subsection (1) or(2)of
+section 21 , the barrister or solicitor in relation to whom
+the related complaint was made.
+30.—If the Barristers’ Professional Conduct Tribunal does not
+comply with a direction given to it under section 28(1)(a) , the Pro-
+fessional Conduct Appeals Board does not comply with a directiongiven to it under section 28(1)(b) , or the Law Society does not com-
+ply with a direction given to it under paragraph (a) or(b)ofsection
+28(2) , by the Legal Services Ombudsman, the High Court may, on
+application in that behalf by the Ombudsman—
+(a) order the Tribunal, the Board or the Law Society, as the
+case may be, to comply with the direction, and
+(b) make such other order, if any, as it considers necessary
+and just to enable the direction to have full effect.
+31.—(1) When investigating a complaint, the Legal Services
+Ombudsman may, on his or her own initiative or at the request ofthe complainant or the professional body concerned, refer for thedetermination of the High Court a question of law arising in relationto the investigation of the complaint.
+(2) The High Court may hear and determine any question of law
+referred to it under this section.
+(3) If a question of law has been referred to the High Court under
+this section, the Legal Services Ombudsman shall not—[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+(a) make a finding to which the question is relevant while the
+reference is pending, or
+(b) proceed in a manner, or make a decision, that is incon-
+sistent with the determination of the High Court on thequestion.
+32.—(1) The Legal Services Ombudsman shall, with a view to
+making recommendations under subsection (4) , keep under review
+the procedures of the Bar Council and of the Law Society for receiv-ing and investigating complaints in relation to barristers and solici-tors respectively.
+(2) In carrying out a review under this section, the Legal Services
+Ombudsman shall examine—
+(a) the procedures concerned,
+(b) the compliance of barristers and solicitors with the pro-
+cedures concerned,
+(c) such complaints made to the professional body concerned
+as he or she considers appropriate,
+(d) the effectiveness of the procedures concerned and the
+length of time taken to complete investigations andmake determinations,
+(e) complaints relating to such matters as the Ombudsman
+considers appropriate, and
+(f) statistical information provided by the professional body
+concerned including statistical information relating tomultiple complaints in relation to the same barristers orsolicitors, as the case may be.
+(3) For the purpose of a review under this section, the Legal
+Services Ombudsman shall consult with such persons or bodies,including those whose purpose or objective is to protect the rightsand interests of consumers, as he or she considers appropriate.
+(4) The Legal Services Ombudsman may make such written
+recommendations to the professional body concerned as theOmbudsman considers appropriate arising from the review underthis section for the purpose of improving—
+(a) the procedures of the professional body concerned relating
+to the receipt or investigation of complaints,
+(b) procedures to deal effectively with persistent patterns of
+complaints,
+(c) procedures to deal effectively with any delays by the pro-
+fessional body concerned in investigating and determin-ing complaints, or
+(d) procedures to ensure the co-operation of barristers or sol-
+icitors, as the case may be, with the procedures of theprofessional body concerned.
+(5) Not later than 30 days after receiving a recommendation made
+under subsection (4) , the professional body concerned shall—
+25Pt.4 S.31
+Review of
+procedures of BarCouncil and LawSociety for dealingwith complaints.Pt.4 S.32
+Duties of Bar
+Council and LawSociety to keep andproduce records.
+Legal proceedings
+against LegalServicesOmbudsman.
+26[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+(a) inform the Legal Services Ombudsman of the action it pro-
+poses to take to implement that recommendation, or
+(b) if it objects to the recommendation, inform the Legal
+Services Ombudsman of the reasons for such objectionand any other observations it may have on the recom-mendation.
+(6) If not satisfied with the response received from the pro-
+fessional body concerned under subsection (5) , the Legal Services
+Ombudsman may direct it to implement the recommendation madeunder subsection (4) or such amended recommendation as the
+Ombudsman may make having regard to such response.
+(7) Following a complaint or on his or her own initiative, the
+Legal Services Ombudsman may, if he or she considers it appro-priate, direct the professional body concerned to establish pro-cedures in relation to the receipt or investigation of complaints of aparticular class or classes.
+(8) On application by the chairman of the Bar Council or by the
+Law Society, the High Court may, if it considers it appropriate,revoke or vary a direction given by the Legal Services Ombudsmanunder subsection (7) where it considers that the direction is oppress-
+ive, unreasonable or unnecessary or it may confirm the direction.
+(9) The Legal Services Ombudsman shall include a report on the
+performance of his or her functions under this section in the annualreport submitted to the Minister under section 14 .
+33.—(1) The Bar Council and the Law Society shall keep full and
+complete records of all investigations of, and of all proceedings atmeetings relating to—
+(a) in the case of the Bar Council, complaints of misconduct
+made to it under the Disciplinary Code in relation to bar-risters, and
+(b) in the case of the Law Society—
+(i) complaints made to it under section 8 (as amended by
+section 39 of the Civil Law (MiscellaneousProvisions) Act 2008) or 9 of the Solicitors(Amendment) Act 1994 in relation to solicitors, and
+(ii) complaints of misconduct made to it in relation to
+solicitors.
+(2) If requested by the Legal Services Ombudsman for the pur-
+pose of an investigation or a review of procedures under this Act,the professional body concerned shall provide the Ombudsman withcopies of any records so requested within the period specified inthe request.
+(3) Subsection (2) shall not operate to limit in any way the Legal
+Service Ombudsman’s powers under section 26 .
+34.—Legal proceedings shall not be brought against the Legal
+Services Ombudsman without the leave of the High Court and with-out giving at least 14 days’ notice of the application for such leaveto the Ombudsman.[2009.] [ No. 8.] Legal Services Ombudsman Act 2009 .
+35.—(1) The Legal Services Ombudsman or a member of staff of
+the Legal Services Ombudsman shall not, except in accordance withlaw, disclose any information, document, part of a document or thingobtained by him or her in the course, or for the purpose, of an inves-tigation or a review of procedures under this Act except for the pur-poses of—
+(a) the investigation concerned,
+(b) the making, in accordance with this Act, of any statement,
+report or notification on that investigation or review, or
+(c) the making of a recommendation or the giving of a direc-
+tion under this Act arising out of the investigation orreview concerned.
+(2) The Legal Services Ombudsman or a member of staff of the
+Legal Services Ombudsman shall not, except in accordance with law,be called on to give evidence in any proceedings of matters coming tohis or her knowledge in the course of an investigation under this Act.
+PART 5
+Consequential Amendments and Transitional Provisions
+36.—The Freedom of Information Act 1997 is amended—
+(a) in section 2(1), in the definition of “head of a public body”,
+by inserting the following after paragraph ( jjj) (inserted
+by section 23 of the Social Welfare (MiscellaneousProvisions) Act 2003):
+“(jjjj) in relation to the Office of Legal Ser-
+vices Ombudsman, the Legal ServicesOmbudsman,”,
+(b) in section 46(1)( c) (as amended by the Social Welfare
+(Miscellaneous Provisions) Act 2003)—
+(i) by deleting “or” at the end of subparagraph (iv),
+(ii) by substituting the following for subparagraph (v):
+“(v) an examination or investigation carried
+out by the Pensions Ombudsmanunder the Pensions Act 1990, or
+(vi) an investigation carried out by the
+Legal Services Ombudsman underthe Legal Services Ombudsman Act
+2009 ,”,
+and
+(iii) in clause (II), by substituting “the Office of the
+Pensions Ombudsman or the Office of the LegalServices Ombudsman” for “or the office of thePensions Ombudsman”,
+27Pt.4
+Confidentiality of
+information.
+Amendment of
+Freedom ofInformation Act1997.Pt.5 S.36
+Repeal of section
+15 of the Solicitors(Amendment) Act1994.
+Revocation of
+Solicitors(Adjudicator)Regulations 1997and Solicitors(Adjudicator)(Amendment)Regulations 2005and transitionalprovisions inrelation thereto.
+28[No. 8.] [2009.] Legal Services Ombudsman Act 2009 .
+and
+(c) in paragraph (I)(2) of the First Schedule, by inserting “the
+Office of the Legal Services Ombudsman.”.
+37.—Section 15 of the Solicitors (Amendment) Act 1994 is
+repealed.
+38.—(1) The Solicitors (Adjudicator) Regulations 1997 (S.I. No.
+406 of 1997) and the Solicitors (Adjudicator) (Amendment) Regu-lations 2005 (S.I. No. 720 of 2005) are revoked.
+(2) Where an investigation of a complaint under the Regulations
+revoked under subsection (1) —
+(a) has not been commenced, or
+(b) has been commenced but has not been completed,
+before the commencement of that subsection, the complaint shall, on
+and after the commencement of that subsection, be deemed to be acomplaint made to the Legal Services Ombudsman, and the otherprovisions of this Act shall, with any necessary modifications, be con-strued accordingly.
+(3) It shall be the duty of the Adjudicator to render such assist-
+ance as the Legal Services Ombudsman may reasonably require toenable the Ombudsman—
+(a) to investigate a complaint under the Regulations revoked
+under subsection (1) which has not been commenced
+before the commencement of that subsection, or
+(b) to complete the investigation of a complaint under those
+Regulations which has been commenced but has not beencompleted before the commencement of that subsection,
+and such assistance may be or include the provision of records or
+documents, or copies thereof, relating to the complaint in the pos-session or control, or within the procurement, of the Adjudicator.
+(4) In this section, “Adjudicator” means—
+(a) before the commencement of subsection (1) , the Adjudi-
+cator within the meaning of Regulation 2( a) of the Solici-
+tors (Adjudicator) Regulations 1997 (S.I. No. 406 of1997),
+(b) on and after that commencement, the person who was,
+immediately before that commencement, the Adjudicatorreferred to in paragraph (a) .

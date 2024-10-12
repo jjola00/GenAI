@@ -1,0 +1,449 @@
+————————
+Number 15of2007
+————————
+BROADCASTING (AMENDMENT) ACT 2007
+————————
+ARRANGEMENT OF SECTIONS
+Section
+1. Short title, collective citation, construction and com-
+mencement.
+2. Interpretation.3. Additional functions of Authority.4. Additional functions of Commission.5. Duty of Commission for Communications Regulation in
+respect of digital terrestrial television multiplexes.
+6. Duty of Commission for Communications Regulation in
+respect of digital terrestrial sound broadcasting mul-tiplexes.
+7. Regulations prescribing fees.8. Applications for multiplex contracts.
+9. Determination of applications for award of multiplex
+contracts.
+10. Terms and conditions of multiplex contracts.11. Analogue switch-off.12. Amendments to section 12 of Act of 2001.13. Amendments to section 16 of Act of 2001.14. Amendments to section 28 of Act of 2001.15. Amendment to section 32 of Act of 2001.16. Amendments to section 45 of Act of 2001.17. Repeals.18. Expenses.
+12[No. 15.] [2007.]Broadcasting (Amendment) Act 2007 .
+SCHEDULE
+Enactments Repealed
+————————
+Acts Referred to
+Broadcasting Act 1990 1990, No. 24
+Broadcasting Act 2001 2001, No. 4Broadcasting Authority Act 1960 1960, No. 10Broadcasting Authority Acts 1960 to 2001Communications Regulation Act 2002 2002, No. 20Radio and Television Act 1988 1988, No. 20Wireless Telegraphy Act 1926 1926, No. 45Wireless Telegraphy Acts 1926 to 1988————————
+Number 15of2007
+BROADCASTING (AMENDMENT) ACT 2007
+————————
+AN ACT TO MAKE FURTHER PROVISION IN RELATION
+TO BROADCASTING, FOR THAT PURPOSE TO MAKEFURTHER PROVISION IN RELATION TO THE SUPPLYOF PROGRAMME MATERIAL FOR THE PURPOSE OFITS BEING TRANSMITTED AND THE TRANSMISSIONOF SUCH MATERIAL AND RELATED AND OTHERDATA BY DIGITAL MEANS, IN RELATION TO THECOMBINATION OF SUCH PROGRAMME MATERIAL,IN RELATION TO THE BROADCASTING OF CERTAINSERVICES TO IRISH COMMUNITIES OUTSIDE THEISLAND OF IRELAND, IN RELATION TO THE DISCON-TINUANCE OF CERTAIN BROADCASTING SERVICESTRANSMITTED BY ANALOGUE MEANS, TO CONFERADDITIONAL FUNCTIONS ON THE COMMISSION FORCOMMUNICATIONS REGULATION, RADIO TELEFI ´S
+E´IREANN, THE BROADCASTING COMMISSION OF
+IRELAND AND TEILIFI ´S NA GAEILGE, TO CONFER A
+POWER SUBJECT TO LICENCE ON TEILIFI ´SN A
+GAEILGE, TO AMEND THE BROADCASTING AUTH-ORITY ACTS 1960 TO 2001 AND CERTAIN OTHERENACTMENTS AND TO PROVIDE FOR RELATEDMATTERS.
+[10th April , 2007]
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+1.—(1) This Act may be cited as the Broadcasting (Amendment)
+Act 2007.
+(2) The Broadcasting Authority Acts 1960 to 2001 and this Act
+may be cited together as the Broadcasting Authority Acts 1960 to2007.
+(3) The Broadcasting Authority Acts 1960 to 2001, and this Act
+(in so far as it amends or extends those Acts) shall be construedtogether as one.
+(4) This Act shall come into operation on such day or days as the
+Minister may, by order or orders either generally or with referenceto any particular purpose or provision, appoint and different daysmay be so appointed for different purposes or different provisions.
+2.—In this Act—
+“the Act of 1960” means the Broadcasting Authority Act 1960;“the Act of 1988” means the Radio and Television Act 1988;
+3Short title,
+collective citation,construction andcommencement.
+Interpretation.S.2
+Additional
+functions ofAuthority.
+4[No. 15.] [2007.]Broadcasting (Amendment) Act 2007 .
+“the Act of 1990” means the Broadcasting Act 1990;
+“the Act of 2001” means the Broadcasting Act 2001;“the Authority” means Radio Telefı ´sE´ireann;
+“the Commission” means the body established by section 3 (as
+adapted by section 10 of the Act of 2001) of the Act of 1988;
+“digital content contract” has the meaning assigned to it by section
+12 of the Act of 2001;
+“the Minister” means the Minister for Communications, Marine and
+Natural Resources;
+“multiplex” means an electronic system which combines programme
+material and related and other data in a digital form and the trans-mission of that material and data so combined by means of wirelesstelegraphy directly or indirectly for reception by the general public;
+“programme material” means audio-visual material or audio
+material and includes advertisements and material which, whentransmitted, will constitute a direct offer to the public for the sale orsupply to them of goods or other property (whether real or personal)or services;
+“sound broadcasting multiplex” means a multiplex in which the prog-
+ramme material is predominantly sound;
+“Teilifı ´s na Gaeilge” means the body established by section 44 of the
+Act of 2001;
+“television multiplex” means a multiplex in which the programme
+material is predominantly television;
+“television programme service contract” and “television programme
+service contractor” have the same meaning as they have in section4(2)( b) of the Act of 1988.
+3.—(1) Section 16 of the Act of 1960 is hereby amended—
+(a) by substituting the following for subsection (1):
+“(1) The Authority shall establish and maintain a
+national television and sound broadcasting service andshall establish, maintain and operate one or more nationalmultiplexes and may establish and maintain broadcastingservices of a local, community or regional character andshall have all such powers as are necessary for or inciden-tal to those purposes.”,
+(b) by inserting the following subsections after subsection (1):
+“(1A) The Authority shall establish and maintain a
+television broadcasting service and a sound broadcastingservice, which services shall be made available, in so faras the Authority considers reasonably practicable, to Irishcommunities outside the island of Ireland and the Auth-ority shall have all such powers as are necessary for orincidental to those purposes.[2007.] [ No. 15.] Broadcasting (Amendment) Act 2007 .
+(1B) The television broadcasting service and the sound
+broadcasting service established and maintained pursuantto subsection (1A) shall have the character of a publicservice.
+(1C) The Authority shall endeavour to ensure that the
+programme schedules of the television broadcastingservice and the sound broadcasting service established andmaintained pursuant to subsection (1A) are, in so far as itis reasonably practicable, representative of the programmeschedules of the national television broadcasting andsound broadcasting services referred to in subsection (1)of this section and subsection (1) of section 45 of the Actof 2001.
+(1D) For the purposes of subsection (1C), Teilifı ´sn a
+Gaeilge shall provide to the Authority, in such amountsand at such times as may be agreed between them, prog-ramme material representative of the programme sched-ules of the national television broadcasting servicereferred to in subsection (1) of section 45 of the Act of2001.”,
+and
+(c) in subsection (3) thereof by the insertion after “The” of
+“function conferred on the Authority by virtue of subsec-tion (1) of this section to establish, maintain and operateone or more national multiplexes and the”.
+(2) ( a) A national television multiplex established, maintained
+and operated by the Authority under section 16(1) of theAct of 1960 shall provide for the broadcasting by digitalmeans of—
+(i) the national television broadcasting service commonly
+known as RTE ´One and RTE ´Two,
+(ii) the national television broadcasting service estab-
+lished and maintained by Teilifı ´s na Gaeilge under
+section 45(1) of the Act of 2001.
+(b) The national television multiplex referred to in paragraph
+(a)shall be established as a matter of priority and shall,
+in due course, ensure the availability by free-to-air digitalmeans of the national television broadcasting servicereferred to in paragraph (a)(i) to an extent similar to that
+such as is currently available by free-to-air analoguemeans.
+(c) Nothing in this subsection shall preclude the Authority
+from making provision in a multiplex established, main-tained and operated by the Authority under section 16(1)of the Act of 1960 for the broadcasting by digital meansof programme material and related and other data otherthan that broadcast as part of a service specified in para-
+graph (a) .
+(3) Teilifı ´s na Gaeilge shall make to the Authority such periodic
+or other payments in respect of any service provided by the Auth-ority for the purposes of subsection (2)(a)(ii) as the Minister, after
+consultation with the Commission for Communications Regulation,the Authority and Teilifı ´s na Gaeilge, may direct.
+5S.3S.3
+Additional
+functions ofCommission.
+6[No. 15.] [2007.]Broadcasting (Amendment) Act 2007 .
+(4) In the event that Teilifı ´s na Gaeilge does not consider the
+digital capacity employed by the Authority for the purposes of sub-
+section (2)(a)(ii) to be adequate, the Minister may, at the request of
+Teilifı ´s na Gaeilge, direct the Authority to employ a specific amount
+of digital capacity.
+(5) The Minister shall, at the request of the Commission and after
+consultation with the Authority require the Authority to make pro-vision in a multiplex established, maintained and operated by theAuthority under section 16(1) of the Act of 1960 for the broadcastingby digital means of the television programme service provided underthe television programme service contract by the television prog-ramme service contractor.
+(6) If the Minister makes a requirement of the Authority under
+subsection (5) , the television programme service contractor shall
+make to the Authority such periodic or other payments in respect ofany service provided by the Authority in meeting that requirementas the Minister, after consultation with the Commission forCommunications Regulation, the Authority and the television prog-ramme service contractor, may direct.
+(7) If the Minister makes a requirement of the Authority under
+subsection (5) and the television programme service contractor does
+not consider the digital capacity employed by the Authority inrespect of any service provided by the Authority in meeting thatrequirement to be adequate, the Minister may, at the request of thetelevision programme service contractor and after consultation withthe Commission, direct the Authority to employ a specific amountof digital capacity.
+4.—(1) It shall be the function of the Commission to arrange, in
+accordance with this Act, for the establishment, maintenance andoperation of multiplexes, including national multiplexes, in additionto any multiplexes established, maintained and operated by theAuthority under section 16(1) of the Act of 1960.
+(2) For the purpose of subsection (1) the Commission shall, with
+persons (in this Act referred to as “multiplex contractors”), enterinto contracts (in this Act referred to as “multiplex contracts”) underwhich the multiplex contractors have, subject to the provisions ofthis Act, the right and duty to establish, maintain and operate a mul-tiplex in the area specified in the multiplex contract.
+(3) It shall be a duty of the Commission to ensure that every mul-
+tiplex contractor complies with the provisions of this Act.
+(4) It shall be a duty of the Commission to endeavour to arrange,
+as a matter of priority, for the establishment, maintenance and oper-ation of three national television multiplexes, which multiplexes, inso far as it is reasonably practicable, shall be capable of being trans-mitted by digital terrestrial means to the whole community in the
+State.
+(5) It shall be a duty of the Commission to endeavour to arrange
+for the broadcasting of any television broadcasting service inNorthern Ireland that is notified to the Commission by the Minister,being a service that is receivable throughout the whole of NorthernIreland and is provided by terrestrial means, by digital means undera multiplex contract.[2007.] [ No. 15.] Broadcasting (Amendment) Act 2007 .
+(6) The Commission shall have all such powers as are necessary
+for or incidental to the performance of its functions under this Actincluding, in particular, the power to consult with the Commissionfor Communications Regulation as it sees fit.
+5.—(1) It shall be a duty of the Commission for Communications
+Regulation, at the request of the Authority, to issue to the Authorityunder section 16(3)( a) of the Act of 1960 a licence in respect of
+the establishment, maintenance and operation of a single televisionmultiplex, which multiplex shall, in so far as it is reasonably practi-cable, be capable of being transmitted by digital terrestrial means tothe whole community in the State.
+(2) It shall be a duty of the Commission for Communications
+Regulation, exercisable only at the request of the Authority and afterconsultation with the Minister and with the Commission regardingthe digital capacity requirements of Teilifı ´s na Gaeilge and the tele-
+vision programme service contractor, to issue to the Authority undersection 16(3)( a) of the Act of 1960 a licence in respect of the estab-
+lishment, maintenance and operation of one further television mul-tiplex, which multiplex shall, in so far as it is reasonably practicable,be capable of being transmitted by digital terrestrial means to thewhole community in the State.
+(3) It shall be a duty of the Commission for Communications
+Regulation, at the request of the Commission, to issue to the Com-mission under the Wireless Telegraphy Acts 1926 to 1988, subject tothe provisions of this Act, licences in respect of the establishment,maintenance and operation of four television multiplexes, whichmultiplexes shall, in so far as it is reasonably practicable, be capableof being transmitted by digital terrestrial means to the whole com-munity in the State, in accordance with contracts to be entered intoby the Commission under subsection (2) ofsection 4 .
+(4) The Commission for Communications Regulation shall con-
+sult with the Commission regarding the desirability of it issuing tothe Commission under the Wireless Telegraphy Acts 1926 to 1988,subject to the provisions of this Act, further licences in respect of theestablishment, maintenance and operation of additional televisionmultiplexes, which multiplexes shall, in so far as it is reasonably prac-ticable, be capable of being transmitted by digital terrestrial meansto the whole community in the State, in accordance with additionalcontracts to be entered into by the Commission under subsection (2)
+ofsection 4 .
+(5) Nothing in this section shall be construed as preventing the
+Commission for Communications Regulation, following consultationwith the Minister and with the Commission, from issuing under theWireless Telegraphy Acts 1926 to 1988, other licences authorisingthe combination, by means of a multiplex other than a multiplex towhich subsections (1), (2) and (3)relate of programme material and
+related and other data in a digital form, subject to such conditionsas the Commission may consider necessary to impose in a contractentered into under section 12 of the Act of 2001.
+(6) During the continuance of any emergency declared under
+section 10 of the Wireless Telegraphy Act 1926, the Minister maysuspend any licence issued under this section and, while any suchsuspension continues, the Minister may operate any service whichwas provided under the suspended licence or require such service tobe operated as he directs.
+7S.4
+Duty of
+Commission forCommunicationsRegulation inrespect of digitalterrestrial televisionmultiplexes.Duty of
+Commission forCommunicationsRegulation inrespect of digitalterrestrial soundbroadcastingmultiplexes.
+8[No. 15.] [2007.]Broadcasting (Amendment) Act 2007 .
+6.—(1) It shall be a duty of the Commission for Communications
+Regulation, at the request of the Authority, to issue to the Authorityunder section 16(3)( a) of the Act of 1960 a licence in respect of the
+establishment, maintenance and operation of a single sound broad-casting multiplex, which multiplex shall, in so far as it is reasonablypracticable, be capable of being transmitted by digital terrestrialmeans to the whole community in the State.
+(2) It shall be a duty of the Commission for Communications
+Regulation, exercisable only at the request of the Authority and afterconsultation with the Minister and the Commission, to issue to theAuthority under section 16(3)( a) of the Act of 1960 a licence in
+respect of the establishment, maintenance and operation of onefurther sound broadcasting multiplex, which multiplex shall, in so faras it is reasonably practicable, be capable of being transmitted bydigital terrestrial means to the whole community in the State.
+(3) It shall be a duty of the Commission for Communications
+Regulation, at the request of the Commission, to issue to the Com-mission under the Wireless Telegraphy Acts 1926 to 1988, subject tothe provisions of this Act, licences in respect of the establishment,maintenance and operation of one sound broadcasting multiplex,which multiplex shall, in so far as it is reasonably practicable, becapable of being transmitted by digital terrestrial means to the wholecommunity in the State, in accordance with contracts to be enteredinto by the Commission under subsection (2) ofsection 4 .
+(4) It shall be a duty of the Commission for Communications
+Regulation, at the request of the Commission, to issue to the Com-mission under the Wireless Telegraphy Acts 1926 to 1988, subject tothe provisions of this Act, licences in respect of the establishment,maintenance and operation of one or more sound broadcasting mul-tiplexes, which multiplexes shall, in so far as it is reasonably practi-cable, be capable of being transmitted by digital terrestrial means tothe whole community in an area of the State specified by the Com-mission, which area may consist of the whole or any part of the State,in accordance with contracts to be entered into by the Commissionunder subsection (2) ofsection 4 .
+(5) The Commission for Communications Regulation shall con-
+sult with the Commission regarding the desirability of it issuing tothe Commission under the Wireless Telegraphy Acts 1926 to 1988,subject to the provisions of this Act, further licences in respect ofthe establishment, maintenance and operation of additional soundbroadcasting multiplexes, which multiplexes shall, in so far as it isreasonably practicable, be capable of being transmitted by digitalterrestrial means to the whole community in an area of the Statespecified by the Commission, which area may consist of the wholeor any part of the State, in accordance with additional contracts tobe entered into by the Commission under subsection (2) ofsection 4 .
+(6) Nothing in this section shall be construed as preventing the
+Commission for Communications Regulation, following consultationwith the Minister and with the Commission, from issuing under theWireless Telegraphy Acts 1926 to 1988, other licences authorisingthe combination, by means of a multiplex other than a multiplex towhich subsections (1), (2) ,(3)and (4)relate of programme material
+and related and other data in a digital form, subject to such con-ditions as the Commission may consider necessary to impose in acontract entered into under section 12 of the Act of 2001.
+(7) During the continuance of any emergency declared under
+section 10 of the Wireless Telegraphy Act 1926, the Minister may[2007.] [ No. 15.] Broadcasting (Amendment) Act 2007 .
+suspend any licence issued under this section and, while any such
+suspension continues, the Minister may operate any service whichwas provided under the suspended licence or require such service tobe operated as he directs.
+7.—(1) Every licence under the Act of 1960, the Act of 1988, the
+Act of 1990 and this Act shall be issued on payment of such fees asmay be prescribed by the Commission for Communications Regu-lation, with the consent of the Minister, in regulations made underthis section.
+(2) Regulations made under this section may prescribe in relation
+to all such licences or any particular class or classes of such licences—
+(a) the fees to be paid on the grant or renewal of such
+licences, and
+(b) the time and manner at and in which such fees are to be
+paid.
+(3) Every regulation made under this section shall be laid before
+each House of the Oireachtas as soon as may be after it is made andif either such House shall, within twenty one days on which eithersuch House has sat next after the regulation was laid before suchHouses, pass a resolution annulling such regulation, such regulationshall be annulled accordingly but without prejudice to the validity ofanything previously done under such regulation.
+8.—(1) In order to secure the orderly establishment, maintenance
+and operation of multiplexes and subject to subsection (2) , the Com-
+mission shall as soon as may be after this section has come into forceand may thereafter, from time to time having regard to the avail-ability of radio frequencies for multiplexes, invite applications formultiplex contracts and, subject to the provisions of this Act, mayenter into such contracts.
+(2) Without prejudice to subsection (1) , the Commission shall
+within six months after this section has come into force endeavourto invite applications for multiplex contracts in respect of the threenational television multiplexes referred to in section 4(4) .
+(3) Where the Commission invites applications for a multiplex
+contract it shall by public notice specify the coverage area (whicharea may consist of the whole or any part of the State) in which theprogramme material and related and other data shall be broadcastpursuant to such contract (in this section referred to as “themaximum coverage area”) and by such notice shall invite personsinterested in establishing and maintaining a multiplex to apply forsuch contract.
+(4) Every notice under subsection (3) shall—
+(a) be published in at least one national newspaper,
+(b) specify the procedure to be followed in order to make an
+application, and
+(c) specify any other matters which appear to the Commission
+to be necessary or relevant.
+9S.6
+Regulations
+prescribing fees.
+Applications for
+multiplex contracts.S.8
+Determination of
+applications foraward of multiplexcontracts.
+10[No. 15.] [2007.]Broadcasting (Amendment) Act 2007 .
+(5) The Commission may, in a notice under subsection (3) , specify
+the minimum coverage area in which the programme material andrelated and other data shall be broadcast under the contract, whichcoverage area may be less than that of the maximum coverage areaspecified in the notice.
+(6) Notwithstanding subsection (3) , where a minimum coverage
+area is specified in a notice under that subsection the coverage areain which the programme material and related and other data shallbe broadcast pursuant to any contract entered into on foot of suchnotice shall be the minimum coverage area so specified, subject tothe requirement that every effort is made by the person to whom thecontract is awarded to ensure that the programme material andrelated and other data is broadcast in as much of the maximumcoverage area as is practicable.
+9.—(1) The Commission shall, in accordance with the provisions
+of this Act consider every application for a multiplex contractreceived by it pursuant to a notice under section 8 for the purpose
+of determining the most suitable applicant, if any, to be awarded amultiplex contract.
+(2) In the consideration of applications received by it and in
+determining the most suitable applicant to be awarded a multiplexcontract, the Commission shall have regard to—
+(a) the character of the applicant or, if the applicant is a body
+corporate, the character of the body and its directors,manager, secretary or other similar officer and itsmembers and the persons entitled to the beneficialownership of its shares,
+(b) the adequacy of the expertise and experience and of the
+financial resources that will be available to each applicantand the extent to which the application accords with goodeconomic principles,
+(c) the range and type of programme material or compilations
+of programme material proposed to be included in themultiplex by the applicant and how the applicant pro-poses to secure continued inclusion of such material,
+(d) in the case of a television multiplex, the proposals by the
+applicant for promoting the acquisition by persons in theproposed coverage area of equipment capable of—
+(i) receiving all of the television multiplexes available or
+expected to be available in that area, including thenational multiplex referred to in section 3(2)(a) , and
+(ii) enabling such persons to keep themselves informed of
+the choice of programme material included in thosemultiplexes,
+(e) in the event that the Commission has specified a minimum
+coverage area pursuant to section 8(5) , the extent of the
+coverage area proposed to be achieved by the applicant,
+(f) the technical proposal, including a timetable for imple-
+mentation, regarding the establishment, maintenance andoperation of the proposed multiplex,[2007.] [ No. 15.] Broadcasting (Amendment) Act 2007 .
+(g) the duty imposed on the Commission under section 4(5) ,
+and
+(h) any other matters which the Commission considers to be
+necessary to secure the orderly establishment, mainten-ance and operation of multiplexes.
+10.—(1) Every multiplex contract may contain such terms and
+conditions as the Commission considers appropriate and specifies inthe contract.
+(2) Without prejudice to the generality of subsection (1) , the
+Commission may specify in a multiplex contract all or any of thefollowing terms or conditions:
+(a) the period during which the contract shall continue in
+force;
+(b) whether the contract may be renewed and, if so, the man-
+ner in which, the terms on which, and the period forwhich, the contract may be so renewed;
+(c) a condition prohibiting the assignment of the contract or
+of any interest therein without the prior consent orapproval of the Commission;
+(d) if the multiplex contractor be a company, a condition pro-
+hibiting any alteration in the Memorandum or Articles ofAssociation of the company or in so much of that Mem-orandum or of those Articles as may be specified or pro-hibiting any material change in the ownership of the com-pany without the prior approval of the Commission;
+(e) a condition requiring the multiplex contractor to provide
+the range and type of programmes which he proposed tooffer in his application for the award of the contract;
+(f) a condition requiring the multiplex contractor to
+implement any proposals made in his application for thecoverage area of the multiplexes;
+(g) following consultation with the Commission for Communi-
+cations Regulation, a condition requiring the multiplexcontractor to implement the proposals made in his appli-cation for the award of the contract for promoting theacquisition, by persons in the proposed coverage area ofthe multiplex, of equipment capable of receiving all ofthe multiplexes available in that area;
+(h) any condition which the Commission considers appro-
+priate having regard to its duty under section 4(5) ;
+(i) following consultation with the Commission for Communi-
+cations Regulation, any condition requiring the multiplexcontractor to comply with any technical condition as theCommission for Communications Regulation mayrequire in the exercise of its functions.
+(3) If a multiplex contract does not contain a condition of the
+type specified in paragraph (c) or(d)ofsubsection (2) , the following
+provisions shall have effect:
+11S.9
+Terms and
+conditions ofmultiplex contracts.S.10
+Analogue switch-
+off.
+12[No. 15.] [2007.]Broadcasting (Amendment) Act 2007 .
+(a) a multiplex contract, or any interest in a multiplex con-
+tract, shall not be assignable, nor shall any alteration bemade in the Memorandum or Articles of Association ofany company which is a multiplex contractor, nor shallthere be any material change in the ownership of such acompany, without the previous consent in writing of theCommission, and the Commission may, if it considers itreasonable so to do, refuse such consent stating thegrounds for such refusal;
+(b) in considering whether to grant its consent to an assign-
+ment of a multiplex contract, a change in the Memor-andum or Articles of Association of a company which isa multiplex contractor, or a material change in the owner-ship of such a company, the Commission shall haveregard to the criteria specified in section 9(2) .
+(4) Every multiplex contract shall—
+(a) provide that the Commission may, at its discretion and on
+stated grounds, suspend, reduce the term of or terminatethe contract—
+(i) if any false or misleading information was given to the
+Commission by or on behalf of the multiplex con-tractor prior to the making of the contract,
+(ii) if the multiplex contractor has, in the opinion of the
+Commission, committed serious or repeatedbreaches of his obligations under the multiplex con-tract or under this Act,
+(b) provide that a multiplex contractor shall pay to the Com-
+mission the fees (if any) specified therein, including anyfees payable by the Commission to the Commission forCommunications Regulation under section 7 and any
+regulations made thereunder, and
+(c) provide that the multiplex contractor shall provide such
+information (including copies of his accounts) as theCommission may consider it requires in order to enableit carry out its functions under this Act.
+(5) Every multiplex contract shall be open to inspection by
+members of the public at the Commission’s registered office and theCommission shall, on request made by any person and on paymentof such sum (if any) as the Commission may reasonably require,furnish to that person a copy of that contract.
+11.—(1) For the purpose of considering for how long it would
+be appropriate for television broadcasting services to continue to beprovided by analogue means, the Minister—
+(a) shall keep under review the extent of—
+(i) the availability of multiplexes in the State,
+(ii) the availability in the State by digital means of the
+services specified in subsection (2) ,[2007.] [ No. 15.] Broadcasting (Amendment) Act 2007 .
+(iii) the ownership or possession in the State of equipment
+capable of receiving the services specified in subsec-
+tion (2) when transmitted by digital means,
+(iv) the likely future extent of such availability and such
+ownership or possession,
+and
+(b) shall, at such time or times as he considers fit and, in any
+case, on or before the second anniversary of the day onwhich the first multiplex contract is awarded under thisAct, require the Commission and the Authority to reportto him on the matters referred to in paragraph (a) .
+(2) The services specified for the purposes of subsection
+(1)(a)(ii) are—
+(a) the national television broadcasting service commonly
+known as RTE ´One and RTE ´Two established and main-
+tained by the Authority,
+(b) the national television broadcasting service established
+and maintained by Teilifı ´s na Gaeilge under section 45(1)
+of the Act of 2001, and
+(c) the television programme service provided under the tele-
+vision programme service contract by the television prog-ramme service contractor.
+(3) If the Commission or the Authority is required to submit a
+report under subsection (1)(b) , they shall submit the report within
+six months of the date of the requirement.
+(4) Before making any report under subsection (1)(b) , the Com-
+mission shall consult with—
+(a) the holders of all television multiplex contracts,
+(b) the holders of all digital content contracts,
+(c) the television programme service contractor,
+(d) the Commission for Communications Regulation, and
+(e) such other persons as the Commission considers fit,
+and the Commission shall include in their report a summary of any
+representations made to them by the persons consulted.
+(5) For the purpose mentioned in subsection (1) , the Minister
+shall, on requiring reports under subsection (1)(b) , consult with—
+(a) such persons as appear to the Minister to represent view-
+ers as the Minister considers fit, and
+(b) such other persons as the Minister considers fit,
+regarding the matters referred to in subsection (1)(a) and also, if the
+Minister considers fit, regarding the likely effects on viewers of anyof the services referred to in subsection (2) ceasing to be broadcast
+by analogue means.
+13S.11S.11
+Amendments to
+section 12 of Act of2001.
+14[No. 15.] [2007.]Broadcasting (Amendment) Act 2007 .
+(6) The Minister may, at any stage or following consideration of
+a report under subsection (1)(b) , issue a policy direction under
+section 13 of the Communications Regulation Act 2002 regardingthe date or dates after which the Commission for CommunicationsRegulation may no longer grant licences under section 16(3) of theAct of 1960 or section 4(3) of the Act of 1988 in respect of theprovision of any of the services referred to in subsection (2) by ana-
+logue means.
+(7) The Commission for Communications Regulation may under
+section 7(1) of the Act of 1988 vary a term or condition of a licence
+issued under section 4(3) of that Act to ensure that—
+(a) any contract for the provision by analogue means of a
+service referred to in subsection (2)(c) that is renewed by
+the Commission shall contain a condition that after a datespecified in the contract the service may no longer beprovided by analogue means, and
+(b) any new contract entered into by the Commission for the
+provision of such a service by analogue means shall con-tain such a condition or, if no such date has been decidedupon, a condition that the service may no longer be pro-vided by analogue means after a date to be announcedby the Minister in due course.
+(8) The Authority shall endeavour to ensure that all viewers of
+services referred to in paragraphs (a) and (b)ofsubsection (2) pro-
+vided by analogue means are made aware, in general terms, of thedigital switchover date or dates, the reasons for it or them, the con-sequences, and practical information on how such viewers canreceive such services by digital means after that date or those dates.
+(9) For the purpose of subsection (8) , “digital switchover date or
+dates” means the date or dates after which the Commission forCommunications Regulation may no longer grant any licences speci-fied in subsection (6) .
+(10) The Authority shall on or before the second, fourth and sixth
+anniversaries of the date of commencement of this section report tothe Minister on the progress made by the Authority in the broadcast-ing of programme material and related and other data in a digitalform by means of the national multiplexes established, maintainedand operated by the Authority under subsection (1) of section 16 ofthe Act of 1960.
+(11) The Minister shall cause copies of each report made to him
+or her under subsections (1) and (10) to be laid before each House
+of the Oireachtas.
+12.—Section 12 of the Act of 2001 is hereby amended—
+(a) in subsection (1) by the substitution for “for the purpose
+of any arrangements to be entered into by him or herunder paragraph ( a)o r( b) of section 14(1)” of “for
+inclusion as part of a multiplex”, and
+(b) in paragraph ( b) of subsection (2) by the deletion of “by
+the designated company”.[2007.] [ No. 15.] Broadcasting (Amendment) Act 2007 .
+13.—Section 16 of the Act of 2001 is hereby amended—
+(a) in subsection (7) by the substitution for “transmitted by
+the transmission company pursuant to arrangementsunder section 14(1) and” of “included as part of a mul-tiplex, within the meaning of the Broadcasting
+(Amendment) Act 2007 , and transmitted by”, and
+(b) by the substitution for subsection (9) of the following
+subsection:
+“(9) The Commission may give a direction to—
+(a) a multiplex contractor, within the meaning of
+the Broadcasting (Amendment) Act 2007 ,
+requiring that contractor to include as part ofa television multiplex, within the meaning ofthat Act, the electronic programme guide orguides prepared under the programme guidecontract referred to in subsection (8), and
+(b) each holder of a licence referred to in section
+37(1) requiring him or her to transmit the saidguide or guides,
+and the said contractor and each such holder shall comply
+with such a direction.”.
+14.—Section 28 of the Act of 2001 is hereby amended—
+(a) by substituting the following for paragraphs ( c) and ( d)o f
+subsection (8):
+“(c) exercising all or any of the powers conferred on
+it by subsection (2) (other than paragraphs(bb) and ( bbb) (inserted by this Act) thereof)
+of section 16 of the Act of 1960,
+(d) providing, pursuant to its powers under the
+Broadcasting Authority Acts 1960 to 2001, anyservice (other than a broadcasting service) forthe benefit of the public,
+(e) providing a service under subsection (1A) of
+section 16 of the Act of 1960, and
+(f) the establishment, maintenance and operation
+of one or more national multiplexes pursuantto subsection (1) of section 16 of the Act of1960.”,
+(b) by substituting the following for subsection (10):
+“(10) Without prejudice to sections 25(1) and 26 of the
+Act of 1960, the Authority shall, as soon as may be afterthe end of each financial year, make a report to the Mini-ster of the use it has made with regard to, respectively, thetelevision broadcasting service and the sound broadcastingservice referred to in subsection (1) and the televisionbroadcasting service and sound broadcasting servicereferred to in subsection (1A) of section 16 of the Act of1960, of the moneys paid to it under section 8 of the Act
+15Amendments to
+section 16 of Act of2001.
+Amendments to
+section 28 of Act of2001.S.14
+Amendment to
+section 32 of Act of2001.
+Amendments to
+section 45 of Act of2001.
+16[No. 15.] [2007.]Broadcasting (Amendment) Act 2007 .
+of 1976 in that year for the purpose of the activities, during
+that year, referred to in paragraphs ( a), (b) and ( c) of sub-
+section (2) and paragraphs ( d) and ( e) of subsection (8).”,
+and
+(c) by substituting the following subsections for subsection
+(11):
+“(10A) The Authority shall on or before the third and
+fifth anniversaries of the date of commencement of thissection carry out a review of the provision of the televisionbroadcasting service and sound broadcasting servicereferred to in subsection (1A) of section 16 of the Actof 1960.
+(10B) The Authority shall make a report to the Mini-
+ster of each review carried out by it under subsection(10A).
+(11) The Minister shall cause copies of each report
+made to him or her under subsection (10) and (10B) to belaid before each House of the Oireachtas.”.
+15.—Section 32 of the Act of 2001 is hereby amended by substitut-
+ing the following for subsection (1):
+“(1) The function conferred on the Minister by section
+25(1) of the Act of 1960 with respect to directing (whether onthe Minister’s own motion or at the request of the Minister forFinance) the Authority to keep special accounts includes apower (exercisable on the Minister’s own motion or at therequest of the Minister for Finance) to direct the Authority tokeep a special account showing the manner, with regard to,respectively, the television broadcasting service and soundbroadcasting service referred to in subsection (1) of section 28and the television broadcasting service and sound broadcastingservice referred to in subsection (1A) of section 16 of the Actof 1960, in which the moneys paid to it under section 8 of theAct of 1976 in the year concerned have been appropriated forthe purpose of the activities of the Authority, during that year,referred to in paragraphs ( a), (b) and ( c) of subsection (2) and
+paragraphs ( d) and ( e) of subsection (8) of section 28.”.
+16.—Section 45 of the Act of 2001 is hereby amended—
+(a) by inserting the following after paragraph ( j) of subsec-
+tion (8):
+“(k) to establish, maintain and operate broadcasting
+stations and to acquire, install and operateapparatus for wireless telegraphy.”,
+and
+(b) by inserting the following after subsection (8):
+“(9) ( a) The powers conferred on Teilifı ´sn aG a e i l g eb y
+virtue of paragraph ( k) of subsection (8) of this
+section shall not be exercised save underlicence issued by the Commission for[2007.] [ No. 15.] Broadcasting (Amendment) Act 2007 .
+Communications Regulation and in accord-
+ance with any conditions attached by the Com-mission for Communications Regulation tosuch licence.
+(b) During the continuation of any emergency
+declared under section 10 of the Wireless Tel-egraphy Act 1926, the Minister may suspendany licence under this subsection and, whileany such suspension continues, the Ministermay operate any service which was providedby Teilifı ´s na Gaeilge under the suspended
+licence or require such service to be operatedas he directs.
+(c) A copy of every licence under this subsection
+shall be laid before each House of theOireachtas as soon as may be after the issue ofthe licence.”.
+17.—The enactment mentioned in the Schedule is hereby repealed
+to the extent specified in the third column of the Schedule .
+18.—The expenses incurred by the Minister in the administration
+of this Act shall, to such extent as may be sanctioned by the Ministerfor Finance, be paid out of moneys provided by the Oireachtas.
+SCHEDULE
+Enactments Repealed
+Number and year Short title Extent of repeal
+No. 4 of 2001 Broadcasting Act In section 2 the definitions of
+2001 “digital multiplex licence”, “DTT
+licence”, “multiplex”, “themultiplex company” and “thetransmission company”
+Sections 5 to 9
+Sections 13 to 15
+17S.16
+Repeals.
+Expenses.
+Section 17.

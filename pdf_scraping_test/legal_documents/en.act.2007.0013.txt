@@ -1,0 +1,1440 @@
+————————
+Number 13of2007
+————————
+ASSET COVERED SECURITIES (AMENDMENT) ACT 2007
+————————
+ARRANGEMENT OF SECTIONS
+Section
+1. Definition of “Principal Act”.
+2. Amendment of section 3 of Principal Act.3. Amendment of section 4 of Principal Act.4. Amendment of section 5 of Principal Act.5. Amendment of section 6 of Principal Act.
+6. Amendment of section 11 of Principal Act.7. Amendment of section 12 of Principal Act.8. Amendment of section 13 of Principal Act.9. Amendment of section 14 of Principal Act.
+10. Amendment of section 15 of Principal Act.11. Amendment of section 16 of Principal Act.12. Amendment of section 17 of Principal Act.13. Amendment of section 18 of Principal Act.14. Amendment of section 21 of Principal Act.15. Amendment of section 22 of Principal Act.16. Amendment of section 25 of Principal Act.17. Amendment of section 27 of Principal Act.18. Amendment of section 28 of Principal Act.19. Amendment of section 30 of Principal Act.20. Amendment of section 32 of Principal Act.21. Amendment of section 33 of Principal Act.22. Amendment of section 34 of Principal Act.2[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+23. Amendment of section 35 of Principal Act.
+24. Amendment of section 36 of Principal Act.25. Amendment of section 38 of Principal Act.26. Lifting of certain restrictions on cover assets pool of a desig-
+nated mortgage credit institution.
+27. Amendment of section 40 of Principal Act.28. Amendment of section 41 of Principal Act.29. Modifications to Chapter 1 of Part 4 of Principal Act in its
+application to securitised mortgage credit assets.
+30. Chapter 1A— issue of asset covered securities by designated
+commercial mortgage credit institutions.
+31. Amendment of section 42 of Principal Act.
+32. Amendment of section 43 of Principal Act.33. Amendment of section 45 of Principal Act.34. Amendment of section 46 of Principal Act.35. Amendment of section 47 of Principal Act.36. What can be included in the cover assets pool maintained by
+a designated public credit institution.
+37. Amendment of section 49 of Principal Act.38. Amendment of section 50 of Principal Act.39. Amendment of section 51 of Principal Act.40. Amendment of section 53 of Principal Act.41. Lifting of certain restrictions on cover assets pool of a desig-
+nated public credit institution.
+42. Amendment of section 55 of Principal Act.43. Amendment of section 56 of Principal Act.44. Amendment of section 58 of Principal Act.45. Amendment of section 61 of Principal Act.46. Amendment of section 62 of Principal Act.47. Amendment of section 66 of Principal Act.48. Amendment of section 71 of Principal Act.49. Amendment of section 72 of Principal Act.50. Amendment of section 78 of Principal Act.51. Amendment of section 81 of Principal Act.[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+52. Amendment of section 83 of Principal Act.
+53. Amendment of section 85 of Principal Act.54. Amendment of section 88 of Principal Act.55. Amendment of section 89 of Principal Act.56. Provisions applicable where a credit institution is more than
+one kind of designated credit institution.
+57. Amendment of section 91 of Principal Act.58. Principles and policies applicable to making of orders, etc.,
+under Principal Act.
+59. Further amendments to Principal Act.60. Schedule 3 — further amendments to Principal Act.61. Short title, construction, collective citation and com-
+mencement.
+————————
+34[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+Act Referred to
+Asset Covered Securities Act 2001 2001, No. 47————————
+Number 13of2007
+————————
+ASSET COVERED SECURITIES (AMENDMENT) ACT 2007
+————————
+AN ACT TO AMEND THE ASSET COVERED SECURITIES
+ACT 2001.
+[9th April , 2007]
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+1.—In this Act, “Principal Act” means the Asset Covered Securi-
+ties Act 2001.
+2.—Section 3(1) of the Principal Act is amended—
+(a) by inserting the following after the definition of “agricultu-
+ral land”:
+“ ‘article 22(4) securities’ mean bonds which come within
+the terms of the first sub-paragraph of Article 22(4) ofCouncil Directive 85/611/EEC of 20 December 1985 onthe coordination of laws, regulations and administrativeprovisions relating to undertakings for collective invest-ment in transferable securities (UCITS)
+1(as inserted by
+Council Directive 88/220/EC of 22 March 1988 amending,as regards the investment policies of certain UCITS,Directive 85/611/EEC on the coordination of laws, regu-lations and administrative provisions relating to under-takings for collective investments in transferable securi-ties (UCITS)
+2);”,
+(b) in the definition of “asset covered securities”—
+(i) in paragraph ( a), by deleting “and”, and
+(ii) by inserting the following after paragraph ( a):
+“(ab) in relation to a designated or formerly des-
+ignated commercial mortgage credit insti-tution, means commercial mortgagecovered securities issued by the insti-tution, and”,
+1OJ No. L 375, 31.12.1985, p. 03
+2OJ No. L 100, 19.04.1988, p. 31
+5Definition of
+“Principal Act”.
+Amendment of
+section 3 ofPrincipal Act.S.2
+6[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+(c) by substituting the following for the definition of “category
+A country”:
+“ ‘category A country’ means a country to which section
+5(1)( b)o r( c) relates;”,
+(d) by substituting the following for the definition of “category
+B country”:
+“ ‘category B country’ means a country (other than an
+EEA country or a category A country) that—
+(a) is a full member of the Organisation for Econ-
+omic Co-operation and Development, and
+(b) has not rescheduled its external debt at any time
+during the immediately preceding 5 years;”,
+(e) by substituting the following for the definitions of “Cod-
+ified Banking Directive” and “commercial property”:
+“ ‘Codified Banking Directive’ means Directive 2006/48/EC
+of the European Parliament and of the Council of 14 June2006 relating to the taking up and pursuit of the business ofcredit institutions (recast)
+3as amended or replaced from
+time to time by any directive or regulation made by com-petent organs of the European Union which has beenimplemented under the laws of the State;
+‘commercial mortgage covered security’, in relation to a
+designated or formerly designated commercial mortgagecredit institution, means a security that is—
+(a) issued by the institution in accordance with this
+Act, and
+(b) secured over the cover assets that are comprised
+in a cover assets pool maintained by theinstitution;
+‘commercial mortgage credit’ means mortgage credit
+which is secured on commercial property;
+‘commercial mortgage credit asset’—
+(a) subject to paragraph ( b), means property or an
+asset—
+(i) held or to be held by a designated or for-
+merly designated commercial mortgagecredit institution, and
+(ii) which comprises one or more commercial
+mortgage credits,
+(b) does not include property or an asset which
+comprises all or any part of any pool hedgecollateral;
+‘commercial property’—
+3OJ L 177, 30.06.2006, p. 1[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+(a) subject to paragraph ( b)—
+(i) means a building or part of a building fixed
+on land that is used, or is set aside to beused, primarily for the purpose of anyindustry, trade or other business under-taking, and
+(ii) includes—
+(I) the land on which such building or
+such part of a building, as the casemay be, is located, and
+(II) the fixtures that are used in conjunc-
+tion with such building or such part ofa building, as the case may be,
+(b) does not include either—
+(i) a building or part of a building that is fixed
+on land that is used, or is set aside to beused, primarily for the purpose of anymine, quarry or agriculture, or
+(ii) subject to section 4(6) and (7), a building
+or part of a building that is residentialproperty;”,
+(f) in the definition of “cover assets”—
+(i) in paragraph ( a), by deleting “and”,
+(ii) in paragraph ( b), by substituting “institution, and” for
+“institution;”, and
+(iii) by inserting the following after paragraph ( b):
+“(c) in relation to a designated or formerly des-
+ignated commercial mortgage credit insti-tution, means commercial mortgage creditassets, cover assets hedge contracts or sub-stitution assets that are held in a coverassets pool maintained by the institution;”,
+(g) in the definition of “cover assets hedge contract”—
+(i) in paragraph ( a), by deleting “and”,
+(ii) in paragraph ( b), by substituting “section 45(3), and”
+for “section 45(3);”, and
+(iii) by inserting the following after paragraph ( b):
+“(c) in relation to a designated or formerly des-
+ignated commercial mortgage credit insti-tution, means a contract of a kind enteredinto in accordance with section 30(3) asapplied and modified by section 41B;”,
+(h) in the definition of “cover assets pool”—
+7S.2S.2
+8[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+(i) in paragraph ( a), by substituting “institution,” for “in-
+stitution, and”,
+(ii) in paragraph ( b) by substituting “institution, and” for
+“institution;”, and
+(iii) by inserting the following after paragraph ( b):
+“(c) in relation to a designated or formerly des-
+ignated commercial mortgage credit insti-tution, means the commercial mortgagecredit assets, cover assets hedge contractsand substitution assets held by the insti-tution that are recorded in the register ofcommercial mortgage covered securitiesbusiness kept by the institution;”,
+(i) in the definition of “credit institution”, by deleting para-
+graph ( d),
+(j) by substituting the following for the definition of “desig-
+nated credit institution”:
+“ ‘designated credit institution’ means—
+(a) a designated mortgage credit institution,
+(b) a designated commercial mortgage credit insti-
+tution, or
+(c) a designated public credit institution;”,
+(k) by inserting the following after the definition of “dealing”:
+“ ‘designated commercial mortgage credit institution’
+means an institution designated by the Authority inaccordance with Part 3 to carry on the permitted businessactivities referred to in section 27(1) as applied and modi-fied by section 41B;”,
+(l) by inserting the following after the definition of “Euro-
+pean Central Bank”:
+“ ‘exposure’ has the meaning given to it by Regulation 20
+of the European Communities (Capital Adequacy of Cre-dit Institutions) Regulations 2006 (S.I. No. 661 of 2006);”,
+(m) by substituting the following for the definition of “form-
+erly designated credit institution”:
+“ ‘formerly designated credit institution’ means an insti-
+tution that was formerly registered as—
+(a) a designated mortgage credit institution,
+(b) a designated commercial mortgage credit insti-
+tution, or
+(c) a designated public credit institution;”,
+(n) by inserting the following after the definition of “holder”:[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+“ ‘include’, in relation to an asset or property and a cover
+assets pool, register of mortgage covered securities busi-ness, register of commercial mortgage covered securitiesbusiness or register of public credit covered securitiesbusiness—
+(a) subject to paragraph ( b), means—
+(i) the insertion of that asset or property, as
+the case may be, into that pool, or
+(ii) the insertion of an entry in that register in
+respect of that asset or property, as thecase may be,
+as the case requires,
+(b) does not include—
+(i) if paragraph ( a)(i) is applicable, the con-
+tinued maintenance of that asset or prop-erty, as the case may be, in that pool afterit has been inserted therein,
+(ii) if paragraph ( a)(ii) is applicable, the con-
+tinued maintenance of that entry in thatregister after it has been inserted therein,
+and ‘included’ and ‘inclusion’ shall be con-
+strued accordingly;”,
+(o) by substituting the following for the definition of “mortg-
+age credit asset”:
+“ ‘mortgage credit asset’—
+(a) subject to paragraph ( b), means—
+(i) an asset or property—
+(I) held or to be held by a designated or
+formerly designated mortgage creditinstitution, and
+(II) that comprises one or more mortgage
+credits, or
+(ii) an asset or property—
+(I) held or to be held by a designated or
+formerly designated commercialmortgage credit institution, and
+(II) that comprises one or more commer-
+cial mortgage credits,
+(b) does not include an asset or property which
+comprises all or any part of any pool hedgecollateral;”,
+(p) by inserting the following after the definition of “national
+central bank”:
+9S.2S.2
+10[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+“ ‘non-commercial administrative bodies’ include commer-
+cial undertakings, or undertakings with non-commercialand commercial activities, owned or controlled by centralgovernments or regional governments or local authoritieswhere the debt concerned of the undertaking is useddirectly or indirectly for the purpose of complying withpublic service obligations;”,
+(q) in the definition of “non-performing”, in paragraph ( b),
+by inserting “(but disregarding, for the purposes of thisparagraph, section 4(4))” after “section 4(1)”,
+(r) by inserting the following after the definition of
+“performing”:
+“ ‘pool hedge collateral’, in relation to a cover assets hedge
+contract, means any asset or property provided to a desig-nated credit institution by or on behalf of any other con-tracting party to that contract where the terms of thecontract—
+(a) provide for an absolute transfer of the asset or
+property, as the case may be, to the institutionby way of collateral but not by way of securitywithin the meaning of section 58, or
+(b) both—
+(i) provide for the transfer of the asset or
+property, as the case may be, to the insti-tution by way of security within the mean-ing of section 58, and
+(ii) give the institution the right to deal with
+the asset or property, as the case may be,under that security as if the institutionwere the absolute owner of that asset orproperty, as the case may be;”,
+(s) in the definition of “prudent market value”—
+(i) in paragraph ( a), by deleting “and”, and
+(ii) by inserting the following after paragraph ( a):
+“(ab) in relation to a commercial mortgage credit
+asset or substitution asset held or pro-posed to be held by a designated commer-cial mortgage credit institution— the pru-dent market value as determined inaccordance with section 41 as applied andmodified by section 41B, and”,
+(t) by substituting the following for the definition of “public
+credit asset”:
+“ ‘public credit asset’—
+(a) subject to paragraph ( b), means an asset or
+property held by a designated or formerly des-ignated public credit institution that comprisesone or more public credits,[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+(b) does not include an asset or property that com-
+prises all or any part of any pool hedgecollateral;
+‘public sector entities’ mean—
+(a) non-commercial administrative bodies respon-
+sible to—
+(i) central governments, regional governments
+or local authorities, or
+(ii) authorities that are regarded by the com-
+petent authority (within the meaning ofRegulation 2 of the European Communi-ties (Capital Adequacy of CreditInstitutions) Regulations 2006), for thepurposes of the Codified BankingDirective, as exercising the sameresponsibilities as regional governments orlocal authorities,
+(b) non-commercial undertakings owned by central
+governments that have explicit guaranteearrangements, or
+(c) self-administered bodies governed by law that
+are under public supervision;”,
+(u) by inserting the following after the definition of “record”:
+“ ‘register of commercial mortgage covered securities busi-
+ness’, in relation to a designated or formerly designatedcommercial mortgage credit institution, means the registerthat the institution is required to keep under section 38 asapplied and modified by section 41B;
+‘register of designated commercial mortgage credit insti-
+tutions’ means the register established in accordance withsection 17(1A);”,
+(v) in the definition of “residential property”, by inserting
+“, subject to section 4(6) and (7),” after “means”,
+(w) by inserting the following after the definition of “secured”:
+“ ‘securitised mortgage credit asset’ means an asset which
+qualifies as a mortgage credit asset by virtue of section4(4);”,
+(x) in the definition of “super-preferred creditor”, by inserting
+“, subject to section 88(5),” after “means”, and
+(y) in the definition of “supervisory enactment”, by deleting
+paragraph ( d).
+3.—Section 4 of the Principal Act is amended—
+(a) by substituting the following for subsection (4):
+11S.2
+Amendment of
+section 4 ofPrincipal Act.S.3
+Amendment of
+section 5 ofPrincipal Act.
+12[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+“(4) For the purposes of subsection (1), a financial obli-
+gation includes a financial obligation that is in the form ofsecurity that represents an interest in other mortgage cre-dit that is securitised.”,
+(b) in subsection (5), by substituting “comprised” for “in-
+cluded” in the 2 places where it occurs, and
+(c) by inserting the following after subsection (5):
+“(6) Where a mortgage credit asset secured on residen-
+tial property would, but for the exclusion of residentialproperty from the definition of ‘commercial property’ insection 3(1), also be secured on commercial property, adesignated commercial mortgage credit institution may,for the purposes of this Act, treat that asset as if it weresecured on commercial property rather than residentialproperty.
+(7) Where a mortgage credit asset is secured on a single
+property asset that would, but for this subsection, consti-tute commercial property in part and residential propertyin part, then that mortgage credit asset shall, for the pur-poses of this Act, be regarded, in relation to that propertyasset, as secured only on commercial property.
+(8) In this section—
+‘other security’, in relation to residential or commercial
+property located outside the State, means a kind of secur-ity interest over that property that is recognised as a validsecurity interest under the lex situs of that property;
+‘securitised’ shall be construed in accordance with Article
+4(36) of the Codified Banking Directive.”.
+4.—Section 5 of the Principal Act is amended—
+(a) in subsection (1)—
+(i) by substituting “is any one of the following:” for
+“is—”,
+(ii) by substituting the following for paragraphs ( a)t o( f):
+“(a) central governments, central banks, public
+sector entities, regional governments orlocal authorities in the State or in anyother EEA country,
+(b) central governments and central banks in
+Australia, Canada, Japan, New Zealand,the Swiss Confederation, the UnitedStates of America or a country specifiedin an order made under subsection (3),
+(c) public sector entities, regional governments
+and local authorities in Australia, Canada,Japan, New Zealand, the Swiss Confeder-ation, the United States of America or a[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+country specified in an order made under
+subsection (3),
+(d) (i) multilateral development banks which
+qualify as such for the purposes of theCodified Banking Directive, or
+(ii) international organisations which qual-
+ify as such for the purposes of theCodified Banking Directive,
+(e) central governments, central banks, public
+sector entities, regional governments orlocal authorities in a category B country,or
+(f) any other entity established in a country to
+which paragraph ( a), (b)o r( e) relates that
+is prescribed by order of the Minister forthe purposes of this section.”,
+(b) in subsection (2), by inserting “an interest in” after “re-
+presents”,
+(c) by substituting the following for subsection (3):
+“(3) The Minister may, by order notified in Iris Oifigi-
+u´il, specify, for the purposes of paragraph ( b)o r( c)o f
+subsection (1), a country other than—
+(a) a country referred to in the paragraph con-
+cerned, or
+(b) an EEA country.”,
+(d) by deleting subsections (4) and (5), and
+(e) by substituting the following for subsections (7) and (8):
+“(7) Subject to subsection (8), where, but for this sub-
+section, a credit qualifies in part only as a public credit, adesignated public credit institution may treat all of thatcredit as public credit for the purposes of this Act.
+(8) For the purposes of—
+(a) section 47(8) and (11),
+(b) any contractual undertaking referred to in
+section 47(13) of the institution, or
+(c) section 56(1),
+a designated public credit institution shall not treat, as
+public credit pursuant to subsection (7), any part of anycredit which would not qualify as public credit but forthat subsection.”.
+13S.4Amendment of
+section 6 ofPrincipal Act.
+Amendment of
+section 11 ofPrincipal Act.
+Amendment of
+section 12 ofPrincipal Act.
+Amendment of
+section 13 ofPrincipal Act.
+Amendment of
+section 14 ofPrincipal Act.
+14[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+5.—Section 6 of the Principal Act is amended—
+(a) in subsection (1), by inserting “(other than such assets that
+comprise any pool hedge collateral)” after “followingassets”, and
+(b) by inserting the following after subsection (3):
+“(4) Property referred to in subsection (3)( a) shall be
+an exposure to an institution within the meaning of Article4(6) of the Codified Banking Directive.”.
+6.—Section 11(1) of the Principal Act is amended by inserting
+“after consulting the Authority,” after “may,”.
+7.—Section 12 of the Principal Act is amended—
+(a) by inserting the following after subsection (1):
+“(1A) A person shall not—
+(a) purport to issue commercial mortgage covered
+securities in accordance with this Act,
+(b) represent or advertise that the person is a desig-
+nated commercial mortgage credit institution,or is authorised by this Act to carry on a busi-ness involving the issue of commercial mort-gage covered securities, or
+(c) claim to have the benefits conferred on desig-
+nated commercial mortgage credit institutionsby or under this Act,
+unless the person is registered as a designated commercial
+credit institution in accordance with this Part.”,
+and
+(b) in subsection (3), by inserting “, (1A)” after “subsection
+(1)”.
+8.—Section 13 of the Principal Act is amended—
+(a) in subsection (1), by inserting “, as a designated commer-
+cial mortgage credit institution” after “mortgage creditinstitution”, and
+(b) by substituting the following for subsection (5):
+“(5) Nothing in this section prevents the same person
+from making an application for registration as more thanone kind of designated credit institution.”.
+9.—Section 14 of the Principal Act is amended—
+(a) by inserting the following after subsection (1):[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+“(1A) The Authority may register an applicant as a
+designated commercial mortgage credit institution only ifit is satisfied that the applicant—
+(a) is or will be able to carry out, in a proper man-
+ner, the responsibilities that a designated com-mercial mortgage credit institution is requiredby this Act to carry out, and
+(b) complies with, or will be able to comply with,
+such requirements (if any) relating to desig-nated commercial mortgage credit institutionsas are prescribed by the regulations and by theregulatory notices.”,
+(b) by inserting the following after subsection (4):
+“(4A) On granting an application for registration as a
+designated commercial mortgage credit institution, theAuthority shall—
+(a) record the appropriate particulars of the appli-
+cant in the register of designated commercialmortgage credit institutions, and
+(b) issue the applicant with a certificate of regis-
+tration as a designated commercial mortgagecredit institution,
+and, if the Authority has imposed conditions on the appli-
+cant under subsection (3), shall specify those conditions inthe certificate or in one or more documents thataccompany the certificate.”,
+and
+(c) in subsection (6), by inserting “, designated commercial
+mortgage credit institution” after “mortgage creditinstitution”.
+10.—Section 15 of the Principal Act is amended—
+(a) by inserting the following after subsection (1):
+“(1A) Registration as a designated commercial mort-
+gage credit institution authorises the institution named inthe certificate of registration to carry on the business of adesignated commercial mortgage credit institution inaccordance with this Act.”,
+(b) in subsection (5), by inserting “, a designated commercial
+mortgage credit institution” after “mortgage credit insti-tution”, and
+(c) by inserting the following after subsection (5):
+“(6) Registration under this Act of a person as a part-
+icular kind of designated credit institution permitted bythis Act does not permit that person to act as another kindof designated credit institution permitted by this Act
+15S.9
+Amendment of
+section 15 ofPrincipal Act.S.10
+Amendment of
+section 16 ofPrincipal Act.
+Amendment of
+section 17 ofPrincipal Act.
+Amendment of
+section 18 ofPrincipal Act.
+Amendment of
+section 21 ofPrincipal Act.
+Amendment of
+section 22 ofPrincipal Act.
+Amendment of
+section 25 ofPrincipal Act.
+16[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+unless that person is also registered under this Act as that
+other kind of designated credit institution.”.
+11.—Section 16 of the Principal Act is amended—
+(a) in subsection (2), by inserting “, a designated commercial
+mortgage credit institution” after “mortgage credit insti-tution”, and
+(b) by inserting the following after subsection (2):
+“(3) Without limiting subsection (1) or the powers of
+the Authority under other provisions of this Act, theAuthority may vary a condition imposed, or impose a con-dition, pursuant to subsection (1) which the Authority con-siders to be necessary, incidental, consequential or sup-plementary to the implementation of, or compliance with,the Codified Banking Directive or any directive or regu-lation made by competent organs of the European Unionwhich has been implemented under the laws of the State,and is relevant to article 22(4) securities which qualify ascovered bonds for the purposes of the Codified BankingDirective.”.
+12.—Section 17 of the Principal Act is amended—
+(a) by inserting the following after subsection (1):
+“(1A) The Authority is required to establish and keep
+a register of designated commercial mortgage creditinstitutions.”,
+and
+(b) by inserting the following after subsection (3):
+“(3A) The register of designated commercial mortgage
+credit institutions must contain the name and the addressof the principal place of business of each designated com-mercial mortgage credit institution and such other infor-mation as the Authority determines.”.
+13.—Section 18 of the Principal Act is amended by inserting “a
+designated commercial mortgage credit institution,” after “mortgagecredit institution,”.
+14.—Section 21(2) of the Principal Act is amended by deleting “to
+the satisfaction of the Authority”.
+15.—Section 22 (3) of the Principal Act is amended by substituting
+“section 20 or 21” for “this section”.
+16.—Section 25 of the Principal Act is amended by substituting
+the following for paragraphs ( b), (c) and ( d):
+“(b) a trustee savings bank, or[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+(c) a building society,”.
+17.—Section 27 of the Principal Act is amended—
+(a) in subsection (1)—
+(i) by substituting the following for paragraph ( a):
+“(a) providing mortgage credit, dealing in and
+holding mortgage credit assets and provid-ing group mortgage trust services,”,
+(ii) in paragraph ( f), by substituting “assets or activities
+permitted by this subsection” for “assets of a kindmentioned in paragraphs ( a)t o( e)”, and
+(iii) in paragraph ( g), by inserting “and dealing in and
+holding pool hedge collateral” after “to ( f)”,
+(b) in subsection (2)( b), by substituting “mortgage” for
+“asset”,
+(c) in subsection (3), in the definition of “credit transaction
+asset”, by substituting “any asset arising from the activi-ties referred to in section 27(1)( c)o r( f), mortgage” for
+“a mortgage”, and
+(d) by inserting the following after subsection (5):
+“(6) Where a designated mortgage credit institution
+holds mortgage security and, if applicable, collateral secur-ity subject to a trust as a consequence of the institutionproviding group mortgage trust services to one or moregroup entities—
+(a) the mortgage credit assets held by the institution
+shall not include any group entity assets,
+(b) for the purposes of section 81(4), only mortgage
+security and, if applicable, collateral security tothe extent such security secures mortgage cre-dit assets held by the institution shall be com-prised in its cover assets pool and constitutecover assets, and
+(c) as regards recourse by the institution or such
+group entities to such security to satisfy its ortheir, as the case may be, respective claimsunder any mortgage credit assets held by theinstitution or any group entity assets held byone or more such group entities—
+(i) such claims held by the institution for its
+own benefit shall at all times until they aredischarged in full rank in priority in allrespects to such claims held by such groupentities with respect to such recourse, and
+(ii) any terms of the trust or any agreement
+between the institution and one or moresuch group entities purporting to provide
+17S.16
+Amendment of
+section 27 ofPrincipal Act.S.17
+Amendment of
+section 28 ofPrincipal Act.
+18[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+for a different priority as between such
+claims held by the institution and suchclaims held by such group entities shallbe void.
+(7) In this section—
+‘collateral security’ means any security, guarantee, indem-
+nity or insurance which secures, in addition to mortgagesecurity, assets that comprise one or more mortgagecredits;
+‘group entity’, in relation to a designated mortgage credit
+institution, means—
+(a) a parent entity of the institution,
+(b) a subsidiary of the institution, or
+(c) a subsidiary, other than the institution, of a
+parent entity of the institution;
+‘group entity assets’ means any assets that comprise of one
+or more mortgage credits held by one or more group enti-ties where—
+(a) those assets are secured by mortgage security
+and, if applicable, collateral security, and
+(b) that security is comprised in a trust constituted
+for the purposes of group mortgage trustservices;
+‘group mortgage trust services’ mean services provided by
+a designated mortgage credit institution to one or moregroup entities—
+(a) which involve the institution holding mortgage
+security and, if applicable, collateral securityon trust for one or more such group entities,and
+(b) where, under that trust, the institution holds an
+interest in that security for one or more suchgroup entities (whether as trustee or agent)and for its own behalf;
+‘mortgage security’ means a mortgage, charge or other
+security referred to in section 4(1) which secures assetsthat comprise one or more mortgage credits;
+‘subsidiary’ has the same meaning as is given by section
+3(7).”.
+18.—Section 28 of the Principal Act is amended by substituting
+the following for the second sentence:
+“However, this section does not prevent such an institution that
+is also registered as a different kind of designated credit insti-tution permitted by this Act from carrying on business activities[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+that can be lawfully carried on by such a designated credit
+institution.”.
+19.—Section 30 of the Principal Act is amended—
+(a) in subsection (2)( b), by inserting “(including those relating
+to pool hedge collateral)” after “into”,
+(b) by substituting the following for subsections (3) and (4):
+“(3) If a contract of a kind referred to in subsection (1)
+relates only to—
+(a) mortgage covered securities issued by a desig-
+nated mortgage credit institution,
+(b) mortgage credit assets or substitution assets, or
+both, that are comprised in the cover assetspool maintained by a designated mortgage cre-dit institution, or
+(c) mortgage covered securities issued by a desig-
+nated mortgage credit institution and mortgagecredit assets or substitution assets, or both, thatare comprised in the cover assets pool main-tained by a designated mortgage creditinstitution,
+and the institution and each other party to the contract
+have agreed that the contract is to be included in the coverassets pool as a cover asset, the institution shall ensurethat the contract complies with the requirements of sub-sections (4) and (5).
+(4) A contract of the kind referred to in subsection (3)
+may relate only to—
+(a) mortgage covered securities issued by the
+institution,
+(b) mortgage credit assets or substitution assets, or
+both, that are comprised in the cover assetspool maintained by it, or
+(c) mortgage covered securities issued by the insti-
+tution and mortgage credit assets or substi-tution assets, or both, that are included in thecover assets pool maintained by it,
+and may consist of one or more contracts or transactions
+which when taken together directly or indirectly sorelate.”,
+and
+(c) by the insertion of the following after subsection (9):
+“(10) A designated mortgage credit institution shall
+establish and keep a register in respect of any pool hedgecollateral that it holds from time to time.
+19S.18
+Amendment of
+section 30 ofPrincipal Act.S.19
+20[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+(11) The register referred to in subsection (10) shall be
+called the register of pool hedge collateral and shall bekept separate from the register of mortgage coveredsecurities business.
+(12) The register of pool hedge collateral may be kept
+in book form, in electronic form or in any other form solong as the register is capable of being reproduced visually.
+(13) The institution shall include in the register of pool
+hedge collateral the following particulars:
+(a) particulars of the pool hedge collateral it holds
+from each counterparty to a cover assetshedge contract;
+(b) particulars of the cover assets hedge contracts
+that relate to the pool hedge collateral;
+(c) where the institution is registered as more than
+one kind of designated credit institution, part-iculars of the relevant cover assets pool towhich the pool hedge collateral relates; and
+(d) such other particulars as are prescribed by a
+regulatory notice made in accordance with sub-section (15).
+(14) Unless—
+(a) the Authority otherwise requires, by a direction
+in writing, whether to an individual designatedmortgage credit institution or to designatedmortgage credit institutions generally, or pur-suant to a regulatory notice made in accord-ance with subsection (15), or
+(b) a designated mortgage credit institution is
+potentially insolvent or insolvent,
+the consent of the cover-assets monitor shall not be
+required for an institution to make, amend or delete anentry in its register of pool hedge collateral.
+(15) The Authority may, by regulatory notice published
+inIris Oifigiu ´il, specify requirements in relation to—
+(a) the type of assets or property that qualify as
+pool hedge collateral,
+(b) the maintenance and operation of the register
+of pool hedge collateral,
+(c) particulars that an institution shall include in the
+register of pool hedge collateral for the pur-poses of paragraph ( d) of subsection (13),
+(d) the circumstances in which, pursuant to subsec-
+tion (14), the consent of the cover-assets moni-tor is required for a designated mortgage creditinstitution to make, amend or delete an entryin its register of pool hedge collateral.[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+(16) The Authority or any person authorised by the
+Authority may inspect and take copies of the register ofpool hedge collateral.
+(17) The Authority may, by notice in writing, require a
+designated mortgage credit institution to provide to theAuthority or the cover-assets monitor, or both of them,such information in relation to pool hedge collateral heldby that institution and at such intervals as may be specifiedto the institution by the Authority.”.
+20.—Section 32 of the Principal Act is amended—
+(a) in subsection (5)( a), by substituting “comprised” for
+“included”,
+(b) in subsection (8)—
+(i) in paragraph ( d), by substituting “comprised” for “in-
+cluded”, and
+(ii) by inserting “(but, for the purposes of this subsection,
+disregarding the effect of any pool hedge collateral)”after “and those securities”,
+(c) by substituting the following for subsection (9):
+“(9) For the purposes of subsection (8)( a), ‘duration’,
+in relation to the cover assets pool or mortgage coveredsecurities secured on the pool, means a weighted averageterm to maturity of the relevant principal amount of themortgage credit assets and substitution assets comprised inthe pool or those securities, as the case may be, deter-mined in accordance with a formula or criteria specified ina regulatory notice made for the purposes of this subsec-tion and taking into account the effect of any relevantcover assets hedge contract entered into by the institutionin relation to the pool or those securities, or both, as thecase may be.”,
+(d) in subsection (11)—
+(i) by substituting “comprised” for “included”, and
+(ii) by substituting “property asset” for “property assets”,
+(e) by substituting the following for subsection (12):
+“(12) For the purposes of this section, the prudent
+market value of a property asset which relates to a mort-gage credit asset is required to be calculated at such timesas the Authority specifies, after having regard to the valua-tion requirements applicable to covered bonds under theCodified Banking Directive, in accordance with or under aregulatory notice made in accordance with section 41(1).”,
+(f) by inserting the following after subsection (14):
+“(15) For the purposes of subsection (8)( b) but subject
+to subsection (16), a designated mortgage credit institutionis required to maintain a minimum level of regulatory
+21S.19
+Amendment of
+section 32 ofPrincipal Act.S.20
+Amendment of
+section 33 ofPrincipal Act.
+22[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+overcollateralisation of its cover assets pool with respect
+to the mortgage covered securities in issue which aresecured on the pool.
+(16) Subsection (15) shall not affect any contractual
+undertaking made by the institution in respect of the pru-dent market value of the cover assets pool being greaterthan the total of the principal amounts of the mortgagecovered securities in issue and secured on that pool andwhich is the subject of a cover-assets monitor’s functionsunder the Asset Covered Securities Act 2001 (Sections61(1), 61(2) and 61(3)) (Overcollateralisation) Regulations2004 (S.I. No. 419 of 2004), where that undertakingrequires a higher level of cover assets to be maintained inthe pool than subsection (15).
+(17) For the purposes of subsection (15), ‘regulatory
+overcollateralisation’ means that the prudent market valueof the mortgage credit assets and substitution assets com-prised in the cover assets pool, expressed as a percentageof the total of the nominal or principal amounts of themortgage covered securities in issue which are secured onthat pool, is a minimum of 103 per cent after taking intoaccount the effect of any cover assets hedge contract com-prised in the cover assets pool.”.
+21.—Section 33 of the Principal Act is amended—
+(a) by substituting the following for subsections (2), (3) and
+(4):
+“(2) A designated mortgage credit institution—
+(a) may include in the cover assets pool maintained
+by the institution a mortgage credit asset orsubstitution asset that is located within one ormore category A countries, and
+(b) shall not include in the cover assets pool main-
+tained by the institution a mortgage creditasset or substitution asset that is located in oneor more category B countries.”,
+and
+(b) by substituting the following for subsection (6):
+“(6) Subject to subsection (7), a designated mortgage
+credit institution may not include in a cover assets pool amortgage credit asset if a building related to that mortgagecredit asset is being or is to be constructed unless the insti-tution attributes to such mortgage credit asset—
+(a) a prudent market value of nil for the purposes
+of section 32(8) and (15), and
+(b) any contractual undertaking referred to in
+section 32(16) made by the institution.
+(7) Subsection (6) shall cease to apply in the case of a
+building referred to in that subsection immediately upon[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+the building being ready for occupation as a commercial
+or residential property.”.
+22.—Section 34 of the Principal Act is amended—
+(a) in subsection (1), by substituting “section 32(1), (4), (5),
+(7) or (15), a contractual undertaking referred to insection 32(16) or section 33(5) or (6)” for “section 32(1),(4), (5) or (7) or section 33(2), (3), (5) or (6)”, and
+(b) by inserting the following after subsection (2):
+“(2A) A designated mortgage credit institution shall, as
+soon as practicable after becoming aware that a cover assetcomprised in its cover assets pool would, if the institutionwere to include that asset at that time in its pool, contra-vene section 35(8)( a) or 41A(1)( c)(iii), remove that cover
+asset from its cover assets pool and, where required by thisAct, replace it in accordance with section 35. Until thesesteps have been taken, the institution may not issue anyfurther mortgage covered securities.”.
+23.—Section 35 of the Principal Act is amended—
+(a) in subsection (1), by substituting “comprised” for
+“included”,
+(b) in subsection (3), by inserting “when” after “an underly-
+ing asset”,
+(c) by substituting the following for subsection (8):
+“(8) A designated mortgage credit institution may not
+at any time include a substitution asset in the cover assetspool maintained by the institution—
+(a) unless the substitution asset concerned meets
+the creditworthiness standards or criteriaapplicable to it which may be specified by theAuthority in a regulatory notice made for thepurposes of this subsection, or
+(b) if, after including the substitution asset con-
+cerned in the pool, the total prudent marketvalue of all substitution assets then comprisedin the pool at the relevant time would exceedthe prescribed percentage of the aggregatenominal or principal amount of outstandingmortgage covered securities secured on thepool. For the purposes of this subsection, theprescribed percentage is 15 per cent or, if anorder under subsection (9) specifies some otherpercentage, that other percentage.”,
+(d) by inserting the following after subsection (9):
+“(9A) For the purposes of subsection (8), when
+determining the total prudent market value of all substi-tution assets comprised in a cover assets pool at any time
+23S.21
+Amendment of
+section 34 ofPrincipal Act.
+Amendment of
+section 35 ofPrincipal Act.S.23
+Amendment of
+section 36 ofPrincipal Act.
+Amendment of
+section 38 ofPrincipal Act.
+Lifting of certain
+restrictions on coverassets pool of adesignatedmortgage creditinstitution.
+24[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+there shall be disregarded any substitution assets rep-
+resented by exposures caused by the transmission andmanagement of payments of the obligors under, or liqui-dation proceeds in respect of, mortgage credit assets com-prised in the pool.
+(9B) The Authority may, by regulatory notice pub-
+lished in Iris Oifigiu ´il,specify creditworthiness standards
+or criteria for the purposes of subsection (8) and such stan-dards or criteria—
+(a) shall have regard to creditworthiness standards
+or criteria applicable to substitution assets aseligible collateral for covered bonds under theCodified Banking Directive, and
+(b) may differentiate between substitution assets
+which have a maximum maturity of 100 daysand those which have a longer maturity.”.
+24.—Section 36(4) of the Principal Act is amended by substituting
+“comprised” for “included”.
+25.—Section 38 of the Principal Act is amended—
+(a) in subsection (5), by inserting “, delete” after “make”, and
+(b) by substituting the following for subsection (7):
+“(7) If a designated mortgage credit institution is also
+a designated commercial mortgage credit institution or adesignated public credit institution, the institution isrequired to keep its register of mortgage covered securitiesbusiness separate from, as applicable—
+(a) its register of commercial mortgage covered
+securities business,
+(b) its register of public credit covered securities
+business.”.
+26.—The Principal Act is amended by inserting the following after
+section 39:
+“Lifting of
+certainrestrictions oncover assetspool of adesignatedmortgagecreditinstitution.39A.—For so long as—
+(a) a cover assets pool maintained by a des-
+ignated mortgage credit institution iscomprised in part of cover assets whichmeet the requirements of section 32(8)and (15) and of any contractual under-taking made by the institution referredto in section 32(16), and
+(b) those cover assets meet the other
+requirements of this Part,
+then any provision of this Part which restricts the
+proportion or percentage of the cover assets poolwhich may be comprised of certain cover assets or[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+criteria or standards applicable to cover assets
+shall not apply to any further such cover assetscomprised or to be comprised from time to timein that cover assets pool, and the provisions of thisPart shall be construed accordingly.”.
+27.—Section 40 of the Principal Act is amended—
+(a) in subsection (1)( c), by substituting “mortgage credit
+assets and substitution assets comprised in the coverassets pool that relates” for “cover assets pools thatrelate”, and
+(b) in subsection (2)—
+(i) in paragraph ( c), by substituting “mortgage credit
+assets are non-performing as at that date, and if theyare” for “any persons who owe money under mort-gage credit assets have defaulted in making pay-ments in respect of those assets when due and pay-able, and if they have”,
+(ii) in paragraph ( d), by inserting “so as to render them
+non-performing for the purposes of this Act” after“(£787.56)”, and
+(iii) in paragraph ( h), by inserting “and not on residential
+property” after “property”.
+28.—Section 41 of the Principal Act is amended by inserting the
+following after subsection (6):
+“(7) A regulatory notice made under this section may, and
+shall be deemed always to have been capable of, specifyingrequirements in relation to particular assets or properties ordifferent kinds of assets or properties (including kinds withrespect to where assets or properties are located or where theassets or properties are secured on commercial or residentialproperties).”.
+29.—The Principal Act is amended by inserting the following after
+section 41 but in Chapter 1 of Part 4:
+“Modifications
+to this Chapterin itsapplication tosecuritisedmortgagecredit assets.41A.—(1) This Chapter shall be modified as
+follows in relation to securitised mortgage creditassets:
+(a) securitised mortgage credit assets shall
+be disregarded for the purposes ofsections 31(1), 32(11), (12) and (13)and 40(2);
+(b) the location of securitised mortgage cre-
+dit assets for the purposes of section33(1) and (2) shall be determined byreference to the location of the prop-erty assets related to the mortgage cre-dit assets which are securitised;
+25S.26
+Amendment of
+section 40 ofPrincipal Act.
+Amendment of
+section 41 ofPrincipal Act.
+Modifications to
+Chapter 1 of Part 4of Principal Act inits application tosecuritisedmortgage creditassets.S.29
+26[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+(c) securitised mortgage credit assets may
+only be included by a designated mort-gage credit institution in the coverassets pool if those assets satisfy thefollowing requirements:
+(i) the securitisation entity which is the
+issuer of the securitised mortgagecredit assets is established underand subject to the laws of anEEA country;
+(ii) at least 90 per cent of the assets
+held, directly or indirectly, by thesecuritisation entity are assets thatcomprise one or more mortgagecredits, but disregarding, for thepurposes of this subsection—
+(I) assets that comprise one or
+more mortgage credits whichif they were held by a desig-nated mortgage credit insti-tution would only qualify asmortgage credit assets undersection 4(4), and
+(II) such assets representing
+exposures caused by trans-mission and management ofpayments of the obligorsunder, or liquidation pro-ceeds in respect of, assets thatcomprise one or more mort-gage credits;
+(iii) the securitised mortgage credit
+assets constitute senior claims ofthe securitisation entity in thatthey meet any creditworthinessstandards or criteria which may bespecified by the Authority in aregulatory notice made for thepurposes of this paragraph;
+(iv) the nominal or principal amount
+outstanding of the securitisedmortgage credit assets comprisedin the cover assets pool at anytime do not exceed any applicablepercentage, which may be speci-fied by the Authority by regulat-ory notice, of the nominal or prin-cipal amount of the outstandingmortgage covered securities issuedby the institution; and
+(v) the securitised mortgage assets
+have a prudent market value notgreater than the amount deter-mined under subsection (2) inrespect of those assets.[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+(2) For the purposes of—
+(a) section 32(8) and (15),
+(b) any contractual undertaking made by
+the institution referred to in section32(16), and
+(c) section 41(1) and (2),
+securitised mortgage credit assets shall have a pru-
+dent market value no greater than an amountequal to the lesser of the following:
+(i) the principal or nominal amount out-
+standing of the securitised mortgagecredit assets concerned;
+(ii) subject to subsection (3), the principal
+or nominal amount of assets that com-prise one or more mortgage creditsheld by the securitisation entity lessany credits having security over theproperty assets, the subject also ofthose mortgage credit assets, whichrank ahead of the security over thosemortgage credit assets held by the sec-uritisation entity; and
+(iii) subject to subsection (3), an amount
+equal to the applicable percentage ofthe value of the property assets whichare the subject of the mortgage creditassets held by the securitisation entity.
+(3) For the purpose of determining the princi-
+pal or nominal amount of credits (including mort-gage credit assets) for the purposes of subsection(2)(ii) or the value of property assets for the pur-poses of subsection (2)(iii), an aggregate basisshall be used having regard to—
+(a) the proportion which the nominal or
+principal amount of the securitisedmortgage credit assets concerned bearas against the total of the nominal orprincipal amount of securitised assetsthat comprise one or more mortgagecredits issued by the securitisationentity and which are secured on thesame assets as the securitised mortgagecredit assets concerned, and
+(b) the ranking in terms of seniority of the
+securitised mortgage credit assets con-cerned as against all securitised assetsthat comprise one or more mortgagecredits issued by the relevant securitis-ation entity and which are secured onthe same assets as the securitised mort-gage credit assets concerned.
+27S.29S.29
+28[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+(4) The Authority may, by regulatory notice
+published in Iris Oifigiu ´il, specify creditworthiness
+standards or criteria for securitised mortgage cre-dit assets for the purposes of subsection (1)( c)(iii).
+(5) The Authority may, by regulatory notice
+published in Iris Oifigiu ´il, specify—
+(a) a percentage for the purposes of subsec-
+tion (1)( c)(iv), and
+(b) any circumstances related to credit-
+worthiness of the securitised mortgagecredit assets concerned to which suchpercentage applies.
+(6) The applicable percentage for the purposes
+of subsection (2)(iii) shall be—
+(a) where the property assets which are
+related to the securitised mortgage cre-dit assets comprise residential propertyonly, 80 per cent,
+(b) in any other case, 60 per cent.
+(7) The Authority may, by regulatory notice
+published in Iris Oifigiu ´il, specify requirements or
+criteria with respect to—
+(a) the creditworthiness of securitised mort-
+gage credit assets which may beacquired and held by a designatedmortgage credit institution outside itscover assets pool, or
+(b) any matter referred to in this section.
+(8) The Authority shall, when making any
+regulatory notice for the purposes of this section,have regard to any applicable standards or criteriarelevant to article 22(4) securities which qualify ascovered bonds under the Codified BankingDirective.
+(9) A designated mortgage credit institution
+shall include the following information in respectof securitised mortgage credit assets comprised inits cover assets pool in its annual financial state-ment or in a document accompanying thestatement:
+(a) the name of the securitisation entities
+which are the issuers of those assetsand the principal or nominal amountand class or title of those assets, as atthe date to which the statement ismade up; and
+(b) any information prescribed by the regu-
+lations for the purposes of thissubsection.[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+(10) In subsection (3), ‘securitised’ shall be con-
+strued in accordance with Article 4(36) of theCodified Banking Directive.”.
+30.—Part 4 of the Principal Act is amended by inserting the follow-
+ing after Chapter 1:
+“Chapter 1A
+Issue of asset covered securities by designated commercial
+mortgage credit institutions
+Modifications
+to Chapter 1and sections4(2) to (5), 58,61, 71 and 91to enable themto apply todesignatedcommercialmortgagecreditinstitutions.41B.—(1) The provisions of Chapter 1 and of
+sections 4(2) to (5), 58, 61, 71 and 91 shall applyto designated commercial mortgage credit insti-tutions with the following modifications:
+(a) references therein to ‘asset covered
+securities’ or ‘mortgage covered securi-ties’ shall mean commercial mortgagecovered securities;
+(b) references therein to ‘designated mort-
+gage credit institutions’ or, except insections 28 and 38(7), to ‘designatedcredit institutions’ shall mean desig-nated commercial mortgage creditinstitutions;
+(c) references therein to ‘mortgage credit
+assets’ shall mean commercial mort-gage credit assets;
+(d) references therein to ‘property assets’
+shall mean commercial property;
+(e) except in section 38(7), references ther-
+ein to a ‘register of mortgage coveredsecurities business’ shall mean theregister of commercial mortgagecovered securities business;
+(f) except in sections 32(13)( a) and
+41A(6)( a), references therein to ‘resi-
+dential property’ shall mean commer-cial property;
+(g) references therein to ‘securitised mort-
+gage credit assets’ shall mean secur-itised mortgage credit assets therelated property assets of which com-prise commercial property;
+(h) sections 32(13)( a), 33(5) and 40(2) shall
+not apply to designated commercialmortgage credit institutions;
+(i) where orders, regulations, regulatory
+notices or other notices may be madeor given under section 4(3), 27(4) or(5), 30(2) or (15), 31(1), (4) or (5),
+29S.29
+Chapter 1A— issue
+of asset coveredsecurities bydesignatedcommercialmortgage creditinstitutions.S.30
+30[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+32(10) or (14), 35(9) or (9B), 38(4), (5)
+or (6), 39(2), 41(1), (3) or (5), 41A,61(1), (2) or (3) or 91(2), (2A) or (3)in relation to designated mortgage cre-dit institutions—
+(i) separate orders, regulations, regu-
+latory notices or other notices, asthe case may be, may be made inrelation to designated commercialmortgage credit institutions, and
+(ii) orders, regulations, regulatory
+notices or other notices, as thecase may be, may be made inrelation to both designated com-mercial mortgage credit insti-tutions and designated mortgagecredit institutions;
+(j) where orders, regulations, regulatory
+notices or other notices, have beenmade under any provision of Chapter1 or of section 4, 61 or 91 prior to thecommencement of this Chapter, suchorders, regulations, regulatory noticesor other notices, as the case may be,shall not apply to designated commer-cial mortgage credit institutions;
+(k) where orders, regulations, regulatory
+notices or other notices are madeunder any provision of Chapter 1 or ofsection 4, 61 or 91 after the commence-ment of this Chapter, those orders,regulations, regulatory notices or othernotices, as the case may be, shall notapply in relation to designated com-mercial mortgage credit institutionsunless those orders, regulations, regu-latory notices or other notices, as thecase may be, expressly so provide;
+(l) in section 32(17), the reference to 103
+per cent shall be amended to 110 percent;
+(m) in sections 33(6)( b), 34(1), 39A( a) and
+41A(2)( b) any reference to section
+32(16) shall be amended to subsection(4) of this section; and
+(n) in sections 61 and 91 references to pro-
+visions of Chapter 1 shall be as suchprovisions are amended by this section.
+(2) If a designated commercial mortgage credit
+institution is also a designated mortgage creditinstitution or a designated public credit institution,the institution is required to keep its register ofcommercial mortgage covered securities businessseparate from, as applicable—[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+(a) its register of mortgage covered securi-
+ties business,
+(b) its register of public credit covered
+securities business.
+(3) A designated commercial mortgage credit
+institution shall include the following informationin its annual financial statement, or in a documentaccompanying the statement, in respect of com-mercial mortgage credit assets that are recorded inthe institution’s register of commercial mortgagecovered securities business:
+(a) the number of commercial mortgage
+credit assets, as at the date to whichthe statement is made up, with theamounts of principal outstanding inrespect of the related credits beingspecified in tranches of—
+(i)\2,500,000 or less,
+(ii) more than \2,500,000 but not more
+than \5,000,000,
+(iii) more than \5,000,000 but not more
+than \25,000,000,
+(iv) more than \25,000,000 but not
+more than \50,000,000, and
+(v) more than \50,000,000;
+(b) the geographical areas in which the
+related property assets are located andthe number and percentage of thoseassets held in each of those areas;
+(c) whether or not any such commercial
+mortgage credit assets are non-per-forming as at that date, and if theyare—
+(i) the number of those assets as at
+that date, and
+(ii) the total amount of principal out-
+standing in respect of those assetsat that date;
+(d) whether or not any persons who owed
+money under commercial mortgagecredit assets had, during the immedi-ately preceding financial year of theinstitution (if any), defaulted in mak-ing payments in respect of those assetsin excess of \25,000 so as to render
+them non-performing for the purposesof this Act at any time during thatyear, and if any such persons haddefaulted, the number of those assets
+31S.30S.30
+Amendment of
+section 42 ofPrincipal Act.
+32[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+that were held in the cover assets pool
+at the date to which the financial state-ment for that year was made up;
+(e) the number of cases in which the insti-
+tution has replaced commercial mort-gage credit assets with other assetsbecause those commercial mortgagecredit assets were non-performing;
+(f) the total amount of interest in arrears in
+respect of such commercial mortgagecredit assets that has not been writtenoff at that date;
+(g) the total amount of payments of princi-
+pal repaid and the total amount ofinterest paid in respect of such com-mercial mortgage credit assets; and
+(h) any other information prescribed by the
+regulations for the purposes of thissubsection.
+(4) Section 32(15) as applied to designated
+commercial mortgage credit institutions and modi-fied by subsection (1)( l) shall not preclude a desig-
+nated commercial mortgage credit institution fromgiving a contractual undertaking in respect of theprudent market value of the cover assets poolbeing greater than the total of the nominal or prin-cipal amounts of the commercial mortgagecovered securities which are in issue and securedon that pool where such undertaking requires ahigher level of cover assets to be maintained in thepool than section 32(15) as so applied, or affectsuch an undertaking.”.
+31.—Section 42 of the Principal Act is amended—
+(a) in subsection (1)—
+(i) in paragraph ( f), by inserting “and other activities per-
+mitted by this subsection” after “( e)”, and
+(ii) in paragraph ( g), by inserting “and dealing in and
+holding pool hedge collateral” after “( f)”,
+(b) in subsection (2)( b), by substituting “public credit” for “as-
+set”, and
+(c) in subsection (3), in the definition of “credit transaction
+asset”, by substituting “any asset arising from the activi-ties referred to in subsection (1)( c)o r( f), public” for “a
+public”.[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+32.—Section 43 of the Principal Act is amended by substituting
+the following for the second sentence:
+“However, this section does not prevent such an institution that
+is also a different kind of designated credit institution permittedby this Act from carrying on business activities that can lawfullybe carried on by such an institution.”.
+33.—Section 45 of the Principal Act is amended—
+(a) in subsection (2)( b), by inserting “(including those relating
+to pool hedge collateral)” after “into”,
+(b) by substituting the following for subsections (3) and (4):
+“(3) If—
+(a) a contract of a kind referred to in subsection (1)
+relates only to—
+(i) public credit securities issued by a desig-
+nated public credit institution,
+(ii) public credit assets or substitution assets, or
+both, that are comprised in a cover assetspool maintained by a designated publiccredit institution, or
+(iii) both—
+(I) public credit securities issued by a des-
+ignated public credit institution, and
+(II) public credit assets or substitution
+assets, or both, that are comprised ina cover assets pool maintained bythat institution,
+and
+(b) the institution and each other party to the con-
+tract have agreed that the contract is to becomprised in the cover assets pool as a coverasset,
+the institution shall ensure that the contract complies with
+the requirements of subsections (4) and (5).
+(4) A contract of the kind referred to in subsection (3)—
+(a) may relate only to—
+(i) public credit covered securities issued by
+the institution,
+(ii) public credit assets of substitution assets, or
+both, that are comprised in a cover assetspool maintained by it, or
+(iii) both—
+33Amendment of
+section 43 ofPrincipal Act.
+Amendment of
+section 45 ofPrincipal Act.S.33
+34[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+(I) public credit covered securities issued
+by the institution, and
+(II) public credit assets or substitution
+assets, or both, that are comprised ina cover assets pool maintained by it,
+and
+(b) may consist of one or more contracts or trans-
+actions which when taken together directly orindirectly so relate.”,
+and
+(c) by inserting the following after subsection (9):
+“(10) A designated public credit institution shall estab-
+lish and keep a register in respect of any pool hedge col-lateral that it holds from time to time.
+(11) The register referred to in subsection (10) shall be
+called the register of pool hedge collateral and shall bekept separate from the register of public credit coveredsecurities business.
+(12) The register of pool hedge collateral may be kept
+in book form, in electronic form or in any other form solong as the register is capable of being reproduced visually.
+(13) The institution shall include in the register of pool
+hedge collateral the following particulars:
+(a) particulars of the pool hedge collateral it holds
+from each counterparty to a cover assetshedge contract;
+(b) particulars of the cover assets hedge contracts
+that relate to the pool hedge collateral;
+(c) where the institution is registered as more than
+one kind of designated credit institution underthis Act, particulars of the relevant cover assetspool to which the pool hedge collateralrelates; and
+(d) such other particulars as are prescribed by the
+regulations made by the Authority pursuant tosubsection (15).
+(14) Unless—
+(a) the Authority otherwise requires, by a direction
+in writing, whether to an individual designatedpublic credit institution or to designated publiccredit institutions generally, or pursuant to aregulatory notice made in accordance with sub-section (15), or
+(b) a designated public credit institution is poten-
+tially insolvent or insolvent,[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+the consent of the cover-assets monitor shall not be
+required for an institution to make, amend or delete anentry in its register of pool hedge collateral.
+(15) The Authority may, by regulatory notice published
+inIris Oifigiu ´il, specify requirements in relation to—
+(a) the type of assets or property that qualify as
+pool hedge collateral,
+(b) the maintenance and operation of the register
+of pool hedge collateral,
+(c) particulars that an institution shall include in the
+register of pool hedge collateral for the pur-poses of paragraph ( d) of subsection (13),
+(d) the circumstances in which, pursuant to subsec-
+tion (14), the consent of the cover assets moni-tor is required for a designated public creditinstitution to make, amend or delete an entryin its register of pool hedge collateral.
+(16) The Authority or any person authorised by the
+Authority may inspect and take copies of the register ofpool hedge collateral.
+(17) The Authority may, by notice in writing, require a
+designated public credit institution to provide to the Auth-ority or the cover-assets monitor, or both of them, suchinformation in relation to pool hedge collateral held bythat institution and at such intervals as may be specifiedto the institution by the Authority.”.
+34.—Section 46 of the Principal Act is amended by deleting sub-
+sections (5), (6) and (7).
+35.—Section 47 of the Principal Act is amended—
+(a) in subsection (5)( a), by substituting “comprised” for
+“included”,
+(b) in subsection (8)—
+(i) in paragraph ( d), by substituting “comprised” for “in-
+cluded”, and
+(ii) by inserting “(but, for the purposes of this subsection,
+disregarding the effect of any pool hedge collateral)”after “and those securities”,
+(c) by substituting the following for subsection (9):
+“(9) For the purposes of subsection (8)( a), ‘duration’,
+in relation to the cover assets pool or public credit coveredsecurities secured on the pool, means, subject to subsec-tion (9A), a weighted average term to maturity of the rel-evant principal amount of the public credit assets and sub-stitution assets comprised in the pool or those securities,
+35S.33
+Amendment of
+section 46 ofPrincipal Act.
+Amendment of
+section 47 ofPrincipal Act.S.35
+36[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+as the case may be, determined in accordance with a for-
+mula or criteria specified in a regulatory notice made forthe purposes of this subsection, after taking into accountthe effect of any relevant cover assets hedge contractentered into by the institution in relation to the pool orthose securities, or both, as the case may be.
+(9A) For the purposes of the definition of ‘duration’ in
+subsection (9), the weighted average term to maturity ofthe principal or nominal amount of the public credit assetsand substitution assets comprised in the cover assets poolmust not be more than 3 years greater than the weightedaverage term to maturity of the public credit coveredsecurities secured on that pool after taking into accountthe effect of any relevant cover assets hedge contractentered into by the institution in relation to the pool orthose securities, or both, as the case may be.”,
+and
+(d) by inserting the following after subsection (10):
+“(11) For the purpose of subsection (8)( b), a designated
+public credit institution is required to maintain a minimumlevel of regulatory overcollateralisation of its cover assetspool with respect to the public credit covered securities inissue which are secured on the pool.
+(12) For the purposes of subsection (11), the Authority
+may, by regulatory notice notified in Iris Oifigiu ´il—
+(a) specify a formula or criteria—
+(i) to determine the present value of—
+(I) public credit assets and substitution
+assets comprised in a cover assetspool, and
+(II) public credit covered securities in issue
+which are secured on that pool,
+(ii) that may take account of cover assets hedge
+contracts relating to those assets or securi-ties, or both,
+(b) specify the frequency of any determination by
+the designated public credit institution of thosepresent values.
+(13) Subsection (11) shall not affect any contractual
+overcollateralisation undertaking made by the institutionand which is the subject of the cover-assets monitor’s func-tions under the Asset Covered Securities Act 2001(Sections 61(1), 61(2), 61(3)) (Overcollateralisation)Regulations 2002 (S.I. No. 635 of 2002), where that con-tractual overcollateralisation undertaking requires ahigher level of cover assets to be maintained in the coverassets pool than subsection (11).
+(14) In this section—[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+‘contractual overcollateralisation undertaking’ means a
+contractual undertaking by the designated public creditinstitution that the prudent market value of the coverassets pool is to be maintained by the institution at a speci-fied level greater than the total of the principal amountsof the public credit covered securities in issue which aresecured on that pool;
+‘regulatory overcollateralisation’ means that the present
+value of the public credit assets and substitution assetscomprised in the cover asset pool, expressed as a percent-age of the present value of the public credit coveredsecurities in issue which are secured on that pool, is a mini-mum of 103 per cent after taking account of the effect ofany cover assets hedge contract comprised in the coverassets pool.”.
+36.—Section 48 of the Principal Act is repealed and substituted by
+the following:
+“What can be
+included in thecover assetspoolmaintained bya designatedpublic creditinstitution.48.—(1) Subject to the other provisions of this
+Chapter, a designated public credit institution—
+(a) may include any public credit asset or
+substitution asset located within anEEA country or category A country inthe cover assets pool maintained bythe institution,
+(b) shall not include a public credit asset or
+substitution asset located only within acategory B country in the cover assetspool maintained by the institution.
+(2) A designated public credit institution may
+not, subject to subsection (3), include in its coverassets pool—
+(a) a section 5(1)( b) asset or a section
+5(1)( d) asset unless such asset complies
+with any creditworthiness standards orcriteria which may be specified by theAuthority in a regulatory notice madefor the purposes of this paragraph,
+(b) a section 5(1)( c) asset unless such asset
+complies with—
+(i) risk weighting standards or criteria
+for capital adequacy purposeswhich may be specified by theAuthority in a regulatory noticemade for the purposes of thisparagraph, and
+(ii) creditworthiness standards or
+criteria which may be specified bythe Authority in a regulatorynotice made for the purposes ofthis paragraph.
+37S.35
+What can be
+included in thecover assets poolmaintained by adesignated publiccredit institution.S.36
+Amendment of
+section 49 ofPrincipal Act.
+38[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+(3) A section 5(1)( b) asset, section 5(1)( c) asset
+or section 5(1)( d) asset may, notwithstanding sub-
+section (2), be included by a designated public cre-dit institution in its cover assets pool providedthat—
+(a) any such assets comply with credit-
+worthiness standards or criteria, orrisk-weighting standards or criteria,which may be specified by the Auth-ority in a regulatory notice made forthe purposes of this paragraph, and
+(b) the total aggregate nominal or principal
+amount of all such assets comprised inthe cover assets pool at any time doesnot exceed 20% of the aggregate nomi-nal or principal amount of outstandingpublic credit covered securities issuedby the institution.
+(4) The Authority may, by regulatory notice
+published in Iris Oifigiu ´il, specify creditworthiness
+standards or criteria or, as applicable, risk-weight-ing standards or criteria for the purposes of sub-sections (2) and (3)( a).
+(5) The Authority, when making any regulat-
+ory notice provided for in subsection (4), shallhave regard to any relevant standards or criteriaapplicable under the Codified Banking Directivewhich are relevant to article 22(4) securities thatqualify as covered bonds for the purposes of thatDirective.
+(6) In this section—
+‘section 5(1)( b) asset’ means an asset or property
+which qualifies as a public credit asset by virtue ofsection 5(1)( b);
+‘section 5(1)( c) asset’ means an asset or property
+which qualifies as a public credit asset by virtue ofsection 5(1)( c);
+‘section 5(1)( d) asset’ means an asset or property
+which qualifies as a public credit asset by virtue ofsection 5(1)( d).”.
+37.—Section 49 of the Principal Act is amended—
+(a) in subsection (1), by substituting “, (7) or (11) or any con-
+tractual undertaking referred to in section 32(14)” for“or (7)”,
+(b) by inserting the following after subsection (2):
+“(2A) A designated public credit institution shall, as
+soon as practicable after becoming aware that a cover assetcomprised in its cover assets pool would, if the institution[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+were to include that asset at that time in its pool, contra-
+vene section 48(2) or 50(8)( a), remove that cover asset
+from its cover assets pool and, where required by this Act,replace it in accordance with section 50. Until these stepshave been taken, the institution may not issue any furtherpublic credit covered securities.”.
+38.—Section 50 of the Principal Act is amended—
+(a) in subsection (1), by substituting “comprised” for
+“included”,
+(b) in subsection (3), by inserting “when” after “an underlying
+asset”, and
+(c) by substituting the following for subsections (8) and (9):
+“(8) A designated public credit institution may not at
+any time include a substitution asset in a cover assets poolmaintained by the institution—
+(a) unless the substitution asset concerned meets
+the creditworthiness standards or criteriaapplicable to it which may be specified by theAuthority in a regulatory notice made for thepurposes of this subsection, or
+(b) if, after including the substitution asset con-
+cerned in the pool, the total prudent marketvalue of all substitution assets then comprisedin the pool at the relevant time would exceedthe prescribed percentage of the aggregatenominal or principal amount of outstandingpublic credit covered securities secured on thepool. For the purposes of this subsection, theprescribed percentage is 15 per cent.
+(9) The Authority may, by regulatory notice published
+inIris Oifigiu ´il, specify creditworthiness standards or
+criteria for the purposes of subsection (8) and such stan-dards or criteria—
+(a) may have regard to creditworthiness standards
+or criteria under the Codified BankingDirective relevant to substitution assets andarticle 22(4) securities which qualify as coveredbonds for the purposes of that Directive, and
+(b) may differentiate between substitution assets
+which have a maximum maturity of 100 daysand those which have a longer maturity.”.
+39.—Section 51(4) of the Principal Act is amended by substituting
+“comprised” for “included”.
+40.—Section 53(5) of the Principal Act is amended by inserting “,
+delete” after “make”.
+39S.37
+Amendment of
+section 50 ofPrincipal Act.
+Amendment of
+section 51 ofPrincipal Act.
+Amendment of
+section 53 ofPrincipal Act.Lifting of certain
+restrictions on coverassets pool of adesignated publiccredit institution.
+Amendment of
+section 55 ofPrincipal Act.
+Amendment of
+section 56 ofPrincipal Act.
+Amendment of
+section 58 ofPrincipal Act.
+40[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+41.—The Principal Act is amended by inserting the following after
+section 54:
+“Lifting of
+certainrestrictions oncover assetspool of adesignatedpublic creditinstitution.54A.—For so long as—
+(a) a cover assets pool maintained by a des-
+ignated public credit institution is com-prised in part of cover assets whichmeet the requirements of section 47(8)and (11) and of any contractual over-collateralisation undertaking made bythe institution referred to in section47(13), and
+(b) those cover assets meet the other
+requirements of this Part,
+then any provision of this Part which restricts the
+proportion or percentage of the cover assets poolwhich may be comprised of certain cover assets orcriteria or standards applicable to cover assetsshall not apply to any further such cover assetscomprised or to be comprised from time to timein that cover assets pool, and the provisions of thisPart shall be construed accordingly.”.
+42.—Section 55 of the Principal Act is amended—
+(a) in paragraph ( a), by substituting “comprised” for
+“included”,
+(b) by inserting the following after paragraph ( a):
+“(ab) in the case of public credit assets comprised in
+the cover assets pool which are financial obli-gations of entities referred to in section5(1)( d), a reference to those kinds of public
+credit assets and the number and percentage ofthose assets which are referable to thatcategory,”,
+and
+(c) in paragraph ( b), by substituting “section” for
+“subsection”.
+43.—Section 56(1) of the Principal Act is amended—
+(a) by substituting “credit asset comprised” for “credit asset
+included”, and
+(b) by substituting “the date concerned” for “date that the
+asset is included in the pool”.
+44.—Section 58 of the Principal Act is amended by inserting the
+following after subsection (12):
+“(12A) A designated credit institution shall be, and shall be
+deemed always to have been, entitled to transfer its assets or[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+business by any means permitted by law other than this
+section.”.
+45.—Section 61 of the Principal Act is amended—
+(a) in subsection (1)—
+(i) by substituting “32(8) and (15)” for “32(8)”, and
+(ii) by substituting “, 38(4) and (5) and 41A(1)( c)” for
+“and 38(4) and (5)”,
+and
+(b) in subsection (2)( b), by substituting “and” for “or”.
+46.—Section 62(1) of the Principal Act is amended by substituting
+“47(8) and (11)” for “47(8)”.
+47.—Section 66 of the Principal Act is amended—
+(a) in subsection (2)( a), by substituting “comprised” for “in-
+cluded”, and
+(b) in subsection (3)( b), by substituting “, substitution asset or
+cover assets hedge contract” for “or substitution asset”.
+48.—Section 71( c) of the Principal Act is amended by substituting
+“and” for “, or appropriate”.
+49.—Section 72 of the Principal Act is amended by inserting the
+following after subsection (5):
+“(6) The Authority may, by notice in writing given to a man-
+ager appointed in respect of a designated credit institution, con-fer on that manager such additional responsibilities or powersas it considers appropriate for the effective management of theasset covered securities business activities of the institution.
+(7) If a liquidator, examiner or receiver is appointed in
+respect of a designated credit institution to which a manager hasbeen appointed, the manager may enter into arrangements withrespect to the management of the institution, including suchmatters as may be specified in the notice referred to in subsec-tion (6). Those arrangements—
+(a) must include arrangements relating to the payment of
+the remuneration of, and the costs incurred by, themanager, and
+(b) are subject to such conditions (if any) as are specified
+in that notice or as the Authority may notify to themanager in writing.
+(8) Without limiting subsection (6), where a designated credit
+institution in respect of which a manager has been appointedhas property or assets located for the purposes of this Act out-side the State and those assets or property are relevant to the
+41S.44
+Amendment of
+section 61 ofPrincipal Act.
+Amendment of
+section 62 ofPrincipal Act.
+Amendment of
+section 66 ofPrincipal Act.
+Amendment of
+section 71 ofPrincipal Act.
+Amendment of
+section 72 ofPrincipal Act.S.49
+Amendment of
+section 78 ofPrincipal Act.
+Amendment of
+section 81 ofPrincipal Act.
+Amendment of
+section 83 ofPrincipal Act.
+Amendment of
+section 85 ofPrincipal Act.
+42[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+manager’s functions under this Act, the manager may, with the
+prior consent in writing of the Authority, appoint agents withsuch powers of the manager and on such terms as the managerconsiders is required to enable the manager to carry out themanager’s functions under this Act and the claims of any suchagent shall be deemed to be claims of the manager for the pur-poses of this Act.”.
+50.—Section 78( a) of the Principal Act is amended by inserting
+“or in a notice referred to in section 72(6)” after “appointment”.
+51.—Section 81 of the Principal Act is amended by inserting the
+following after subsection (3):
+“(4) Subject to section 27(6), in this Part any reference to
+‘cover assets’ or a ‘cover assets pool’ includes—
+(a) in the case of mortgage credit assets, public credit
+assets and substitution assets which constitute coverassets or are comprised in the cover assets pool, anysecurity within the meaning of section 58, guarantee,indemnity and insurance held by the designated cre-dit institution in respect of such assets,
+(b) in the case of cover assets hedge contracts, any secur-
+ity within the meaning of section 58, guarantee,indemnity and insurance held by the designated cre-dit institution for, or pool hedge collateral providedto the institution under, such contracts.
+(5) Any reference in this Part to a ‘cover assets hedge con-
+tract’ includes any rights, obligations and title of the designatedcredit institution to, in or arising from pool hedge collateral orsecurity within the meaning of section 58 provided to the insti-tution under or for that contract.”.
+52.—Section 83 of the Principal Act is amended—
+(a) in subsection (1)—
+(i) by inserting “or formerly designated” after “desig-
+nated”, and
+(ii) by substituting “comprised” for “included”,
+and
+(b) in subsection (5)—
+(i) by inserting “or application” after “disposal”, and
+(ii) by substituting “comprised” for “included”.
+53.—Section 85(2) and (3) of the Principal Act is amended by sub-
+stituting “comprised” for “included”.[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+54.—Section 88 of the Principal Act is amended—
+(a) in subsection (1)—
+(i) by inserting “or formerly designated” after “desig-
+nated”, and
+(ii) by substituting “comprised” for “included”,
+(b) in subsection (2)—
+(i) by inserting “or formerly designated” after “de-
+signated”,
+(ii) by substituting “comprised” for “included”, and
+(iii) in paragraph ( b), by inserting “(but disregarding, for
+the purposes of this subsection, any claims overthose assets arising from mandatory laws in the rel-evant jurisdictions and any costs associated withadministering the security interest and realisingassets under the security interest)” after “Part”,
+(c) in subsection (3)—
+(i) by inserting “or formerly designated” after “desig-
+nated”, and
+(ii) by substituting “comprised” for “included”,
+and
+(d) by inserting the following after subsection (3):
+“(3A) Where a security interest of the kind referred to
+in subsection (2) is granted in favour of a trustee or otherrepresentative for the benefit of the persons referred to insubsection (2)( b) (which may include the claims of that
+trustee or other representative in its own right), then theclaims of that trustee or other representative in its ownright agreed by the manager, or where no manager hasbeen appointed to the institution, the cover-assets moni-tor, shall be deemed to be the claims of super-preferredcreditors for the purposes of this Act.
+(3B) The cover-assets monitor or any manager may
+enter into arrangements with any trustee or other rep-resentative referred to in subsection (5) in connectionwith—
+(a) their respective functions under this Act and
+operations relating to cover assets which arealso subject to the security arrangementsreferred to in subsection (2),
+(b) their respective functions under this Act and the
+enforcement or administration of cover assetswhich are also subject to security arrangementsreferred to in subsection (2).”.
+43Amendment of
+section 88 ofPrincipal Act.Amendment of
+section 89 ofPrincipal Act.
+Provisions
+applicable where acredit institution ismore than one kindof designated creditinstitution.
+44[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+55.—Section 89(2)( a) of the Principal Act is amended by substitut-
+ing “comprised” for “included”.
+56.—Section 90 of the Principal Act is repealed and substituted by
+the following:
+“Provisions
+applicablewhere a creditinstitution ismore than onekind ofdesignatedcreditinstitution.90.—(1) If a credit institution that is or was for-
+merly both a designated mortgage credit insti-tution and a different kind of designated creditinstitution permitted under this Act has—
+(a) issued mortgage covered securities, or
+(b) entered into a cover assets hedge con-
+tract comprised in its register of mort-gage credit covered securities business,
+the rights of the holder of those securities, or of
+each other party to the contract, are secured onlyon the cover assets that comprise the relevantcover assets pool.
+(2) If a credit institution that is or was formerly
+both a designated public credit institution and adifferent kind of designated credit institution per-mitted under this Act has—
+(a) issued public credit covered securities,
+or
+(b) entered into a cover assets hedge con-
+tract comprised in its register of publiccredit covered securities business,
+the rights of the holders of those securities, or of
+each other party to the contract, are secured onlyon the cover assets comprised in the relevant coverassets pool.
+(3) If a credit institution that is or was formerly
+both a designated commercial mortgage creditinstitution and a different kind of designated cre-dit institution permitted by this Act has—
+(a) issued commercial mortgage covered
+securities, or
+(b) entered into a cover assets hedge con-
+tract comprised in its register of com-mercial mortgage credit coveredsecurities business,
+the rights of the holders of those securities, or of
+each other party to the contract, are secured onlyon the cover assets comprised in the relevant coverassets pool.”.[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+57.—Section 91 of the Principal Act is amended—
+(a) in subsection (2)—
+(i) in paragraphs ( b) and ( c),by substituting “pool” for
+“pools”,
+(ii) in paragraph ( e), by substituting “comprised” for
+“included”,
+(iii) in paragraph ( k), by substituting “prescribe require-
+ments” for “supplement the provisions of this Act”,and
+(iv) by substituting the following for paragraph ( l):
+“(l) prescribe requirements relating to entering
+into reciprocal arrangements with qualify-ing countries in accordance with section102.”,
+and
+(b) by inserting the following after subsection (2):
+“(2A) The Authority may, by regulatory notice pub-
+lished in Iris Oifigiu ´il, impose requirements consistent with
+the provisions of this Act so as to ensure that asset coveredsecurities meet criteria which apply in relation to article22(4) securities which qualify as covered bonds under—
+(a) the Codified Banking Directive, or
+(b) any directive or regulation made by competent
+organs of the European Union which has beenimplemented under the laws of the State.”.
+58.—The Principal Act is amended by inserting the following after
+section 95:
+“Principles and
+policies
+applicable tomaking oforders, etc.under this Act.95A.—When the Minister or the Authority
+makes an order, regulation, regulatory notice orother notice under this Act, the Minister or theAuthority, as the case may be, shall have regard tothe following principles and policies to the extentapplicable to the relevant order, regulation, regu-latory notice or other notice, as the case may be:
+(a) the purposes of this Act as set out in
+section 2;
+(b) the need to develop the business of one
+or more types of designated creditinstitutions permitted by this Act hav-ing regard to domestic or internationalmarkets in which the institutionsoperate or may propose to operate;
+45Amendment of
+section 91 ofPrincipal Act.
+Principles and
+policies applicableto making of orders,etc., under PrincipalAct.S.58
+Further
+amendments toPrincipal Act.
+Schedule 3 —
+further amendmentsto Principal Act.
+46[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+(c) the need to protect the interests of pre-
+ferred creditors or other creditors ofone or more types of designated creditinstitutions permitted by this Act;
+(d) the need for the proper and proportion-
+ate regulation of one or more types ofdesignated credit institutions permittedby this Act; and
+(e) the Codified Banking Directive and any
+regulations and directives made bycompetent organs of the EuropeanUnion which have been implementedunder the laws of the State relevant toarticle 22(4) securities and assetcovered securities.”.
+59.—The Principal Act is amended by inserting the following after
+section 106:
+“Further
+amendmentsto this Act.107.—(1) The Minister may, by order notified
+inIris Oifigiu ´il, appoint a date for the purposes of
+Part 1, 2 or 3 of Schedule 3.
+(2) On the date appointed under subsection (1)
+for a Part of Schedule 3, this Act is amended asspecified in that Part.”.
+60.—The Principal Act is amended by inserting the following after
+Schedule 2:[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+Section 107.“SCHEDULE 3
+FURTHER AMENDMENTS TO THIS ACT
+PART 1
+Deletion of references to tier 2asset
+Item Section affected Amendment
+No.
+1. Section 3 ( a) In subsection (1), in the
+definition of “tier 1 asset”,substitute “assets.” for “assets;and”.
+(b) In subsection (1), delete the
+definition of “tier 2 asset”.
+2. Section 27 ( a) In subsection (1), delete
+paragraph ( e).
+(b) In subsection (3), in the
+definition of “credit transactionasset”, substitute “or substitutionasset” for “, substitution asset ortier 2 asset”.
+3. Section 31 ( a) In subsection (3), delete “and
+tier 2 assets”.
+(b) In subsection (5), delete “or tier
+2 assets”.
+4. Section 41 In subsection (5), delete “tier 2
+assets,”.
+5. Section 42 ( a) In subsection (1), delete
+paragraph ( e).
+(b) In subsection (3), in the
+definition of “credit transactionasset”, substitute “or substitutionasset” for “, substitution asset ortier 2 asset”.
+6. Section 46 In subsection (4), delete “or tier 2
+assets”.
+7. Section 56 In subsection (5), delete “tier 2
+assets”.
+47S.60S.60
+48[No. 13.] [2007.]Asset Covered Securities (Amendment)
+Act2007 .
+PART 2
+Deletion of references to tier 1asset
+Item Section affected Amendment
+No.
+1. Section 3 ( a) In subsection (1), in the
+definition of “supervisoryenactment”, substitute “notices.”for “notices;”.
+(b) In subsection (1), delete the
+definition of “tier 1 asset”.
+(c) In subsection (2)—
+(i) delete paragraph ( b), and
+(ii) in paragraph ( c)—
+(I) substitute “an
+exposure” for “adeposit of money”,and
+(II) substitute “subject of
+the exposure” for“holding thedeposit”.
+(d) Delete subsection (3).
+(e) In subsection (4)—
+(i) delete paragraph ( b), and
+(ii) in paragraph ( c)—
+(I) substitute “an
+exposure” for “adeposit of money”,and
+(II) substitute “subject of
+the exposure” for“hold the deposit”.
+(f) Substitute the following for
+subsection (5):
+“(5) In subsection (4), ‘primary
+financial obligation’ means thefinancial obligations thatenables the asset to qualify as apublic credit asset.”.
+2. Section 6 In subsection (1), delete paragraph
+(b).[2007.] [ No. 13.] Asset Covered Securities (Amendment)
+Act2007 .
+PART 3
+Deletion of definitions of “European Central
+Bank” and “national central bank”
+Item Section affected Amendment
+No.
+1. Section 3 In subsection (1), delete the
+definitions of “European CentralBank” and “national central bank”.
+61.—(1) This Act may be cited as the Asset Covered Securities
+(Amendment) Act 2007.
+(2) The Asset Covered Securities Act 2001 and this Act shall be
+construed together as one Act and may be cited together as the AssetCovered Securities Acts 2001 and 2007.
+(3) This Act shall come into operation on such day or days as the
+Minister for Finance may appoint by order or orders either generallyor with reference to any particular purpose or provision and differentdays may be so appointed for different purposes and differentprovisions.
+49S.60
+Short title,
+construction,collective citationandcommencement.

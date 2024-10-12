@@ -1,0 +1,697 @@
+————————
+Number 5of2007
+————————
+ELECTRICITY REGULATION (AMENDMENT) (SINGLE
+ELECTRICITY MARKET) ACT 2007
+————————
+ARRANGEMENT OF SECTIONS
+Section
+1. Citation and commencement.
+2. Definitions.3. Amendment of section 2 of Act of 1999.4. Single Electricity Market Committee.
+5. Commission and working arrangements as respects Single
+Electricity Market.
+6. Amendment of Section 9 of Act of 1999.7. Function of Commission relating to Single Electricity
+Market.
+8. Restriction on disclosure of information.9. Principal objective and functions of Minister, the Com-
+mission and SEM Committee in carrying out theirfunctions in relation to the Single Electricity Market.
+10. Performance of functions relating to Single Electricity
+Market.
+11. Amendment of section 10A of Act of 1999.12. Licences.13. Transitional power to modify licence conditions concerning
+Single Electricity Market, etc.
+14. Charges of Market Operator.15. Estimate of capacity, forecast flows and loading.16. Modifications to licences and authorisations and breaches of
+licence terms and conditions.
+17. Arrangements and agreements relating to transmission
+system and All-Island Transmission Networks.2[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+18. Amendment of Schedule 1 to Act of 1999.
+19. Insertion of Schedule 1A (Single Electricity Market
+Committee) to Act of 1999.
+20. Amendment of section 6 of Energy (Miscellaneous
+Provisions) Act 2006.
+SCHEDULE
+Schedule 1A to Act of 1999
+————————
+Acts Referred to
+Electricity and Gas Regulation Acts 1999 to 2002
+Electricity Regulation Act 1999 1999, No. 23Energy (Miscellaneous Provisions) Act 2006 2006, No. 40————————
+Number 5of2007
+————————
+ELECTRICITY REGULATION (AMENDMENT) (SINGLE
+ELECTRICITY MARKET) ACT 2007
+————————
+AN ACT TO AMEND THE ELECTRICITY REGULATION
+ACT 1999 TO PROVIDE FOR THE ESTABLISHMENTAND OPERATION OF A SINGLE COMPETITIVEWHOLESALE ELECTRICITY MARKET ON THE ISLANDOF IRELAND AND ITS ISLANDS AND TO PROVIDE
+FOR RELATED MATTERS.
+[5th March , 2007]
+BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
+1.—(1) This Act may be cited as the Electricity Regulation
+(Amendment) (Single Electricity Market) Act 2007.
+(2) This Act comes into operation on such day or days as the
+Minister may appoint by order or orders either generally or withreference to any particular purpose or provision and different daysmay be so appointed for different purposes or provisions.
+2.—In this Act—
+“Act of 1999” means Electricity Regulation Act 1999;“Minister” means Minister for Communications, Marine and
+Natural Resources.
+3.—Section 2 of the Act of 1999 is amended—
+(a) in subsection (1) by the insertion of the following
+definitions:
+“ ‘Authority’ means Northern Ireland Authority for Util-
+ity Regulation;
+‘Internal Market Regulations’ means the European Com-
+munities (Internal Market in Electricity) Regulations 2000and 2005;
+‘the Department’ means the Department of Enterprise,
+Trade and Investment in Northern Ireland;
+3Citation and
+commencement.
+Definitions.
+Amendment of
+section 2 of Act of1999.S.3
+4[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+‘the Memorandum of Understanding’ means the Memor-
+andum of Understanding relating to the establishment andoperation of a single competitive wholesale electricitymarket in the State and in Northern Ireland entered intobetween the Government of Ireland and the Governmentof the United Kingdom of Great Britain and NorthernIreland signed on behalf of the Government of Ireland on5 December 2006 and on behalf of the Government of theUnited Kingdom of Great Britain and Northern Irelandon 6 December 2006;
+‘public electricity supplier’ means the holder of a licence
+under section 14(1)( h);
+‘the SEM Committee’ means the committee referred to in
+Section 8A;
+‘SEM matter’ shall be construed in accordance with
+section 8A(5);
+‘the Single Electricity Market’ means the new arrange-
+ments in the State and Northern Ireland which are—
+(a) described in the Memorandum of Understand-
+ing, and
+(b) designed to promote the establishment and
+operation of a single competitive wholesaleelectricity market in the State and NorthernIreland;
+‘Single Electricity Market operator’ means the holder of a
+licence under section 14(1)( j) or a person exempted from
+the requirement to hold such a licence;”,
+and
+(b) by the insertion of the following subsection after subsec-
+tion (1):
+“(1A) ( a) Notwithstanding the definition of ‘Depart-
+ment’ in subsection (1) where the electricityfunctions of the Department of Enterprise,Trade and Investment in Northern Ireland are,under the law for the time being in force inNorthern Ireland, exercisable by any otherDepartment, Ministry or authority, referencesto the Department in this Act shall be con-strued as references to such other Department,Ministry or authority, as the case may be.
+(b) Notwithstanding the definition of ‘Authority’ in
+subsection (1) where the electricity functionsof the Authority are, under the law for the timebeing in force in Northern Ireland, exercisableby any other authority, Department, Ministry,person or statutory body, references to theAuthority in this Act shall be construed as ref-erences to such other authority, Department,Ministry, person or statutory body, as the casemay be.[2007.] [ No. 5.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+(c) In this subsection ‘electricity functions’ has the
+same meaning as it has in Article 9 of the Elec-tricity (Single Wholesale Market) (NorthernIreland) Order 2007.”.
+4.—The Act of 1999 is amended by the insertion after section 8 of
+the following:
+“Single
+ElectricityMarketCommittee.8A.—(1) There shall be a committee of the
+Commission to be known as the Single ElectricityMarket Committee or as the SEM Committee.
+(2) The SEM Committee shall comprise such
+members as stand appointed to it from time totime.
+(3) Schedule 1A applies to the SEM
+Committee.
+(4) Any decision as to the exercise of a relevant
+function of the Commission in relation to a SEMmatter shall be taken on behalf of the Commissionby the SEM Committee.
+(5) For the purposes of this Act a matter is a
+SEM matter if the SEM Committee determinesthat the exercise of a relevant function of theCommission in relation to that matter materiallyaffects, or is likely materially to affect, the SingleElectricity Market.
+(6) For the purposes of this section ‘relevant
+function’ means—
+(a) a function under this Act relating to
+electricity,
+(b) a function under the Internal Market
+Regulations.”.
+5.—The Act of 1999 is amended by the insertion after section 8A
+(inserted by section 4 of this Act) of the following:
+“Commission
+and workingarrangementsas respectsSingleElectricityMarket.8B.—(1) The Commission shall publish a
+statement—
+(a) setting out the procedures and working
+arrangements adopted by the Com-mission for ensuring compliance withsection 8A(4), and
+(b) describing how the Commission will
+work together with the Authority inthe exercise of their respective statu-tory functions in relation to the SingleElectricity Market.
+(2) A statement under this section may be
+amended from time to time and the Commission
+5S.3
+Single Electricity
+Market Committee.
+Commission and
+workingarrangements asrespects SingleElectricity Market.S.5
+Amendment of
+Section 9 of Act of1999.
+Function of
+Commissionrelating to SingleElectricity Market.
+6[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+shall as soon as practicable thereafter publish the
+statement as so amended.”.
+6.—Section 9 of the Act of 1999 is amended by—
+(a) the substitution in subsection (1E) of “subsection (1D) and
+section 9BA(3)” for “subsection (1D)”, and
+(b) the insertion after subsection (5) of the following:
+“(5A) Where the Single Electricity Market is in oper-
+ation, subsections (3), (4) and (5) shall not apply inrelation to a matter which is a SEM matter.”.
+7.—The Act of 1999 is amended by the insertion after section 9B
+of the following:
+“Functions of
+Commissionrelating toSingleElectricityMarket.9BA.—(1) In addition to the functions con-
+ferred on it by section 9, the Commission shallhave as a function, following consultation with theAuthority, the taking of all necessary steps(including the making of regulations under subsec-tion (2) to have effect in the State in connectiontherewith) to establish and facilitate the operationof the Single Electricity Market, including a Trad-ing and Settlement Code in relation to thatmarket.
+(2) ( a) The Commission may make regulations
+for the purposes of subsections (1)and (3).
+(b) Without prejudice to the generality of
+paragraph ( a) regulations under sub-
+section (1) may—
+(i) subject to paragraph (iii), require
+every person holding a licenceunder section 14(1)( a)t o( d) and
+(h) to make available for trading
+under the Single ElectricityMarket such electricity as is gener-ated by that person or available tothat person for supply,
+(ii) prescribe an amount of electricity
+to be a threshold quantity(expressed in megawatts) for thepurposes of paragraph (iii) andmay prescribe different amountsin relation to different classes oflicence holder,
+(iii) provide that a person holding a
+licence under section 14 who doesnot generate an amount of elec-tricity greater than the relevantthreshold quantity may, but is notrequired to, make available for[2007.] [ No. 5.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+trading under the Single Elec-
+tricity Market such electricity as isgenerated by that person.
+(3) In performing the function referred to in
+subsection (1) the Commission shall monitor,supervise and keep under review the operationand effectiveness of the Single Electricity Marketincluding the functions of the Single ElectricityMarket operator, and may make regulations undersubsection (2) in relation to the Single ElectricityMarket.”.
+8.—The Act of 1999 is amended by the insertion after section 9BA
+(inserted by section 7 of this Act) of the following:
+“Restriction
+on disclosureof information.9BB.—(1) ( a) This subsection applies to infor-
+mation received by the Minister or theCommission, which information hasbeen given to that person under or byvirtue of—
+(i) any provision of the law of
+Northern Ireland correspondingto a provision under this Act(including a condition in a licence,exemption or authorisationgranted under it) or the InternalMarket Regulations, or
+(ii) a licence, exemption or authoris-
+ation granted in Northern Irelandby the Department analogous to alicence, exemption or authoris-ation which may be granted by theCommission under this Act.
+(b) Subject to paragraph ( c), information to
+which this subsection applies shall notbe disclosed or published by the recipi-ent of the information unless—
+(i) that person is required or permitted
+to disclose that information—
+(I) under or by virtue of any
+enactment, or
+(II) by order of a Court exercising
+its jurisdiction,
+or
+(ii) such disclosure or publication is
+made for the purpose of facilitat-ing the performance of any of thefunctions of that person underthis Act.
+(c) The Minister and the Commission, to
+the extent that each of them believes it
+7S.7
+Restriction on
+disclosure ofinformation.S.8
+8[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+necessary or expedient for the effective
+operation of the Single ElectricityMarket, may share information withsuch persons exercising a function inNorthern Ireland in relation to elec-tricity which corresponds to any of thefunctions of the Commission or theMinister under—
+(i) the Electricity and Gas Regulation
+Acts 1999 to 2002, or
+(ii) the Internal Market Regulations,
+including information which is com-
+mercially sensitive, and informationwhich has been furnished to that per-son by the holder of a licence orexemption under section 14 or theholder of an authorisation undersection 16.
+(2) ( a) This subsection applies to information
+received by the holder of a licence, anexemption or an authorisation, whichinformation has been given to that per-son under or by virtue of—
+(i) this Act (including a condition of a
+licence, exemption or authoris-ation granted under it),
+(ii) the Internal Market Regulations,
+(iii) any corresponding provision of the
+law of Northern Ireland, or
+(iv) a licence, exemption or authoris-
+ation granted in Northern Irelandby the Department analogous to alicence, exemption or authoris-ation which may be issued by theCommission under this Act.
+(b) Information to which this subsection
+applies shall not be disclosed or pub-lished by the recipient of the infor-mation unless that person is requiredto disclose or publish thatinformation—
+(i) by reason of a condition in a
+licence, exemption or auth-orisation,
+(ii) under or by virtue of any enact-
+ment, or
+(iii) by order of a Court exercising its
+jurisdiction.”.[2007.] [ No. 5.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+9.—The Act of 1999 is amended by the insertion after section 9BB
+(inserted by section 8 of this Act) of the following:
+“Principal
+objective andfunctions ofMinister, theCommissionand SEMCommittee incarrying outtheir functionsin relation tothe SingleElectricityMarket.9BC.—(1) The principal objective of—
+(a) the Minister in carrying out his or her
+electricity functions in relation tomatters which the Minister considersmaterially affect, or are likely materi-ally to affect, the Single ElectricityMarket,
+(b) the Commission in giving effect to any
+decision of the SEM Committee, and
+(c) the SEM Committee in carrying out its
+functions under section 8A(4),
+is to protect the interests of consumers of elec-
+tricity in the State and Northern Ireland suppliedby authorised persons, wherever appropriate bypromoting effective competition between personsengaged in, or in commercial activities connectedwith, the sale or purchase of electricity through theSingle Electricity Market.
+(2) The Minister, the Commission and the SEM
+Committee shall carry out their respective func-tions referred to in subsection (1) in the mannerwhich each considers is best calculated to furtherthe principal objective, having regard to—
+(a) the need to secure that all reasonable
+demands for electricity in the State andNorthern Ireland are met,
+(b) the need to secure that authorised per-
+sons are able to finance the activitieswhich are the subject of conditions orobligations imposed by or under thisAct or the Internal Market Regu-lations or any corresponding provisionof the law of Northern Ireland,
+(c) the need to secure that the functions of
+the Minister, the Commission, theAuthority, and the Department inrelation to the Single ElectricityMarket are exercised in a co-ordinated manner,
+(d) the need to ensure transparent pricing
+in the Single Electricity Market, and
+(e) the need to avoid unfair discrimination
+between consumers in the State andconsumers in Northern Ireland.
+(3) The Minister, the Commission and the SEM
+Committee may, in carrying out any of the func-tions mentioned in subsection (1), have regard to
+9Principal objective
+and functions ofMinister, theCommission andSEM Committee incarrying out theirfunctions in relationto the SingleElectricity Market.S.9
+10[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+the interests of consumers in the State and
+Northern Ireland in relation to gas.
+(4) Subject to subsection (2), the Minister, the
+Commission and the SEM Committee shall carryout the functions mentioned in subsection (1) inthe manner which each of them consider is bestcalculated—
+(a) to promote efficiency and economy on
+the part of authorised persons,
+(b) to secure a diverse, viable and environ-
+mentally sustainable long-term energysupply in the State and NorthernIreland,
+(c) to promote research into, and the
+development and use of—
+(i) new techniques by or on behalf of
+authorised persons, and
+(ii) methods of increasing efficiency in
+the use and generation ofelectricity.
+(5) Subject to subsection (2), in carrying out
+any of the functions mentioned in subsection (1)the Minister, the Commission and the SEM Com-mittee shall have regard to—
+(a) the effect on the environment in the
+State and Northern Ireland of theactivities of authorised persons, and
+(b) the need, where appropriate, to pro-
+mote the use of energy from renewableenergy sources.
+(6) In carrying out any of the functions men-
+tioned in subsection (1) the Minister, the Com-mission and the SEM Committee shall not dis-criminate unfairly as regards terms andconditions—
+(a) between authorised persons, or
+(b) between persons who are applying to
+become authorised persons.
+(7) In this section—
+‘authorised person’ means the holder of a licence
+or exemption under a provision of this Act relatingto electricity or under any corresponding provisionof the law of Northern Ireland;
+‘electricity functions’ means—
+(a) functions under this Act, and[2007.] [ No. 5.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+(b) functions under the Internal Market
+Regulations,
+relating to electricity;‘environmentally sustainable’ includes the need to
+guard against climate change;
+‘renewable energy sources’ has the same meaning
+as in Directive 2003/54/EC of the European Parlia-ment and of the Council of 26 June 2003 concern-ing common rules for the internal market in elec-tricity and repealing Directive 96/92/EC
+1.”.
+10.—The Act of 1999 is amended by the insertion after section
+9BC (inserted by section 9 of this Act) of the following:
+“Performance
+of functionsrelating toSingleElectricityMarket.9BD.—The Minister, the Commission and the
+SEM Committee shall have regard to the objectivethat the performance of any of their respectivefunctions in relation to the Single ElectricityMarket should, to the extent that the personexercising the function believes is practical in thecircumstances, be transparent, accountable, pro-portionate, consistent and targeted only at caseswhere action is needed.”.
+11.—Section 10A of the Act of 1999 is amended—
+(a) in subsection (3)( a)—
+(i) by the substitution for subparagraphs (ii) and (iii) of
+the following:
+“(ii) the Joint Committee referred to in
+paragraph 26 of Schedule 1 of thisAct,
+(iii) the SEM Committee, and
+(iv) any other person the Minister deems
+appropriate,”,
+and
+(ii) to substitute “or publication under paragraph ( b),” for
+“or such publication,”,
+(b) by the insertion of the following subsection after subsec-
+tion (3):
+“(3A) The Minister, having provided a draft of the pro-
+posed direction to the persons referred to in subsection(3)(a) and having published a draft of that direction under
+subsection (3)( b), shall provide a draft of the proposed
+direction to the Department.”,
+(c) in subsection (4) by the substitution of “Subject to subsec-
+tion (4A), the Minister,” for “The Minister,” and
+1OJ No. L176, 17.07.2003, p.37
+11S.9
+Performance of
+functions relating toSingle ElectricityMarket.
+Amendment of
+section 10A of Actof 1999.S.11
+Licences.
+12[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+(d) by the insertion of the following subsection after subsec-
+tion (4):
+“(4A) The Minister shall not give a direction under
+subsection (1) where the SEM Committee has informedthe Minister that the proposed direction would materiallyaffect, or would be likely to materially affect, the SingleElectricity Market.”.
+12.—Section 14(1) of the Act of 1999 is amended—
+(a) in subsection (1)—
+(i) by the insertion in paragraph ( c) of “or section 9BA”
+after “section 9(1)( d)”,
+(ii) by the insertion in paragraph ( d) of “or section 9BA”
+after “section 9(1)( d)”,
+(iii) by the substitution in paragraph ( i) of “maintain an
+interconnector, or” for “maintain an intercon-nector,”, and
+(iv) by the insertion after paragraph ( i) of the following
+paragraph:
+“(j) to act as the Single Electricity Market
+operator,”,
+(b) by the insertion after subsection (2D) of the following sub-
+sections:
+“(2E) A licence under subsection (1) may include such
+terms and conditions relating to participation in and theoperation of the Single Electricity Market as the Com-mission considers necessary or expedient.
+(2F) The Commission may grant an exemption from
+the requirement to hold a licence to act as the Single Elec-tricity Market operator to a person who holds a licence toperform corresponding functions in Northern Ireland.”,
+and
+(c) by the insertion after subsection (14) of the following
+subsection:
+“(15) For the purposes of this section a person acts as
+Single Electricity Market operator if the responsibilities ofthat person include responsibility, pursuant to the Tradingand Settlement Code under the Single Electricity Market,for calculating charges and other payments due underthat code.”.[2007.] [ No. 5.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+13.—The Act of 1999 is amended by the insertion after section 14
+of the following new section:
+“Transitional
+power tomodify licenceconditionsconcerningSingleElectricityMarket.14A.—(1) The Commission may, in accordance
+with this section, modify the conditions of a part-icular licence where the Commission considers itnecessary or expedient to do so—
+(a) for the purpose of implementing, or fac-
+ilitating the operation of, the SingleElectricity Market, or
+(b) in consequence of, or for giving full
+effect to, those arrangements.
+(2) The power to modify licence conditions
+under this section includes the power—
+(a) to make modifications relating to the
+operation of the transmission systemor the distribution system, and
+(b) to make incidental, consequential or
+transitional modifications.
+(3) Conditions included in a licence by virtue
+of the power conferred by this section—
+(a) need not relate to the activity author-
+ised by the licence,
+(b) may require the holder of a licence
+under section 14(1)( e) to carry out the
+responsibilities referred to in section14(15) and to apply for or cause anaffiliated company or a subsidiarycompany to apply for a licence undersection 14(1)( j) in such form as may be
+approved by the Commission,
+(c) may do any of the things authorised by
+section 14,
+(d) may require the holder of a licence to
+enter into such new contracts or otherarrangements, or new contracts orother arrangements for such purposesor of such description, as may be speci-fied in or determined by or under theconditions,
+(e) may include provision for determining
+the terms on which such new contractsor other arrangements are to beentered into, including terms for thecontract or arrangement to be gov-erned by a law other than the law ofthe State,
+(f) may require the licence holder to amend
+or terminate, or agree to the amend-ment or termination of, such existing
+13Transitional power
+to modify licenceconditionsconcerning SingleElectricity Market,etc.S.13
+14[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+contracts or other arrangements, or
+existing contracts or other arrange-ments of such description, as may bespecified in or determined by or underthe conditions.
+(4) Before making modifications under this
+section, the Commission shall consult—
+(a) the holder of any licence being modi-
+fied, and
+(b) such other persons as the Commission
+considers appropriate.
+(5) Subsection (4) may be satisfied by consul-
+tation before, or after or both, the coming intooperation of this section.
+(6) Notwithstanding section 8A(4), consul-
+tation referred to in subsections (4) and (5) may,subject to subsection (8), be performed by theCommission otherwise than in accordance withsection 8A(4) where such consultation is perfor-med jointly with the Authority.
+(7) Notwithstanding section 8A, modifications
+under this section may, subject to subsection (8),be made by the Commission otherwise than inaccordance with section 8A(4), but in such eventit shall consult the Authority before making anysuch modification.
+(8) Subsections (6) and (7) shall cease to have
+effect where the SEM Committee referred to insection 8A has been appointed in accordance withSchedule 1A, but without prejudice to any thingsdone or steps taken prior to those subsectionsceasing to have effect.
+(9) The Commission shall publish any modifi-
+cations under this section in such manner as it con-siders appropriate.
+(10) The power of the Commission to modify a
+licence under this section may not be exercisedafter the end of the period of 2 years beginningwith the day on which this section comes intooperation.
+(11) Subject to subsection (12), nothing in this
+section prejudices the generality of any other
+power to modify a licence, and nothing in subsec-tion (2) or (3) prejudices the generality of subsec-tion (1).
+(12) Where a licence is modified under this
+section, sections 19 to 22 and sections 29 to 31 shallnot apply in relation to any such modification.”.[2007.] [ No. 5.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+14.—The Act of 1999 is amended by the insertion after section 36
+of the following sections:
+“Charges of
+MarketOperator.36A.—(1) Subject to subsection (2), within
+such time as the Commission may direct, theMarket Operator shall prepare a statement for theapproval of the Commission setting out the basison which charges are imposed in relation to par-ticipation in the trading arrangements under theSingle Electricity Market (in this section referredto as ‘the trading arrangements’).
+(2) The Commission may give directions to the
+Market Operator from time to time in respect ofthe basis for charges imposed for participation inthe trading arrangements.
+(3) Notwithstanding the generality of subsec-
+tion (2), directions given by the Commission underthis section may provide for—
+(a) the methods of charging to be included
+in the statement to be prepared by theMarket Operator,
+(b) the form and extent of information to
+be provided by the Market Operatorto persons participating in the tradingarrangements,
+(c) the form of charges and information
+about those charges to be included inthe statement to be prepared by theMarket Operator,
+(d) the procedure to be adopted in the sub-
+mission by the Market Operator of astatement of charges and the approvalby the Commission of such statement,and
+(e) the nature of information to be pro-
+vided to persons seeking to participatein the trading arrangements, and thepresentation and transparency of thatinformation, and the Market Operatorshall comply with directions given bythe Commission under this section.
+(4) Charges relating to participation in the trad-
+ing arrangements shall be calculated in accordancewith directions given by the Commission underthis section so as to enable the Market Operatorto recover—
+(a) the costs and expenses directly or
+indirectly incurred in operating thetrading arrangements, and
+(b) a reasonable rate of return on capital
+expenditure included in such costs.
+15Charges of Market
+Operator.S.14
+Estimate of
+capacity, forecastflows and loading.
+16[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+(5) The Commission, solely, will determine
+what constitutes a ‘reasonable rate of return’referred to in subsection (4)( b).
+(6) In this section and in section 36B, ‘Market
+Operator’ means the holder of a licence to act asthe Single Electricity Market operator grantedunder section 14(1)( j) or a person granted an
+exemption from the requirement to hold such alicence pursuant to section 14(2F).
+Approval by
+Commission ofstatement ofcharges ofMarketOperator.36B.—(1) The Market Operator shall send
+each statement prepared in accordance withsection 36A to the Commission for its approval (inthis section referred to as the ‘statement’) andsuch statement, and in particular any chargesreferred to in it, shall not apply until such time asit has been approved by the Commission.
+(2) The Commission shall consult with the
+Market Operator and have regard to any sub-mission made by the Market Operator to theCommission prior to making a decision as towhether or not to approve, as the case may be, astatement submitted by the Market Operator tothe Commission for approval.
+(3) A statement and, in particular, charges
+referred to in it, shall not take effect until suchtime as it is approved by the Commission, subjectto such modifications, if any, as the Commissionconsiders appropriate.”.
+15.—The Act of 1999 is amended by the substitution for section
+38 of the following section:
+“Estimate of
+capacity,forecast flowsand loading.38.—(1) On and after the commencement of
+this section, and at such intervals as the Com-mission may direct, the transmission system oper-ator shall prepare a statement, (to be known andin this Act referred to as a ‘forecast statement’)based on the information available to it, in a formapproved of by the Commission.
+(2) A forecast statement shall include forecasts
+in respect of capacity, forecast flows and loadingon each part of the transmission system of thetransmission system operator and fault levels foreach electricity transmission node together with:
+(a) such further information as shall be
+reasonably necessary to enable anyperson seeking use of the transmissionor distribution system to identify andevaluate the opportunities availablewhen connecting to and making use ofthe transmission or distribution system;
+(b) a statement identifying those parts of
+the transmission system of the trans-mission system operator most suited to[2007.] [ No. 5.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+new connections and to the transport
+of further quantities of electricity;
+(c) the generating capacity which is likely
+to be connected to the transmissionsystem;
+(d) the demand for electricity in the period
+to which the statement relates; and
+(e) a statement on the demand for elec-
+tricity generated from renewable, sus-tainable or alternative sources gener-ally and a statement on arrangementsfor the supply of electricity tocustomers who have opted to purchasesuch electricity.
+(3) The transmission system operator may
+revise from time to time the information set out inand, with the approval of the Commission, alterthe form of each forecast statement and shall, atleast once in every year, revise such statements.
+(4) The transmission system operator shall give
+a copy of a forecast statement and of each revisionof the forecast statement under subsection (3) tothe Commission.
+(5) Subject to subsection (6), the transmission
+system operator shall give a copy of a forecaststatement or, as the case may be, of the latestrevision of the forecast statement, to any personwho requests a copy of such statement or state-ments within fourteen days of the date that therequest was received.
+(6) The transmission system operator may, with
+the prior consent of the Commission, omit from aforecast statement given under subsection (4) anyconfidential details as to the capacity, loading orother information, where disclosure of that infor-mation would, in the opinion of the Commission,prejudice the commercial interests of the trans-mission system operator or any other person.
+(7) The transmission system operator may
+make a charge for each forecast statement givenunder subsection (4) of an amount which shall notexceed the maximum amount specified by theCommission for the purpose of this subsection.
+(8) In this section the period to which the fore-
+cast statement relates shall be seven calendaryears on and after the date on which the statementis prepared by the transmission system operator.
+(9) The transmission system operator shall con-
+sult with the Northern Ireland System Operatoron each occasion when it prepares, alters or variesa forecast statement.
+17S.15S.15
+Modifications to
+licences andauthorisations andbreaches of licenceterms andconditions.
+Arrangements and
+agreements relatingto transmissionsystem and All-Island TransmissionNetworks.
+18[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+(10) The preparation of any plan in accordance
+with this section shall, so far as practicable, be co-ordinated with the preparation of any equivalentdocument prepared by the Northern IrelandSystem Operator and such plans shall, so far aspossible, be prepared on a consistent basis.
+(11) In this section—
+‘Northern Ireland System Operator’ means the
+holder of a transmission licence granted underArticle 10(1)( b) of the Electricity (Northern
+Ireland) Order 1992 and who is, from time to time,designated by the Authority as the transmissionsystem operator for Northern Ireland.”.
+16.—(1) The Act of 1999 is amended—
+(a) in section 20(4)( a),
+(b) in section 21(2)( a),
+(c) in section 22(3)( b),
+(d) in section 24(10)( a),
+(e) in section 25(2)( a),
+by the substitution of “in the State, and (where the proposed modifi-
+cation relates to the Single Electricity Market) in Northern Ireland,and” for “in the State, and” wherever those words appear in thoseprovisions.
+(2) Section 20 of the Act of 1999 is amended by the insertion of
+the following subsection after subsection (8):
+“(9) Where a modification relates to the Single Electricity
+Market, the Commission shall have due regard in exercising itsfunctions under this section and sections 21 to 23 to the desir-ability of similar modifications (including similar modificationsin Northern Ireland) having effect at the same time.”.
+17.—The Act of 1999 is amended by the insertion after section
+34A (inserted by section 8 of the Energy (Miscellaneous Provisions)Act 2006) of the following section:
+“Arrangements
+andagreementsrelating totransmissionsystem andAll-IslandTransmissionNetworks.34B.—(1) Where the Single Electricity Market
+is in operation the Commission may direct thetransmission system operator to seek to enter intoand maintain in force such arrangements as arenecessary to—
+(a) enable the transmission system oper-
+ator, subject to such terms and con-
+ditions as may be specified by theCommission in any direction, to offerany person who makes an application[2007.] [ No. 5.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+pursuant to section 34(1), an agree-
+ment for connection to the trans-mission system or use of the All-IslandTransmission Networks,
+(b) enable the Northern Ireland System
+Operator to offer any person whomakes an application to the NorthernIreland System Operator, an agree-ment for connection to the NorthernIreland Transmission System or use ofthe All-Island Transmission Networks.
+(2) The Commission may make regulations for
+the purposes of subsection (1).
+(3) Without prejudice to the generality of sub-
+section (2), regulations under subsection (2)may—
+(a) prescribe those matters in respect of
+which the Commission may makedirections including, without limi-tation, directions in relation to—
+(i) the basis upon which payments are
+to be made by the transmissionsystem operator to the NorthernIreland System Operator and bythe Northern Ireland SystemOperator to the transmissionsystem operator, in each case inrelation to connection to thetransmission system, connectionto the Northern Ireland Trans-mission System and use of the All-Island Transmission Networks,and
+(ii) the method for determining the
+proportion of the costs to beborne by the person making anapplication for connection to thetransmission system and the pro-portion to be borne by the trans-mission system operator,
+(b) prescribe the circumstances in which the
+transmission system operator canrefuse to make an offer to an applicantto enter into an agreement for connec-tion to the transmission system or useof the All-Island TransmissionNetworks,
+(c) prescribe the circumstances in which the
+transmission system operator canrefuse to make an offer to enter intoan arrangement with the NorthernIreland System Operator pursuant to
+subsection (1),
+19S.17S.17
+Amendment of
+Schedule 1 to Actof 1999.
+20[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+(d) provide for the resolution of disputes
+between the transmission system oper-ator and any applicant for an offer toenter into an agreement for connectionto the transmission system or use ofthe All-Island Transmission Networksor any person who has entered into anagreement with the transmissionsystem operator for connection to thetransmission system or use of the All-Island Transmission Networks,
+(e) provide for the resolution of disputes
+between the transmission system oper-ator and the Northern Ireland SystemOperator in connection with anyarrangement entered into or sought tobe entered into pursuant to subsec-tion (1),
+(f) provide for the basis upon which
+charges are determined for connectionto the transmission system and for useof the All-Island Transmission Net-works, and
+(g) prescribe the circumstances (if any) in
+which the transmission system oper-ator shall continue to be obliged tomake an offer to enter into an agree-ment for connection to or use of thetransmission system pursuant to
+section 34(1).
+(4) In this section—
+‘All-Island Transmission Networks’ means the
+transmission system together with the NorthernIreland Transmission System;
+‘Northern Ireland System Operator’ means the
+holder of a transmission licence granted underArticle 10(1)( b) of the Electricity (Northern
+Ireland) Order 1992 and who is, from time to time,designated by the Authority as the transmissionsystem operator for Northern Ireland;
+‘Northern Ireland Transmission System’ shall have
+the meaning given to the term ‘transmissionsystem’ in the licence granted to the NorthernIreland System Operator under Article 10(1)( b)o f
+the Electricity (Northern Ireland) Order 1992.”.
+18.—Schedule 1 to the Act of 1999 is amended by the insertion
+after paragraph 7 of the following paragraph:
+“7A.—A member of the Commission who is appointed to be
+a member of the SEM Committee established by section 8A, ora corresponding Committee in Northern Ireland, shall not forthe purposes of paragraph 7 be regarded as holding any other[2007.] [ No. 5.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+office or employment in respect of which emoluments are
+payable.”.
+19.—The Act of 1999 is amended by the insertion after Schedule
+1 of the matter in the Schedule to this Act as Schedule 1A to theAct of 1999.
+20.—Paragraph ( c) of section 6 of the Energy (Miscellaneous
+Provisions) Act 2006 (which amends section 14(1)( d) of the Act of
+1999 with effect from a day to be appointed under section 1(2) ofthe Energy (Miscellaneous Provisions) Act 2006) is amended by thesubstitution of “section 9(1)( d) or section 9BA” for “section
+9(1)( d)”.
+SCHEDULE
+Schedule 1A to Act of 1999
+“SCHEDULE 1A
+Single Electricity Market Committee
+1. The SEM Committee shall consist of—(a) not more than 3 persons appointed by the Minister after
+consultation with the Commission,
+(b) not more than 3 persons appointed by the Minister, with
+the approval of the Department,
+(c) a person (the ‘independent member’) appointed by the
+Minister with the approval of the Department and after consul-tation with the Commission,
+(d) subject to the provisions of paragraph 3, where a person
+stands appointed under that paragraph, that person (the ‘deputyindependent member’).
+2. (a) A person appointed under paragraph (1)( a) shall be a
+member of the Commission.
+(b) A person appointed under paragraph (1)( b) shall be a
+member of, or a member of the staff of, the Authority.
+3. The Minister may, with the approval of the Department
+and after consultation with the Commission, appoint a person(the ‘deputy independent member’) who—
+(a) may attend and take part in meetings of the SEM Com-
+mittee, but,
+(b) may not vote on any matter except in the absence of the
+independent member.
+4. Paragraphs 5 to 12 apply in relation to the deputy indepen-
+dent member as they apply in relation to the independentmember.
+21S.18
+Insertion of
+Schedule 1A (SingleElectricity MarketCommittee) to Actof 1999.
+Amendment of
+section 6 of Energy(MiscellaneousProvisions) Act2006.
+Section 19.Sch.
+22[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+5. (a) Subject to this Schedule, the members shall hold and
+vacate office in accordance with the terms of their appointment.
+(b) Those terms of appointment shall be determined by the
+Minister with the approval of the Minister for Finance and theDepartment.
+6. A person shall not be appointed as a member for a term
+exceeding 5 years.
+7. A person holding office as a member may resign that office
+by giving notice in writing to the Minister and the Department.
+8. A person holding office as an independent member may
+be removed from office by the Minister with the approval of theDepartment on the grounds of incapacity or misbehaviour.
+9. A person holding office as a member under paragraph
+1(a)—
+(a) may be removed from office by the Minister—
+(i) on the grounds of incapacity or misbehaviour, or
+(ii) at the request of the Commission,
+(b) shall cease to hold office if he or she ceases to be a
+member of the Commission.
+10. A person holding office as a member under paragraph
+1(b)—
+(a) may be removed from office by the Minister with the
+approval of the Department—
+(i) on the grounds of incapacity or misbehaviour, or
+(ii) at the request of the Authority,
+(b) shall cease to hold office if he or she ceases to be a
+member of, or a member of the staff of, the Authority.
+11. A previous appointment as a member does not affect a
+person’s eligibility for appointment to that office.
+12. ( a) The Commission shall pay to the persons appointed
+under paragraph 1( c) and 3 such remuneration as may be deter-
+mined by the Minister with the consent of the Minister forFinance.
+(b) The Commission shall pay to the members such travelling
+and other allowances as may be determined by the Minister withthe consent of the Minister for Finance.
+13. ( a) The SEM Committee may establish sub-committees.
+(b) A sub-committee of the SEM Committee may include
+persons who are not members of the SEM Committee.
+14. ( a) Subject to the provisions of this Schedule, the SEM
+Committee may regulate its own procedures.[2007.] [ No. 5.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+(b) A person shall be treated for the purposes of those pro-
+cedures as being present at a meeting of the SEM Committeeif, in accordance with arrangements made under those pro-cedures, that person is able to hear and be heard by all thepersons participating in the meeting.
+(c) A meeting of the SEM Committee may be held outside
+the State.
+(d) The validity of anything done by the SEM Committee is
+not affected by a vacancy or vacancies in its membership or bya defect in the appointment of a member.
+15. The quorum for a meeting of the SEM Committee is—(a) the independent member (or the deputy independent
+member) and one other member, or
+(b) one member appointed under paragraph 1( a) and one
+member appointed under paragraph 1( b).
+16. ( a) A matter may be decided by agreement—
+(i) of all the members of the SEM Committee (whether
+at a meeting or not), or
+(ii) of all the members of the SEM Committee present at
+a meeting.
+(b) Where at any meeting of the SEM Committee all the
+members present are not agreed as to any matter falling to bedecided at that meeting, the following provisions of this para-graph apply.
+(c) The matter shall be put to a vote and may be decided by
+a majority of the votes cast.
+(d) For this purpose there shall be 3 votes of which—
+(i) the independent member (or the deputy independent
+member) if present shall have one,
+(ii) the members appointed under paragraph 1( a) who are
+present shall have one, and
+(iii) the members appointed under paragraph 1( b) who
+are present shall have one.
+(e) There shall be no casting vote, and accordingly where
+there is an equality of votes cast the matter shall not be decidedat the meeting (but may be decided at a later meeting).
+(f) In relation to a vote falling to be cast under clause (ii) or
+(iii) of paragraph ( d)—
+(i) where all the members mentioned in the clause con-
+cerned are agreed as to how the vote is to be cast,the vote shall be cast in that manner,
+(ii) where a majority of those members are agreed as to
+how the vote is to be cast, the vote shall be cast inthat manner,
+23Sch.Sch.
+24[No. 5.] [2007.] Electricity Regulation (Amendment)
+(Single Electricity Market) Act 2007 .
+(iii) in any other case, no vote shall be cast.
+(g) Nothing in this paragraph affects the application of para-
+graph 15.
+17. ( a) Anything which is authorised or required to be done
+by the SEM Committee may be done by—
+(i) any member of the SEM Committee who is author-
+ised for that purpose by the Committee, either gen-erally or specifically,
+(ii) any sub-committee of the SEM Committee which is
+so authorised, or
+(iii) any member of the staff of the Commission or the
+Authority who is so authorised.
+(b) Subparagraph ( a)(ii) does not apply to a sub-committee
+whose members include any person who is not a member, ormember of the staff, of the Commission or the Authority.”.
