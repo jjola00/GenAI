@@ -43,5 +43,7 @@ class LawyerFinder:
             return True
         return False
 
-finder = LawyerFinder('Capital Markets')
-finder.GetLawyer()
+# Example use case
+#finder = LawyerFinder('Capital Markets')
+#finder.GetLawyers()
+#print(finder.GetNameOfLawyer(finder.lawyers[1]))
