@@ -16,3 +16,4 @@ def scrape_statute(query):
     else:
         return None, "Statute not found."
 
+scrape_statute("Rape")

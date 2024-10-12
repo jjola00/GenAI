@@ -9,14 +9,14 @@ def get_legal_advice(user_question):
         "messages": [
             {
                 "role": "system",
-                "content": "You are a supportive assistant for individuals seeking legal advice."
+                "content": "You are a supportive assistant for individuals seeking legal advice. Who rights a sample document which will be sent to lawyer for easier communication."
             },
             {
                 "role": "user",
                 "content": user_question
             }
         ],
-        "max_tokens": 500,
+        "max_tokens": 10000,
         "temperature": 0.2,
         "top_p": 0.9,
         "return_citations": True,
