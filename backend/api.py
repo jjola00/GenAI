@@ -1,6 +1,6 @@
 from flask import Flask
 from flask import jsonify
-import main as legalAdvice
+import app as legalAdvice
 import lawyerFinder
 
 app = Flask(__name__)
