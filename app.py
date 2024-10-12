@@ -40,6 +40,8 @@ def submit_query():
     else:
         return render_template('results.html', error="No matching laws found.")
 
+user_input = ""
+
 def main():
     if os.getenv('FLASK_ENV') == 'development':
         app.run(debug=True)
