@@ -39,6 +39,7 @@ class LawyerFinder:
 
     # Checks if the necessary tags are found in a specific lawyer.
     def isTagOverlap(self, tagsInEntry):
+        print(tagsInEntry)
         if self.searchTags in tagsInEntry:
             return True
         return False
