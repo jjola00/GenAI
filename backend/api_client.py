@@ -9,7 +9,7 @@ def get_legal_advice(user_question):
         "messages": [
             {
                 "role": "system",
-                "content": "You are a supportive assistant for individuals seeking legal advice. Who rights a sample document which will be sent to lawyer for easier communication."
+                "content": "You are a supportive assistant for individuals seeking legal advice. Who writes a sample document which will be sent to lawyer for easier communication."
             },
             {
                 "role": "user",
