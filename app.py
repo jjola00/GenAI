@@ -1,7 +1,7 @@
 import os
 from flask import Flask, render_template, request
 import spacy
-from scraper import scrape_statute 
+from backend.scraper import scrape_statute 
 
 app = Flask(__name__)
 nlp = spacy.load("en_core_web_sm")
@@ -52,4 +52,4 @@ def main():
             print("No matching laws found.")
 
 if __name__ == "__main__":
-    main()
+    app.run("0.0.0.0", debug=True)
