@@ -1,7 +1,13 @@
 import os
 from flask import Flask, render_template, request
 import spacy
+<<<<<<< HEAD:app.py
 from backend.scraper import scrape_statute 
+=======
+from scraper import scrape_statute 
+from api_client import get_legal_advice
+from utils import validate_input
+>>>>>>> e84f8b75f7ac8c92ad8478abe6615d603293814c:backend/main.py
 
 app = Flask(__name__)
 nlp = spacy.load("en_core_web_sm")
@@ -43,15 +49,14 @@ def submit_query():
 user_input = ""
 
 def main():
-    if os.getenv('FLASK_ENV') == 'development':
-        app.run(debug=True)
+    user_input = input("Please enter your legal question: ")
+    
+    # Validate user input
+    if validate_input(user_input):
+        response = get_legal_advice(user_input)
+        print("Response:", response)
     else:
-        user_input = input("Please enter your legal question: ")
-        matched_laws = match_user_input_to_laws(user_input)
-        if matched_laws:
-            print(f"Found the following law(s): {matched_laws[0][0]}")
-        else:
-            print("No matching laws found.")
+        print("Invalid input. Please try again.")
 
 if __name__ == "__main__":
     app.run("0.0.0.0", debug=True)
