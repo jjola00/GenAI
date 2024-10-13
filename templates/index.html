@@ -24,13 +24,14 @@
     </div>
 
     <script>
+        var message = "";
         let firstMessage = true;
         // Function to automatically resize the textarea
         document.getElementById('searchInput').addEventListener('input', function () {
             this.style.height = 'auto'; // Reset the height first to get accurate scrollHeight
             this.style.height = this.scrollHeight + 'px'; // Set new height based on content
         });
-        
+
         function promptForPlaceholders(str) {
             const regex = /\[(.*?)\]/g;  // Regular expression to find text between []
             let match;
@@ -41,6 +42,7 @@
                 const prompt = document.createElement('p');
                 prompt.textContent = "Could you please enter "+match[1];
                 document.getElementById('message-display').appendChild(prompt);
+                // wait till messge is full again
                 str = str.replace(match[0], message);  // Replace the entire [placeholder] with user input
             }
             
@@ -48,7 +50,7 @@
         }
 
         function submitSearch() {
-            const message = document.getElementById('searchInput').value;
+            message = document.getElementById('searchInput').value;
             const messageElement = document.createElement('p');
             messageElement.textContent = message;
             document.getElementById('message-display').appendChild(messageElement);
@@ -65,14 +67,20 @@
                     .then(data => {
                         //console.log(data); // Handle the data from the API
                         const backendTxt = document.createElement('p');
-                        backendTxt.textContent = promptForPlaceholders(data);
+                        backendTxt.textContent = data;
                         document.getElementById('message-display').appendChild(backendTxt);
+                        layermessage = document.getElementById('searchInput').value;
+                        const lawyerText = document.createElement('p');
+                        lawyerText.textContent = "Might I recomend a lawyer\nPhilip Treacy from Coleman Legal Partners\n He specialises in Sexual Assault, Assault and other Criminal cases";
+                        document.getElementById('message-display').appendChild(lawyerText);
                     })
                     .catch(error => {
                         console.error('There was a problem with the fetch operation:', error);
                     });
-                    firstMessage = false;
+                firstMessage = false; 
             }
+            
+            message = "";
         }
 
         document.getElementById('searchInput').addEventListener('keypress', function(event) {
