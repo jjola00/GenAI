@@ -2,8 +2,10 @@ from flask import Flask, render_template, jsonify, request
 from api_client import get_legal_advice
 from utils import validate_input
 import lawyerFinder
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route('/')
 def index():
