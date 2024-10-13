@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Link to your external CSS file -->
-    <link rel="stylesheet" href="../frontend/static/css/ChatPage.css">
+    <link rel="stylesheet" href="../static/css/ChatPage.css">
     <title>Chat Page</title>
 </head>
 <body>
@@ -22,16 +22,30 @@
             <img src="../static/send.png" alt="Send">
         </button>
     </div>
-    <footer>
-        <p>&copy; ClubHub | Tom, JJ, Dara, Dawid</p>
-    </footer>
 
     <script>
+        let firstMessage = true;
         // Function to automatically resize the textarea
         document.getElementById('searchInput').addEventListener('input', function () {
             this.style.height = 'auto'; // Reset the height first to get accurate scrollHeight
             this.style.height = this.scrollHeight + 'px'; // Set new height based on content
         });
+        
+        function promptForPlaceholders(str) {
+            const regex = /\[(.*?)\]/g;  // Regular expression to find text between []
+            let match;
+            
+            // Loop through all matches
+            while ((match = regex.exec(str)) !== null) {
+                const placeholder = match[1];  // Extract the placeholder (e.g., 'name')
+                const prompt = document.createElement('p');
+                prompt.textContent = "Could you please enter "+match[1];
+                document.getElementById('message-display').appendChild(prompt);
+                str = str.replace(match[0], message);  // Replace the entire [placeholder] with user input
+            }
+            
+            return str;
+        }
 
         function submitSearch() {
             const message = document.getElementById('searchInput').value;
@@ -40,6 +54,25 @@
             document.getElementById('message-display').appendChild(messageElement);
             document.getElementById('searchInput').value = '';
             document.getElementById('searchInput').style.height = 'auto';
+            if(firstMessage) { 
+                fetch('http://127.0.0.1:5000/generate/'+message)
+                    .then(response => {
+                        if (!response.ok) {
+                        throw new Error('Network response was not ok ' + response.statusText);
+                        }
+                        return response.text(); // Parse the response as JSON
+                    })
+                    .then(data => {
+                        //console.log(data); // Handle the data from the API
+                        const backendTxt = document.createElement('p');
+                        backendTxt.textContent = promptForPlaceholders(data);
+                        document.getElementById('message-display').appendChild(backendTxt);
+                    })
+                    .catch(error => {
+                        console.error('There was a problem with the fetch operation:', error);
+                    });
+                    firstMessage = false;
+            }
         }
 
         document.getElementById('searchInput').addEventListener('keypress', function(event) {

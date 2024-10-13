@@ -7,6 +7,7 @@ body {
     flex-direction: column;
     height: 100vh;
     justify-content: space-between;
+    background: linear-gradient(to bottom right, #333333, #000000); /*Gradient of the background */ 
 }
 
 /* Styling for the top bar */
@@ -36,9 +37,10 @@ body {
 
 /* Styling for the message display section */
 #message-display {
-    margin-top: 70px; /* Space for the top bar */
+    margin-top: 100px; /* Space for the top bar */
     padding: 20px;
     min-height: 100px;
+    
 }
 
 /* Styling for the bottom bar */
@@ -100,4 +102,7 @@ body {
     word-wrap: break-word; /* Ensure long messages break onto new lines */
     overflow-wrap: break-word; /* Ensure continuous text breaks properly */
     white-space: normal; /* Text wraps onto new lines naturally */
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
 }
