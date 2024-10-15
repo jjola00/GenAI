@@ -31,7 +31,7 @@ def get_legal_advice(user_question):
     }
 
     headers = {
-        "Authorization": "Bearer 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",  # Replace with your actual API key
+        "Authorization": "Bearer API key",  # Replace with your actual API key
         "Content-Type": "application/json"
     }
 
